@@ -1,0 +1,8 @@
+﻿metric,value
+total_nodes,12223
+stop_nodes,11782
+route_nodes,441
+total_edges,31356
+connected_components,83
+largest_component_size,12141
+isolated_nodes,82

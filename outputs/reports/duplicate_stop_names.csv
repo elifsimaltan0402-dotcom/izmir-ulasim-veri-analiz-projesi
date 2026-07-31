@@ -1,0 +1,4451 @@
+﻿stop_name,stop_count
+Çiftlik,42
+Park,34
+Mezarlık,27
+Fahrettin Altay Aktarma Merkezi,25
+Köşe,25
+Market,24
+Okul,24
+Yıldız,24
+Çeşme,24
+Çiçek,23
+Tarla,22
+Trafo,22
+Sevgi,21
+Zeytin,21
+Siteler,20
+Sağlık Ocağı,19
+Zeytinlik,19
+Bahçe,18
+Benzinlik,18
+Papatya,18
+Tepe,18
+Bornova Metro,17
+Fabrika,17
+Bostanlı İskele,16
+Halkapınar Metro,16
+Köprü,16
+Zambak,16
+Çocuk Parkı,15
+Bahribaba,14
+Fırın,14
+Manolya,14
+Orkide,14
+Çınar,14
+İncir,14
+Ata,13
+Barış,13
+Dörtyol,13
+Fatih,13
+Palmiye,13
+Sümbül,13
+Umut,13
+Çam,13
+Akasya,12
+Aydın,12
+Defne,12
+Dere,12
+Doğa,12
+Jandarma,12
+Kahveler,12
+Kasap,12
+Konak,12
+Manzara,12
+Saha,12
+Kemer Aktarma Merkezi,11
+Sarmaşık,11
+Sera,11
+Uğur Mumcu,11
+Çamlık,11
+Emek,10
+Evka 3 Aktarma Merkezi,10
+Fevzi Çakmak,10
+Leylak,10
+Orman,10
+Ova,10
+Sanayi,10
+Yamaç,10
+Yasemin,10
+Yıldırım,10
+Bayır,9
+Demirci,9
+Maltepe,9
+Pazaryeri,9
+Söğüt,9
+İzsu,9
+Şirinyer Aktarma,9
+Ada,8
+Ardıç,8
+Badem,8
+Begonya,8
+Beşyol,8
+Cami,8
+Cumhuriyet,8
+Ege,8
+Ekin,8
+Esenlik,8
+Fabrikalar,8
+Fidanlık,8
+Göksu,8
+Gönül,8
+Hanımeli,8
+Hilal,8
+Huzur,8
+Karanfil,8
+Küme Evler,8
+Lojmanlar,8
+Mavi Köşe,8
+Mehmetçik,8
+Menekşe,8
+Mermerci,8
+Nergis,8
+Ovacık,8
+Sardunya,8
+Selvi,8
+Site,8
+Stad,8
+Yonca,8
+İnci,8
+İstiklal,8
+Başak,7
+Ceviz,7
+Depo,7
+Fatih Cami,7
+Fulya,7
+Halkapınar 2,7
+Hastane,7
+Kardelen,7
+Karşıyaka İskele,7
+Koruluk,7
+Merkez Cami,7
+Meydan,7
+Sarnıç Aktarma Merkezi,7
+Sedir,7
+Torbalı Aktarma,7
+Tınaztepe,7
+Vadi,7
+Çardak,7
+Çağdaş,7
+Öğretmen Evi,7
+Üst Geçit,7
+Üçyol Aktarma,7
+İskele,7
+Şahin,7
+Şehit Fethibey,7
+Alpaslan,6
+Anıt,6
+Asmalı,6
+Atatürk,6
+Bahar,6
+Bayrak,6
+Bloklar,6
+Cumaovası Aktarma Merkezi,6
+Cumhuriyet Sitesi,6
+Dede,6
+Dilek,6
+Düzlük,6
+Düğün Salonu,6
+Elif,6
+Eski Son Durak,6
+Fesleğen,6
+Fidan,6
+Güneş,6
+Hürriyet,6
+Kalabak,6
+Kamelya,6
+Kavak,6
+Kiraz,6
+Kolej,6
+Konutlar,6
+Lale,6
+Lavanta,6
+Maden,6
+Nar,6
+Plastik Fabrikası,6
+Pınar,6
+Santral,6
+Sağlık,6
+Selviler,6
+Seralar,6
+Spor Salonu,6
+Yakamoz,6
+Yağmur,6
+Yol Ayrımı,6
+Zeybek,6
+Zeytinyağı Fabrikası,6
+Çamlık Cami,6
+Çayırlı,6
+Çağlayan,6
+Çelik,6
+Çitlenbik,6
+Öğrenci Yurdu,6
+Üçyol,6
+Bakkal,5
+Barbaros,5
+Basket Sahası,5
+Belediye,5
+Birlik,5
+Buca Devlet Hastanesi,5
+Dereköy,5
+Dokuz Eylül,5
+Dostlar,5
+Doğan,5
+Egekent Aktarma Merkezi,5
+Emek Sitesi,5
+Eylül,5
+Eşrefpaşa,5
+Fen İşleri,5
+Güzeltepe,5
+Ilıca,5
+Kale,5
+Karakol,5
+Karaçam,5
+Marangoz,5
+Menemen Aktarma Merkezi,5
+Mimar Sinan,5
+Pazar Yeri,5
+Sahil,5
+Sahil Evleri,5
+Yunus Emre,5
+Zafer,5
+Çamtepe,5
+İnönü,5
+İğde,5
+7 Nolu Sağlık Ocağı,4
+Altınevler,4
+Altıntepe Cami,4
+Alışveriş Merkezi,4
+Ana Sağlığı,4
+Arslanlar Trafo,4
+Atatürk İlkokulu,4
+Aygün,4
+Açelya,4
+Ağaçlı Yol,4
+Bahçecik,4
+Bahçeler,4
+Bahçelievler,4
+Balıkçı,4
+Baraj Yolu,4
+Barış Sitesi,4
+Basketbol Sahası,4
+Benzin İstasyonu,4
+Beyaz Ev,4
+Beşevler,4
+Birinci Sanayi Sitesi,4
+Bozköy,4
+Buca Üçkuyular Meydan,4
+Buruncuk,4
+Bölge Trafik,4
+Camcı,4
+Daryol,4
+Demircili,4
+Değirmen,4
+Dostlar Sitesi,4
+Dostluk,4
+Dumlupınar,4
+Düzyol,4
+Eczane,4
+Egemenlik,4
+Emniyet,4
+Erguvan,4
+Esbaş,4
+Esentepe,4
+Eser,4
+Eshotçular Sitesi,4
+Eski Küçükbahçe,4
+Eski Mordoğan,4
+Eğlenhoca,4
+Florya,4
+Gaziemir Belediyesi,4
+Gediz,4
+Gelincik,4
+Gerenköy Dörtyol,4
+Germiyan Restoran,4
+Gerçekli,4
+Gölet,4
+Görece Giriş,4
+Görece Çıkış,4
+Göztepe,4
+Göçbeyli Çocuk Bahçesi,4
+Gül,4
+Güneş Sitesi,4
+Güneş Tarlası,4
+Gürgen,4
+Gürsel,4
+Hacı Bayram Cami,4
+Hasan Çavuş,4
+Havuzlu Kahve,4
+Hercai,4
+Hoca,4
+Hükümet Konağı,4
+Işık,4
+Kahve,4
+Kamp,4
+Kanal,4
+Kanalboyu,4
+Kantar,4
+Karacaoğlan,4
+Karakuyu Meydan,4
+Karakuyu Mezarlık,4
+Karakuyu Zeytinlik,4
+Karakuyu Çıkış,4
+Karateke,4
+Karayolları,4
+Kasımpatı,4
+Katip,4
+Kazım Dirik,4
+Kekliktepe,4
+Kemal Tahir,4
+Kestelli,4
+Kurtuluş,4
+Körfez,4
+Kösedere Çıkış,4
+Kültür Merkezi,4
+Kütüphane,4
+Kır Düğün Salonu,4
+Liman,4
+Lise,4
+Lodos,4
+Maliyeciler,4
+Maltepe Giriş,4
+Maltepe Üçyol,4
+Manav,4
+Mavi Deniz,4
+Medeniyet,4
+Mehmet Akif Ersoy,4
+Mermer Fabrikası,4
+Mezarlıkbaşı,4
+Meşe,4
+Meşelik,4
+Mobilyacılar,4
+Montrö,4
+Muhtarlık,4
+Mutlu,4
+Müjde,4
+Naldöken,4
+Nar Ağacı,4
+Nar Çiçeği,4
+Narlık,4
+Nazım Hikmet Parkı,4
+Nezahat Onbaşı,4
+Organize Sanayi,4
+Orta,4
+Oruç Reis,4
+Osman Gazi,4
+Otel,4
+Otogar Yeni,4
+Payamlı Giriş,4
+Portakal,4
+Rektörlük,4
+Saka,4
+Samyeli,4
+Saraç,4
+Sarı Zeybek,4
+Sarılar,4
+Seyit Onbaşı,4
+Simge Sitesi,4
+Soyak,4
+Spor Kompleksi,4
+Spor Sahası,4
+Su Deposu,4
+Suphi Koyuncu,4
+Surlar,4
+Süleymanlı Giriş,4
+Tariş,4
+Taş Duvar,4
+Taşkent,4
+Tekel,4
+Telsizler,4
+Terminal,4
+Tire Fabrika,4
+Toki Okul,4
+Toprak,4
+Torbalı Diş Hastanesi,4
+Tuna,4
+Turna,4
+Ulaştırma,4
+Uysal,4
+Vatan,4
+Vicdan,4
+Villa,4
+Yalı,4
+Yamaçevler,4
+Yapı Market,4
+Yenikent,4
+Yeniköy Giriş,4
+Yeniköy Yolu,4
+Yeşilkent,4
+Yeşilköy,4
+Yeşilyurt Devlet Hastanesi,4
+Yol,4
+Yörük,4
+Zeytin Ağacı,4
+Zeytin Dalı,4
+Zeytinler,4
+Zeytintepe,4
+Zirve,4
+Çakırtepe,4
+Çamlar,4
+Çamönü Orman,4
+Çankaya,4
+Çarşı,4
+Çağrı,4
+Çiftçi Gediği Köy Yolu,4
+Çilek,4
+Çileme Yolu,4
+Çiçekçiler,4
+Çiğli Aktarma Merkezi,4
+Önder,4
+Ören,4
+Öztürk,4
+Öğretmen,4
+İnkılap,4
+İnönü Mahallesi,4
+İrem,4
+İş Bankası Evleri,4
+Şehit,4
+Şehit Muzaffer Erdönmez İlkokulu,4
+Şehitler,4
+Şehitler Parkı,4
+Şirintepe,4
+Adnan Saygun Sanat Merkezi,3
+Alsancak Gar,3
+Altıntaş,3
+Arıtma Tesisi,3
+Asansör,3
+Atatürk Caddesi,3
+Atmaca,3
+Ağaçlıyol,3
+Bahriye Üçok,3
+Balkan,3
+Balçova İstasyon,3
+Balıklıova,3
+Bağcılar Çeşme,3
+Belevi İstasyon,3
+Betonyol,3
+Briketçi,3
+Buca Oyak Sitesi,3
+Cumhuriyet Ortaokulu,3
+Demokrasi Meydanı,3
+Demokrasi Üniversitesi,3
+Dispanser,3
+Eski Mezarlık,3
+Eski Sinema,3
+Eğerci Kara Selviler,3
+Eğridere Meydan,3
+Fabrikalar 2,3
+Flamingo Sitesi,3
+Güler,3
+Günaltay,3
+Güven,3
+Halk,3
+Havalimanı,3
+Heykel,3
+Işıkkent Mezarlık,3
+Işıklar,3
+Karakuyu Cami,3
+Kavacık,3
+Kavaklı,3
+Kozağaç,3
+Kubilay,3
+Kızılcık,3
+Mandıra,3
+Mektupçu,3
+Menemen Devlet Hastanesi,3
+Onur,3
+Orman İşletmesi,3
+PTT,3
+Payamlı,3
+Rafet Paşa,3
+Saklıbahçe,3
+Sanayi Sitesi,3
+Sancaklı Meydan,3
+Sarısalkım,3
+Sempati,3
+Sevgi Yolu,3
+Seçkinler Sitesi,3
+Termal,3
+Turgut Reis,3
+Tınaztepe Yerleşke Son Durak,3
+Ulukent İlköğretim Okulu,3
+Uğur Mumcu Parkı,3
+Yaşam,3
+Yener,3
+Yeni Cami,3
+Yeni Kent,3
+Yeni Mezarlık,3
+Yeniköy Küme Evleri,3
+Yeşilyurt,3
+Yıldırım Beyazıt Cami,3
+Ziya Gökalp,3
+Çobançeşme,3
+Çıkış,3
+Ödemiş Cezaevi,3
+Örnekköy,3
+Öğretmen Evleri,3
+Üçkuyular İskele Son Durak,3
+İktisadi ve İdari Bilimler Fakültesi,3
+İsmet Paşa,3
+Şahin Tepesi,3
+Şato,3
+Şehit Üsteğmen Ahmet Konuksever,3
+Şen,3
+1 Nolu Sağlık Ocağı,2
+100.Yıl İlkokulu,2
+112 Acil Yardım,2
+13.Nis,2
+15 Temmuz Şehitler Anadolu Lisesi,2
+2 Nolu Çağdaş Kahraman Sağlık Ocağı,2
+2. Etap,2
+23.Nis,2
+26 Ağustos Kapısı,2
+30 Ağustos İlköğretim Okulu,2
+35 Evleri,2
+4. Cadde,2
+4. Etap,2
+4. Sanayi Ege,2
+4. Sanayi Güven,2
+4. Sanayi Trafo,2
+5. Etap,2
+5. Etap Üst Yol,2
+6. Etap,2
+6. Etap Tepe,2
+7 Eylül,2
+7. Etap,2
+7. Etap Tepe,2
+8. Etap,2
+9 Eylül,2
+9 Eylül Muhtarlık,2
+95 Evler,2
+Acarlar,2
+Acer,2
+Acil Servis,2
+Adalet Mahallesi,2
+Adatepe,2
+Adatepe Park,2
+Adatepe Son Durak,2
+Adatepe Villaları,2
+Adatepe Üçgen Park,2
+Adem Saatçi Ortaokulu,2
+Adem Yavuz,2
+Adem Yavuz Parkı,2
+Adil Akçamlı,2
+Adil Demir Sitesi,2
+Adil İçel İlkokulu,2
+Adile Naşit Parkı,2
+Adliye,2
+Adliye Lojmanları,2
+Adliyeciler Sitesi,2
+Adnan Kahveci,2
+Adnan Kahveci Parkı,2
+Adnan Menderes Anadolu Lisesi,2
+Adnan Menderes İlkokulu,2
+Afet Haberleşme,2
+Afetevleri,2
+Ahmallı,2
+Ahmet Beyli Çiftlik,2
+Ahmet Hamdi Tanpınar,2
+Ahmet Necdet Sezer,2
+Ahmet Ragıp Üzümcü İlkokulu,2
+Ahmet Taner Kışlalı,2
+Ahmet Yesevi,2
+Ahmet Yesevi Cami,2
+Ahmet Yesevi Öğrenci Yurdu,2
+Ahmetbeyler,2
+Ahmetbeyler Cami,2
+Ahmetbeyli Cami,2
+Ahmetbeyli Jandarma,2
+Ahmetbeyli Kahveler,2
+Ahmetbeyli Market,2
+Ahmetbeyli Yolayrımı,2
+Ahmetbeyli Çeşme,2
+Ahmetbeyli Çiftlik Evleri,2
+Ahmetli,2
+Ahmetli Zeytinlik,2
+Ahmetli Çamlık,2
+Ahmetli Çıkış,2
+Ahıska,2
+Ahşap Ev,2
+Aile Sağlığı Merkezi,2
+Akalan Köy İçi,2
+Akalan Park,2
+Akalan Sütçüler Okul,2
+Akalan Yan Yol,2
+Akalan Yol Ayrımı,2
+Akalan Çiftlik,2
+Akarca,2
+Akarca Adakent Sitesi,2
+Akarca Balköy,2
+Akarca Balıkçı Barınağı,2
+Akarca Dörtyol,2
+Akarca Elitkent Sitesi,2
+Akarca Elmastaş Sitesi,2
+Akarca Esenevler,2
+Akarca Giriş,2
+Akarca Halk Plajı,2
+Akarca Kervansaray,2
+Akarca Manzara,2
+Akarca Otel,2
+Akarca Sahil,2
+Akarca Seyir,2
+Akarca Siteler,2
+Akarca Tuzla,2
+Akarca İltur Sitesi,2
+Akarca İşcan Sitesi,2
+Akasma,2
+Akasyalar,2
+Akburun,2
+Akdemir Parkı,2
+Akevler,2
+Akgül,2
+Akgün Sitesi,2
+Akif Ersezgin Lisesi,2
+Akiş Öğütçü İlköğretim Okulu,2
+Akkoca Tavuk Çiftliği,2
+Akkoyunlu,2
+Akkoyunlu Mezarlık,2
+Akkoç,2
+Akkum Yolu,2
+Akkız,2
+Akmeşe,2
+Aksan,2
+Aksu,2
+Aktar,2
+Aktaş Cami,2
+Aktaşlar,2
+Aktepe,2
+Aktepe Cami,2
+Aktepe Giriş,2
+Aktepe Meşe,2
+Aktepe Polis Lojmanları,2
+Akyüz,2
+Akça,2
+Akçaalan,2
+Akçaağaç,2
+Akçaköy  İncir Fabrikası,2
+Akçaköy Yol Ayrımı,2
+Akçaköy Yolu,2
+Akçaşehir,2
+Akçeşme,2
+Akıncılar Cami,2
+Akıncılar Merkez,2
+Akşemsettin İlkokulu,2
+Alan,2
+Alan Çiftliği,2
+Alaniçi Giriş,2
+Alaniçi Meydan,2
+Alaniçi Yol Ayrımı,2
+Alaniçi Çıkış,2
+Alanköy,2
+Alankıyı Bahçe,2
+Alankıyı Dörtyol,2
+Alankıyı Giriş,2
+Alankıyı Yol Ayrımı,2
+Alankıyı Yolu,2
+Alaylı Yolu,2
+Alaçatı Atatürk,2
+Alaçatı Dostluk,2
+Alaçatı Güneş,2
+Alaçatı Mavi,2
+Alaçatı Sanayi,2
+Alaçatı Stadı,2
+Alaçatı Çamlı,2
+Alaçatı Çiçek,2
+Alaşarlı,2
+Albatros,2
+Albay İbrahim Karaoğlanoğlu,2
+Albayrak Mavişehir Evleri,2
+Ali Akatlar,2
+Ali Fuat Cebesoy İlkokulu,2
+Ali Fuat Erden Mahallesi,2
+Ali Fuat Erden Mahallesi Muhtarlığı,2
+Ali Kuşçu İlkokulu,2
+Ali Rıza Efendi İlkokulu,2
+Ali Rıza Güven Cami,2
+Ali İhsan Bey,2
+Aliağa Balıkçı Barınağı,2
+Aliağa Devlet Hastanesi,2
+Aliağa Kamyon Garajı,2
+Aliağa Liman,2
+Aliağa Mesleki ve Teknik Anadolu Lisesi,2
+Aliağa Organize Sanayi Yol Ayrımı,2
+Aliağa Park,2
+Aliağa Sahil,2
+Aliağa Sanayi,2
+Aliağa Terminal İçi,2
+Aliağa İlçe Emniyet Müdürlüğü,2
+Aliağa İskele,2
+Alize,2
+Alkent,2
+Alp,2
+Alparslan Mahallesi Muhtarlık,2
+Alsancak Devlet Hastanesi,2
+Alt Geçit,2
+Altmışıncı Yıl Anadolu Lisesi,2
+Altyüz Köprüsü,2
+Altın,2
+Altıncı Sanayi,2
+Altındağ Atatürk Kültür Merkezi STK Yerleşke,2
+Altındağ Belediyesi,2
+Altınkent,2
+Altınköy Sitesi,2
+Altınköy yolu,2
+Altınordu Tesisleri,2
+Altınova Sitesi,2
+Altıntepe Nefes,2
+Altıntepe Sera,2
+Altıntepe Tarım,2
+Altıntepe Çiftçi,2
+Altıntepe İlkokulu,2
+Altınyağ,2
+Alıç,2
+Ambarseki,2
+Ambarseki  Filiz,2
+Amber,2
+Amerikan Koleji,2
+Ana Jet Üssü,2
+Anadolu Cami,2
+Anadolu Lisesi,2
+Anafartalar,2
+Anaokulu,2
+Anemon,2
+Ankara Caddesi,2
+Ansızca Cami,2
+Ansızca Giriş,2
+Antik,2
+Anıt Park,2
+Apan Çeşme,2
+Ar Konutları,2
+Arap Deresi,2
+Arap Mahallesi,2
+Arap Çeşmesi,2
+Arkacılar,2
+Arkacılar Bulut,2
+Arko Sitesi,2
+Armola,2
+Armutlu 1 Küme,2
+Armutlu Mera,2
+Armutlu Merkez,2
+Armutlu Mezarlık,2
+Armutlu Ortaokulu,2
+Armutlu Park,2
+Armutlu Sağlık Ocağı,2
+Armutlu İnlik,2
+Armutluk,2
+Arpa Deresi,2
+Arslanlar Çıkış,2
+Arya,2
+Arı Deresi,2
+Arıkbaşı Akçam,2
+Arıkbaşı Kahveler,2
+Arıkbaşı Okul Yolu,2
+Arıkent,2
+Arıtma,2
+Asarlık Giriş,2
+Asarlık Köprü,2
+Asarlık Mezarlık,2
+Asarlık Park,2
+Asarlık Pazar Yeri,2
+Asarlık Polis Merkezi,2
+Asarlık Toki Evleri,2
+Asarlık Toki Evleri Tepe,2
+Asarlık Toki Evleri Trafo,2
+Asarlık Toki Evleri Üçyol,2
+Asfalt,2
+Asiler,2
+Askeri Birlik,2
+Aslan,2
+Aslanağazı,2
+Aslanlar,2
+Asma,2
+Asmadere Koyu,2
+Asmaderesi,2
+Astsubay Lojmanları,2
+Asır,2
+At Çiftliği,2
+Ata Durağı,2
+Ataberk,2
+Atakent Anadolu Lisesi,2
+Ataköy Giriş,2
+Ataköy Güven,2
+Ataköy Mezarlık,2
+Ataköy Mina,2
+Ataköy Çiftlik,2
+Ataköy Çıkış,2
+Atalan,2
+Atalan Aile Sağlığı Merkezi,2
+Atatürk Bulvarı,2
+Atatürk Mahallesi Gezer,2
+Atatürk Mahallesi Nergis,2
+Atatürk Mahallesi TOKİ İlkokulu,2
+Atatürk Mahallesi Toki Evleri 1,2
+Atatürk Mahallesi Toki Evleri 2,2
+Atatürk Mahallesi Zirve,2
+Atatürk Ortaokulu,2
+Atatürk Spor Lisesi Giriş,2
+Atatürk İlköğretim Okulu,2
+Ataşehir Köprü,2
+Ataşehir Mahallesi Parkı,2
+Atik,2
+Atletizm,2
+Atlı Spor Kulübü,2
+Atölye,2
+Avcı,2
+Avşar Sitesi,2
+Ay,2
+Ayakkabıcılar Sitesi,2
+Ayakkabıcılar Sitesi Cami,2
+Ayaskent Aile Sağlık Merkezi,2
+Ayaskent Benzinlik,2
+Ayaskent Meydan,2
+Ayaskent Zeytinyağı Fabrikası,2
+Ayaskent İlyas Deresi,2
+Ayaskent İrfan Kırdar İlkokulu,2
+Aydibi,2
+Aydın Erten Parkı,2
+Aydın Mahallesi Eski Son Durak,2
+Aydın Parkı,2
+Aydınkent,2
+Aydınlar Caddesi,2
+Aydınlar Köşe,2
+Aydınlıkevler Cami,2
+Aydınlıkevler Muhtarlık,2
+Aydınlıkevler Park,2
+Aydınoğlu Mehmetbey İlkokulu,2
+Aykaş,2
+Aynısefa,2
+Ayrancılar Anadolu Lisesi,2
+Ayrancılar Barış,2
+Ayrancılar Gölet,2
+Ayrancılar Mezarlık,2
+Ayrancılar Petrol Ofisi,2
+Ayrancılar TOKİ,2
+Ayrancılar Toki Giriş,2
+Ayrancılar Un Fabrikası,2
+Ayrancılar Yeni TOKİ,2
+Ayrancılar Çıkış,2
+Ayrancılar İlkokulu,2
+Ayvacık Girişi,2
+Ayvacık Park,2
+Ayvacık Çıkış,2
+Ayvalık Küme Evleri,2
+Ayvatlar Giriş,2
+Ayvatlar Köy İçi,2
+Ayvatlar Merkez,2
+Ayyıldız,2
+Ayçiçeği,2
+Azelya,2
+Azerbaycan,2
+Aziz Erol Güzelcan Mesleki ve Teknik Anadolu Lisesi,2
+Aziziye Atatürk Parkı,2
+Azmak,2
+Azmak Yol Ayrımı,2
+Ağalar Deresi,2
+Ağaçlıyol Benzinlik,2
+Ağır Bakım,2
+Ağız ve Diş Sağlığı Fakültesi,2
+Aşağı Boyabağ,2
+Aşağı Kızılca,2
+Aşağı Kızılca Yol Ayrımı,2
+Aşağı Sancaklı Giriş,2
+Aşağı Vişneli,2
+Aşağı Yenmiş Köyü Girişi,2
+Aşağı Çeşme,2
+Aşağıbey,2
+Aşağıbey Camii,2
+Aşağıbey Giriş,2
+Aşağıbey Köy İçi Yolu,2
+Aşağıbey Muhtarlık,2
+Aşağıbey Okul,2
+Aşağıbey Son Durak,2
+Aşağıcuma Giriş,2
+Aşağıcuma Meydan,2
+Aşağıcuma Okul,2
+Aşağıcuma Taş Ocağı,2
+Aşağıcuma Yolu,2
+Aşağıkırıklar Cami,2
+Aşağıkırıklar Fabrika,2
+Aşağıkırıklar Giriş,2
+Aşağıkırıklar Mezarlık Giriş,2
+Aşağıkırıklar Mezarlık Çıkış,2
+Aşağıkırıklar Çiftlik,2
+Aşağıkırıklar Çıkış,2
+Aşağıkırıklar İlkokulu,2
+Aşağıkızılca Fabrika,2
+Aşık Veysel Rekreasyon Alanı,2
+Aşık Veysel Şatıroğlu Parkı,2
+BMC,2
+Badem Ağacı,2
+Badembükü Yol Ayrımı,2
+Bademler,2
+Bademler Benzin İstasyonu,2
+Bademler Bozyer,2
+Bademler Dere,2
+Bademler Giriş,2
+Bademler Gödence,2
+Bademler Kooperatif,2
+Bademler Küçükevler,2
+Bademler Ortaokulu,2
+Bademler Park,2
+Bademler Tarla,2
+Bademler Çıkış,2
+Bademlik,2
+Bahar Yeli,2
+Bahar Yıldırım İlkokulu,2
+Bahriye Üçok Mahallesi Köprü,2
+Bahçe Arası,2
+Bahçeiçi,2
+Bahçeköy,2
+Bahçelerarası,2
+Bahçelerarası Merkez,2
+Bahçelerarası Muhtarlık,2
+Bahçeli,2
+Bahçeşehir Koleji,2
+Bakü Parkı,2
+Bakırçay,2
+Bakırçay Lisesi,2
+Balatçık Kahveler,2
+Balcı,2
+Ballıkuyu Eski Son Durak,2
+Ballıkuyu Çeşme,2
+Baltaalanı,2
+Balıklıova Depo,2
+Balıklıova Gökkuşağı,2
+Balıklıova Merkez,2
+Balıklıova Ortaokulu,2
+Balıklıova Yolu,2
+Balıklıova İ.Ö.O,2
+Balıkçı Barınağı,2
+Balıkçı Kahvesi,2
+Balıkçı Kulesi,2
+Banka,2
+Bankalar,2
+Baraj,2
+Barbaros Cami,2
+Barbaros Hayrettin İlkokulu,2
+Barbaros Tarla,2
+Barbaros Yol ayrımı,2
+Bardakçı,2
+Bardakçılar,2
+Barutçu Yol Ayrımı,2
+Barış Manço,2
+Barış Merdivenleri,2
+Barış Selçuk Parkı,2
+Basmane Gar,2
+Basın Sitesi,2
+Bayatlı,2
+Bayatlı Çıkış,2
+Baydar,2
+Bayraklı Depo,2
+Bayraklı Evleri,2
+Bayraklı Lisesi,2
+Bayraklı Siteler,2
+Bayraklı Çamlık,2
+Bayraklı Çocuk Parkı,2
+Bayraklı Üst Geçit,2
+Bayraklı İstasyon,2
+Bayraktar,2
+Bayraktar Sitesi,2
+Bayraktepe,2
+Bayram Kahya,2
+Bayramyeri,2
+Bayındır Anadolu Lisesi,2
+Bayındır Fatih İlkokulu,2
+Bayındır Giriş,2
+Bayındır Gül,2
+Bayındır Leylak,2
+Bayındır Meslek Yüksek Okulu,2
+Bayındır Meşe,2
+Bayındır Sadık Susamcıoğlu Anadolu Lisesi,2
+Bayındır Sanayi,2
+Bayındır Tariş,2
+Bayındır Yağcı,2
+Bayındır Zeytin,2
+Bayındır Çınar,2
+Bayındır Çırpı İlkokulu,2
+Bazilika,2
+Bağ Arası,2
+Bağ Bozumu,2
+Bağarası Atatürk Parkı,2
+Bağarası Atölye,2
+Bağarası Buz,2
+Bağarası Giriş,2
+Bağarası Küçük Sanayi,2
+Bağarası Mavi,2
+Bağarası Çarşı,2
+Bağcılar Köprü,2
+Bağcılar Meydan,2
+Bağcılar Tepe,2
+Bağyurdu Cami,2
+Bağyurdu Son Durak,2
+Bağyurdu Spor Tesisleri,2
+Bağyurdu Üçyol,2
+Başakkent Sitesi,2
+Başaran,2
+Başpınar,2
+Begonvil,2
+Begos,2
+Begovilya,2
+Behçet Uz Anadolu Lisesi,2
+Belediye Ek Hizmet Binası,2
+Belediye Evleri,2
+Belen Eski Okul,2
+Belen Kümeevler,2
+Belen Meydan,2
+Belen Yayla,2
+Belenbaşı Yol Ayrımı,2
+Belevi,2
+Belevi Depolar,2
+Belevi Karayolları Şantiye,2
+Belevi Kavşak,2
+Belevi Meydan,2
+Belevi Çiftlik,2
+Belkahve Çay Bahçesi,2
+Benefşe,2
+Berber,2
+Bergama Begonya,2
+Bergama Hastane,2
+Bergama Höyük,2
+Bergama Kantar,2
+Bergama Meslek Yüksek Okulu,2
+Bergama Park,2
+Bergama Salkım,2
+Bergama Sanayi,2
+Bergama Sardunya,2
+Bergama Tuna,2
+Bergama Zeytinlik,2
+Besiciler,2
+Beta Tarım,2
+Beton Santrali,2
+Beyaz Durak,2
+Beyaz Çeşme,2
+Beyazevler,2
+Beyazevler Köprü,2
+Beyazevler Sağlık Ocağı,2
+Beyazıt,2
+Beydağ Denizli Yolu,2
+Beydağ Değirmen,2
+Beydağ Giriş,2
+Beydağ Hastane,2
+Beydağ Hükümet Konağı,2
+Beydağ Köşe,2
+Beydağ Yağmur,2
+Beydağ Yol Ayrımı,2
+Beyköy Küme Evleri,2
+Beyler,2
+Beyler Köyü Yol Ayrımı,2
+Beyler Yol ayrımı,2
+Beyler Üç Yol,2
+Beyler İlkokulu,2
+Beylik Bağı,2
+Beytullah Cami,2
+Bezirgan,2
+Beş Kardeşler,2
+Beş Selviler,2
+Beşevler Çeşme,2
+Beşgöz,2
+Beşikçioğlu Cami,2
+Beşinci Sanayi,2
+Beşinci Sanayi Giriş,2
+Beştepeler Lisesi,2
+Beşyol Giriş,2
+Biberiye,2
+Bilge Ağaç,2
+Bilimkent,2
+Birgi,2
+Birgi Bahçe,2
+Birgi Cami,2
+Birgi Dörtyol,2
+Birgi Kocagöl,2
+Birgi Yolu,2
+Birgi Çiftlik,2
+Birinci Trafo,2
+Birkent,2
+Birkent 2,2
+Birlik Sitesi,2
+Birlikcan,2
+Birsan,2
+Bisikletçi,2
+Boncuk,2
+Borlu,2
+Bornova Anadolu Lisesi,2
+Bornova Doğanlar Stadyum,2
+Bornova Kooperatif,2
+Bornova Kültür Merkezi,2
+Bornova Stadyum,2
+Bornova Stadı,2
+Bornova Tenis Kulübü,2
+Bornova İzsu,2
+Borsa Okulu Eski Sondurak,2
+Bostanlı Market,2
+Bostanlı Pazaryeri,2
+Botanik,2
+Boynuyoğun Dörtyol,2
+Boynuyoğun Pazaryeri,2
+Boynuyoğun Yağ Fabrikası,2
+Bozalan Düğün Salonu,2
+Bozalan Giriş,2
+Bozalan Keçi Çiftliği,2
+Bozalan Kümeevler,2
+Bozköy Bahçe,2
+Bozköy Gelincik,2
+Bozköy Köşe,2
+Bozköy Nar,2
+Bozköy Yukarı Mahalle,2
+Bozköy-Ş.Kemal Üstgçt,2
+Bozyaka,2
+Bozyaka Cami,2
+Bozyaka Devlet Hastanesi,2
+Bozyer,2
+Buca Anadolu Lisesi,2
+Buca Belediye Sarayı,2
+Buca Belediye Şantiye,2
+Buca Doğum Evi,2
+Buca Eski Mezarlık,2
+Buca Gazi Ortaokulu,2
+Buca Hipodrom,2
+Buca Kaymakamlık,2
+Buca Kooperatif Meydan,2
+Buca Köprüsü,2
+Buca Menderes Mahallesi Muhtarlığı,2
+Buca Moda Konutları,2
+Buca Sağlık Ocağı,2
+Buca Sebze ve Meyve Hali,2
+Buca Sosyal Güvenlik Kurumu,2
+Buca Spor Salonu,2
+Buca Tenis Kulübü,2
+Buca Toki Girişi,2
+Buca Tütün İhracatçıları Birliği İlkokulu,2
+Buca Vergi Dairesi,2
+Buca Yeni Cami,2
+Buca spor tesisleri,2
+Buca İlçe Halk Kütüphanesi,2
+Bucalılar,2
+Bulanık Su,2
+Bulgurca Yolu,2
+Bulut,2
+Bulvar,2
+Burcu Sitesi,2
+Burmalı Çeşme,2
+Buruncuk Kirazlar,2
+Buruncuk İ.Ö,2
+Buğday,2
+Bölcek,2
+Bölcek Giriş,2
+Bölcek Kanarya,2
+Bölcek Meydan,2
+Bölcek Mezarlığı,2
+Bölcek Ortaokulu,2
+Bölcek Parkı,2
+Bölcek Tarım,2
+Bölcek Çıkış,2
+Bölge Metro İstasyonu,2
+Bölge Müdürlüğü,2
+Bölge İdare Mahkemesi,2
+Bölge İstasyonu,2
+Bülbül,2
+Bülbüldere Yol Ayrımı,2
+Bülbüldere Çıkış,2
+Bülent Ecevit Meydanı,2
+Büyük Akkum,2
+Büyük Çiğli Anadolu Lisesi,2
+Büyük Çiğli Mezarlık,2
+Büyükavulcuk,2
+Büyükkale Bahçe,2
+Büyükkale Cami,2
+Büyükkale Giriş,2
+Büyükkale Meydan,2
+Büyükkale Sağlık Merkezi,2
+Büyükkale Villa,2
+Büyükkale Zeytinlik,2
+Büyükkale Çıkış,2
+Büyükşehir Kurs Merkezi,2
+Cahit Sıtkı,2
+Cam Fabrikası,2
+Camel,2
+Camikebir Bahçe,2
+Camikebir Caddesi,2
+Camikebir Sitesi,2
+Camikebir Çiftlik,2
+Canlı Kahveler,2
+Canlı Merkez,2
+Canlı Park,2
+Canlı Çıkış,2
+Canlı Çınar,2
+Cansu Sitesi,2
+Cem Bakioğlu Lisesi,2
+Cemal Parkı,2
+Cemal Reşit Rey,2
+Cemal Süreya Parkı,2
+Cembekler,2
+Cemevi,2
+Cemil Atlas İlköğretim Okulu,2
+Cemil Meriç Parkı,2
+Cemsultan,2
+Cengiz Parkı,2
+Cengiz Topel,2
+Cengizhan Yetmiş Beşinci Yıl Lisesi,2
+Cennet Bahçesi Mezarlığı,2
+Cennetçeşme Beyazıt Cami,2
+Centaş 2 Sitesi,2
+Cephanelik,2
+Cevher,2
+Cevizlibağ,2
+Cezaevi Su Deposu,2
+Claros,2
+Cumalı Mezarlık,2
+Cumalı Üçyol,2
+Cumhuriyet Lisesi,2
+Cumhuriyet Mahallesi Hastane,2
+Cumhuriyet Mahallesi Muhtarlığı,2
+Cumhuriyet Mahallesi Trafo,2
+Cumhuriyet Mahallesi Üçyol,2
+Cumhuriyet Meydanı,2
+Cumhuriyet Park,2
+Cumhuriyet Parkı,2
+Cumhuriyet Sanayi,2
+Cumhuriyet Sümbül,2
+Cumhuriyet Çam,2
+Cumhuriyet İlkokulu,2
+DSİ Kamp,2
+Dalan,2
+Dalgın,2
+Dalya,2
+Damatlar Mahallesi,2
+Damla,2
+Damlacık Giriş,2
+Damlacık Halı Saha,2
+Damlacık Köyü İlkokulu,2
+Damlacık Meydan,2
+Damlacık Yolu,2
+Damlar,2
+Davulcu Deresi,2
+Dağ Evleri,2
+Dağkızılca,2
+Dağkızılca Lale,2
+Dağkızılca Papatya,2
+Dağkızılca Zeytin,2
+Dağkızılca Çiftlik,2
+Dağkızılca Çıkış,2
+Dağtekke Yolu,2
+Dede Dağı,2
+Dede Fırını,2
+Dede Korkut,2
+Dedealtı,2
+Dedebaşı,2
+Deli Ömerli,2
+Deliktaş,2
+Deliktaş Bakkal,2
+Deliktaş Dörtyol,2
+Deliktaş Göl,2
+Deliktaş Meydan,2
+Deliktaş Şehit Cengiz Topel Ortaokulu,2
+Demaş Kooperatifi,2
+Demet,2
+Demir,2
+Demirci Zambak,2
+Demircili Giriş,2
+Demircili Trafo,2
+Demircili Yol Ayrımı,2
+Demircili Çiftlik,2
+Demircili Çıkış,2
+Demirer,2
+Demirkent,2
+Demirkıran,2
+Demirler,2
+Demirli Çay,2
+Demirtaş,2
+Demirtaş Cami,2
+Demiryolu,2
+Deniz Baykal Kültür Merkezi,2
+Deniz Komutanlığı,2
+Denizatı,2
+Denizmen,2
+Depolar,2
+Dere Ağızı,2
+Dere Balık,2
+Dere Çeşme,2
+Derebağ,2
+Derebaşı,2
+Derebaşı Zeytin,2
+Dereiçi,2
+Dereköy Ebdo İlkokulu,2
+Dereköy Giriş,2
+Dereköy Girişi,2
+Dereköy Jandarma,2
+Dereköy Kavşak,2
+Dereköy Meydan,2
+Dereköy Muhtarlık,2
+Dereköy Yol Ayrımı,2
+Dereköy Yolu,2
+Dereköy İlkokulu,2
+Derman Yolu,2
+Dernek,2
+Desen,2
+Destan Aksoy Parkı,2
+Develi,2
+Develi Bahçeler,2
+Develi Cami,2
+Develi Demiryolu,2
+Develi Mezarlık,2
+Develi Seralar,2
+Develi Yolu,2
+Develi Çıkış,2
+Develi Üçyol,2
+Devlet Malzeme Ofisi Çok Programlı Anadolu Lisesi,2
+Değirmenaltı,2
+Değirmenci,2
+Değirmendere Bahçe,2
+Değirmendere Giriş,2
+Değirmendere Seralar,2
+Değirmendere Son Durak,2
+Değirmendere Yol Ayrımı,2
+Değirmenönü,2
+Dicle,2
+Dikili Devlet Hastanesi,2
+Dikili Hastane,2
+Dikili Liman,2
+Dikili Lise,2
+Dikili Nergis,2
+Dikili Sahil,2
+Dikili Sarmaşık,2
+Dikili Zeyrek,2
+Dikili Çandarlı Yolu Sokak,2
+Dikili Çocuk Bahçesi,2
+Dirayet Süren İlkokulu,2
+Dirmil Gazi,2
+Dirmil Giriş,2
+Dirmil Tarla,2
+Dirmil Yol Ayrımı,2
+Dirmil Çıkış,2
+Dirmil İlkokulu,2
+Dizdar Cami,2
+Dizdarlar,2
+Doktor Eroğlu Parkı,2
+Doktorlar Sitesi,2
+Dokuz Eylül Deniz Bilimleri,2
+Dokuz Eylül Eğitim Fakültesi,2
+Dokuz Eylül Hastanesi İstasyon,2
+Dokuz Eylül Rektörlük,2
+Dokuz Eylül Öğrenci Yurdu,2
+Dolaplı Kuyu Mezarlık,2
+Dolmuş Garajı,2
+Doruk,2
+Doyranlı,2
+Doyranlı Fidanlık,2
+Doyranlı Lale Bahçesi,2
+Doğa Evi,2
+Doğakan Güngör Parkı,2
+Doğakent,2
+Doğal Kent,2
+Doğalgaz Akım Tesisi,2
+Doğan Çingil,2
+Doğanata Çiftlik,2
+Doğanay,2
+Doğanbey,2
+Doğanbey Muhtarlık,2
+Doğanbey Payamlı,2
+Doğanbey Çıkış,2
+Doğancılar,2
+Doğancılar Mezarlık,2
+Doğancılar Yeşillik,2
+Doğancılar Yolu,2
+Doğancılar Zeytinlik,2
+Doğanlar Dört Yol,2
+Doğanlar Hurdacılar Sitesi Cami,2
+Doğanlar Pazaryeri,2
+Doğançay,2
+Doğançay Aile Sağlığı Merkezi,2
+Doğançay Köprü,2
+Doğançay Meydan,2
+Doğançay Mezarlık,2
+Doğançay Mezarlık Üstü,2
+Doğançay Viyadüğü,2
+Doğançay Yeni Mezarlığı,2
+Dr. Behçet Uz Rekreasyon Alanı,2
+Dr. Güngör Özbek A. L.,2
+Dul Deresi,2
+Duman,2
+Durallar İlkokulu,2
+Durmuş Yaşar İlköğretim Okulu,2
+Durmuşlar,2
+Dutlu Kahve,2
+Dutluk,2
+Duyar,2
+Duğrallar ilkokulu,2
+Dyo Kampı,2
+Dökümcüler 1,2
+Dökümcüler 2,2
+Dördüncü Sanayi Kavşağı,2
+Dümbüllü,2
+Dündarlı,2
+Dündarlı Giriş,2
+Dündarlı Çiftlik,2
+Dündarlı Çıkış,2
+Düverlik Mezarlık,2
+Düzce Köprü,2
+Düzce Yolu,2
+Düzyollar,2
+Düğüm,2
+ESKİ ÇAMDİBİ MEZARLIĞI,2
+Ebruli,2
+Ecir Sitesi,2
+Eda,2
+Efeler,2
+Efem Çukuru,2
+Efem Çukuru Hal,2
+Efemçukuru Yolu,2
+Efemçukuru İkokulu,2
+Efes Sitesi,2
+Ege Diyaliz,2
+Ege Endüstri,2
+Ege Kar,2
+Ege Serbest Bölge,2
+Ege Üniversitesi Aliağa Meslek Yüksekokulu,2
+Ege Üniversitesi Hastanesi,2
+Ege Üniversitesi Öğrenci Köyü,2
+Egeay,2
+Egekent 2 Koruluk,2
+Egekent 2 Pazaryeri,2
+Egekent 2 Sağlık Ocağı,2
+Egekent 2 İstiklal,2
+Egekent 4 Kavşak,2
+Egekent 4 Tepe,2
+Egekent Cami,2
+Egekent Devlet Hastanesi,2
+Egekent Dispanser,2
+Egekent Köşe,2
+Egekent Park,2
+Egekent Postane,2
+Egekent Trafo,2
+Egekent Üçyol,2
+Egeli,2
+Egem,2
+Egem Sahil Evleri,2
+Egzozcu,2
+Eken,2
+Ekin Koleji,2
+Ekin Pazarı,2
+Ekinci,2
+Ekiz,2
+Ekmeksiz Plaj Yolu,2
+Ekoten,2
+Eksen Deresi,2
+Ela,2
+Elektral,2
+Elektrik,2
+Elifli,2
+Elifli Sera,2
+Elit,2
+Elit Koleji,2
+Elit Sitesi,2
+Elit Sitesi Yol Ayrımı,2
+Elka,2
+Ellinci Yıl İlkokulu,2
+Elmalı,2
+Emiralem Dörtyol,2
+Emiralem Jandarma,2
+Emiralem Kabristan,2
+Emiralem Üçyol,2
+Emiralem İstasyon,2
+Emlak Bankası Evleri,2
+Emlakçılar,2
+Emniyet Lojmanları,2
+Enerji,2
+Enerji Sitesi,2
+Engelliler Eğitim Merkezi,2
+Engelsiz Yaşam Parkı,2
+Enginar,2
+Enhoşlar,2
+Ensar Cami,2
+Enver Aktürk,2
+Eren,2
+Ergenli Giriş,2
+Ergenli Meydan,2
+Ergenli Çıkış,2
+Ergenli Şantiye,2
+Erkal Sitesi,2
+Eroğlu,2
+Ertuğrul Cami,2
+Ertuğrul Mahallesi,2
+Ertuğrul Meydan,2
+Ertuğrulköy,2
+Erze,2
+Esatpaşa,2
+Esatpaşa Köşe,2
+Esbaş Otopark,2
+Esen,2
+Esen Yelleri,2
+Esendere,2
+Esentepe Aile Hekimliği,2
+Esentepe Basket Sahası,2
+Esentepe Gazi Engin Çiftçioğlu İlkokulu,2
+Esentepe Kültür Merkezi,2
+Eserkent,2
+Eserkent Köşe,2
+Eshot Ağır Bakım Tesisleri,2
+Eshot Evleri,2
+Eski Bahçe,2
+Eski Bulgurca Yolu,2
+Eski Foça Çiftlik,2
+Eski Garaj,2
+Eski Minare,2
+Eski Mordoğan Mezarlık,2
+Eski Mordoğan İZSU,2
+Eski Park,2
+Eski Salman,2
+Eski Salman Bahçe,2
+Eski Salman Cami,2
+Eski Salman Giriş,2
+Eski Salman Çıkış,2
+Eski Yol,2
+Eskiizmir Anaokulu,2
+Eskiizmir İlkokulu,2
+Eskioba,2
+Esnaf Sanatkarlar Odası,2
+Etap 1,2
+Etiler,2
+Evka 1 İtfaiye,2
+Evka 2 Manzara,2
+Evka 2 Merkez Cami,2
+Evka 2 Postane,2
+Evka 2 Telekom,2
+Evka 4 Muhtarlık,2
+Evka 5 Cumhuriyet,2
+Evka 5 Park,2
+Evka 7,2
+Evka-3 Parkı,2
+Evka-4 Anaokulu,2
+Evliya Çelebi,2
+Evrenesoğlu Ortaokulu,2
+Evrensel Sitesi,2
+Eyüp El Ensari Cami,2
+Eyüp Sitesi,2
+Eyüp Sultan Cami,2
+Ezgi,2
+Eğerci,2
+Eğerci Dörtyol,2
+Eğerci Eski Okul,2
+Eğerci Kabristan,2
+Eğerci Üçyol,2
+Eğerci İlkokulu,2
+Eğiller,2
+Eğitim Gönüllüleri,2
+Eğlenhoca Balık Çiftliği,2
+Eğlenhoca Fabrika,2
+Eğlenhoca Giriş,2
+Eğlenhoca Son Durak,2
+Eğlenhoca Tarla,2
+Eğlenhoca Zeytinyağı,2
+Eğlenhoca Çıkış,2
+Eğri Liman,2
+Eğri Liman Çiftlik,2
+Eğridere Meşe,2
+Eğridere Çam,2
+Eğrigöl,2
+Eşen Mahallesi,2
+Fabrikalar 1,2
+Fabrikalar 3,2
+Faik Bey,2
+Faik Muhittin Adam İlkokulu,2
+Fakir Baykurt Parkı,2
+Fakülte,2
+Fatih Seylan Cami,2
+Fatih Sultan Mehmet,2
+Fatih Sultan Mehmet Teknik ve Endüstri Meslek Lisesi,2
+Fatih İlkokulu,2
+Fatma Koşay İlköğretim Okulu,2
+Fatma Saygın Anadolu Lisesi,2
+Fazıl Hüsnü Dağlarca,2
+Fen Fakültesi,2
+Fener,2
+Ferahlı Parkı,2
+Ferizler-Paşa Köy Girişi,2
+Festival,2
+Fevzi Paşa İlkokulu,2
+Fevzipaşa Cami,2
+Fevzipaşa Stadı,2
+Fide,2
+Fidelya,2
+Filiz,2
+Fincancılar,2
+Firdem,2
+Firuze,2
+Flamingo Sitesi 2,2
+Fotaş,2
+Fotoğraf Müzesi,2
+Foça Bahçelievler,2
+Foça Belediye Yerleşkesi,2
+Foça Cezaevi,2
+Foça Devlet Hastanesi,2
+Foça Dinlenme Tesisleri,2
+Foça Hükümet Konağı,2
+Foça Port,2
+Foça Stad,2
+Foça Şahin Tepesi,2
+Foçaköy,2
+Frezya,2
+Fuar İzmir,2
+Fulden,2
+Furunlu Dörtyol,2
+Furunlu Giriş,2
+Furunlu Tulumba,2
+Furunlu Yedikavak,2
+Furunlu Yenicekuyu,2
+Furunlu Yolu,2
+Furunlu Çamlık,2
+Fırat,2
+Gaffar Okkan,2
+Galericiler Sitesi,2
+Garahayıt,2
+Gardenya,2
+Gayretiye Cami,2
+Gayrettepe Cami,2
+Gazeteci Hasan Tahsin,2
+Gazeteler,2
+Gazi,2
+Gazi Caddesi,2
+Gazi Mah  Toki Evleri,2
+Gazi Mahallesi,2
+Gazi Mustafa Kemal,2
+Gazi Toki Yol Ayrımı,2
+Gazi Umurbey Okul,2
+Gazi İlkokulu,2
+Gaziemir Belediye Şantiye,2
+Gaziemir Belediyesi Spor Tesisi,2
+Gaziemir Merkez Cami,2
+Gaziemir PTT,2
+Gaziemir Semt Garajı,2
+Gaziemir Trafo,2
+Gaziemir İMKB Mesleki ve Teknik Anadolu Lisesi,2
+Gaziemir İlçe Emniyet,2
+Gaziemir İstasyon,2
+Gaziemir Şantiye,2
+Gazikent Muhtarlık,2
+Gaziler,2
+Gazipaşa Mah Muhtarlık,2
+Gazozcu,2
+Gediz Meydan,2
+Gelinkaya,2
+Gelinler,2
+Gencelli,2
+Genceroğlu Parkı,2
+General Kazım Özalp Muhtarlık,2
+Genç,2
+Gençlik Parkı,2
+Gereli,2
+Gereli Cami,2
+Gereli Mezarlık,2
+Gereli Sağlık Ocağı,2
+Gerence,2
+Gerenköy Atatürk,2
+Gerenköy Bahçe,2
+Gerenköy Bakkal,2
+Gerenköy Fabrika,2
+Gerenköy Meydan,2
+Gerenköy Mezarlık,2
+Gerenköy Son Durak,2
+Gerenköy Çam,2
+Gerenköy Çeşme,2
+Gerenköy Üçyol,2
+Gerenköy İlkokulu,2
+Germiyan,2
+Germiyan 8 Evler Sitesi,2
+Germiyan Atatürk Parkı,2
+Germiyan Burcu Sitesi,2
+Germiyan Cami,2
+Germiyan Deniz Sitesi,2
+Germiyan Evleri,2
+Germiyan Fidanlık,2
+Germiyan Köyiçi,2
+Germiyan Manzara,2
+Germiyan May Sitesi,2
+Germiyan Meydan,2
+Germiyan Yalı,2
+Germiyan Ören,2
+Germiyan İştur Sitesi,2
+Geçit,2
+Geçit 1,2
+Geçit 2,2
+Girgin,2
+Girne Bulvarı,2
+Girne Konutları,2
+Girne Pazaryeri,2
+Gizem,2
+Gişeler,2
+Golf,2
+Gonca,2
+Grand Efe,2
+Gurbet,2
+Gurbet Tepe,2
+Gödence Yolu,2
+Gökalp,2
+Gökbaş,2
+Gökdere 1,2
+Gökdere 2,2
+Gökdere 3,2
+Gökdere Arıtma,2
+Gökdere Karaman,2
+Gökdere Köy Mezarlığı,2
+Gökdere Mezarlığı 1,2
+Gökdere Mezarlığı 2,2
+Gökdere Vadi,2
+Gökkurt,2
+Gökkuşağı,2
+Göknar,2
+Göksu Muhtarlık,2
+Göksu Pazaryeri,2
+Göktepe,2
+Göktepe Köy Girişi,2
+Göktepe Manzara,2
+Göktepe İlkokulu,2
+Gökyaka Küme Evleri,2
+Gökyaka Meydan,2
+Gökyaka Mezarlık,2
+Gökyaka Papatya,2
+Gökçen,2
+Gökçen Anadolu Lisesi,2
+Gökçen Bahçe,2
+Gökçen Efe İlkokulu,2
+Gökçen Mezarlık Yolu,2
+Gökçen Yol Ayrımı,2
+Gölcük Giriş,2
+Gölcük Zeytinlik,2
+Gölcükler Bahçe,2
+Gölcükler Sera,2
+Gölcükler Yol Ayrımı,2
+Gölet Ata,2
+Gölet Palmiye,2
+Göller,2
+Göllüce,2
+Gölova,2
+Gölova Yol Ayrımı,2
+Görece,2
+Görece Alışveriş Merkezi,2
+Görece Cami,2
+Görece Eski Yol,2
+Görece Köprü,2
+Görece Kümeevler,2
+Görece Meydan,2
+Görece Muhtarlık,2
+Görece Park,2
+Görece Sağlık Ocağı,2
+Görece Seralar,2
+Görece Son Durak,2
+Görece Spor Salonu,2
+Görece Trafo,2
+Görece Zeytinlik,2
+Görece Çocuk Parkı,2
+Görme Engelliler Okulu,2
+Göz,2
+Gözemel,2
+Gözlem,2
+Göztepe Depo,2
+Göztepe Stadı,2
+Göztepe Yelken Kulübü,2
+Göç İdaresi Yolu,2
+Göçbeyli Ağaçlık,2
+Göçbeyli Benzinlik,2
+Göçbeyli Meydan,2
+Göçbeyli Yolu,2
+Göçbeyli Çiftlik,2
+Göçmen,2
+Göçmen Konutları,2
+Göçmen Konutları Giriş,2
+Göçmen Konutları Çıkış,2
+Gül Körfezi,2
+Gülbahçe,2
+Gülbahçe Pazaryeri,2
+Güldeste,2
+Gülen Kora Ortaokulu,2
+Gülhatmi,2
+Gülistan,2
+Güllü Sitesi,2
+Gülsümcük Mevki,2
+Gültepe Karakol,2
+Gültepe Mezarlık,2
+Gültepe Mezarlık 2,2
+Gültepe Spor Kompleksi,2
+Gülyaka,2
+Gümüldür Atatürk,2
+Gümüldür Bahçeler,2
+Gümüldür Kavşak,2
+Gümüldür Lisesi,2
+Gümüldür Meydan 2,2
+Gümüldür Muhtar,2
+Gümüldür Pazaryeri,2
+Gümüldür Taşocağı,2
+Gümüldür Öğretmen Emine Yazlalı Ortaokulu,2
+Gümüş,2
+Gümüşkent,2
+Gümüşkent Yol Ayrımı,2
+Gümüşkoy,2
+Gümüşpala Dört Yol,2
+Gümüşpala Kahveler,2
+Gümüşpala Karakol,2
+Gümüşpala Lisesi,2
+Gümüşpala Merkez,2
+Gümüşpala Su Deposu,2
+Gümüşpala Ticaret Lisesi,2
+Gümüşpala Çamlık,2
+Gümüşsuyu Orman Kampı,2
+Gün,2
+Gün kurusu,2
+Günaltay Meydan,2
+Günaltay Park,2
+Gündoğdu,2
+Günerli Cami,2
+Günerli Dörtyol,2
+Günerli Çeşme,2
+Günerli Üçyol,2
+Güneybatı,2
+Güneş Panelleri,2
+Güneşlikent,2
+Güneşlikent Sitesi,2
+Günhan Cami,2
+Gürbüz,2
+Gürpınar,2
+Gürçeşme,2
+Gürçeşme Cami,2
+Güven Cami,2
+Güvenel,2
+Güvercin Adası,2
+Güverte,2
+Güzel Konak,2
+Güzel Ova,2
+Güzel Sanatlar Fakültesi,2
+Güzel Çam,2
+Güzel İzmir Cami,2
+Güzelbahçe Halk E.M.,2
+Güzelbahçe Kaymakamlık,2
+Güzelbahçe Kolej,2
+Güzelbahçe Sanayi,2
+Güzelbahçe İMKB Mesleki ve Teknik Anadolu Lisesi,2
+Güzelbelde,2
+Güzelcan Kardeşler İlköğretim Okulu,2
+Güzelhisar Caddesi,2
+Güzelkent Yolu,2
+Güzeller,2
+Güzeltepe Bloklar,2
+Güzeltepe Dört Yol,2
+Güzeltepe Esentepe Cami,2
+Güzeltepe Futbol Sahası,2
+Güzeltepe Kahve,2
+Güzeltepe Karakol,2
+Güzeltepe Manzara,2
+Güzeltepe Muhtarlık,2
+Güzeltepe Parkı,2
+Güzeltepe Üçyol,2
+Güzeltepe İlkokulu,2
+Güzelyalı,2
+Gıda Fabrikası,2
+Gıda Sanayi,2
+Hacı Nurşen Hüsnü Ay Cami,2
+Hacı Sadık Cami,2
+Hacı Saim Mutlu Cami,2
+Hacı Tahsin Irmak İlkokulu,2
+Hacı Yaşar Kandur İlköğretim Okulu,2
+Hacı Ömerli Muhtarlık,2
+Hacıömerli Jandarma,2
+Hafize Beşikçioğlu Sağlık Ocağı,2
+Hakimevleri,2
+Hakimevleri Giriş,2
+Hakkı Efendi,2
+Hakkı Oğuz Tabaoğlu İlkokulu,2
+Haldun Koşay Lisesi,2
+Haldun Taner,2
+Halide Edib Adıvar,2
+Halide Edip Adıvar,2
+Halide Onbaşı,2
+Halikarnas Balıkçısı,2
+Halil Tan Parkı,2
+Halilbeyli Giriş,2
+Halilbeyli İlkokulu,2
+Halim Foçalı And. Lisesi,2
+Halim Foçalı Spor Salonu,2
+Halime Çavuş,2
+Halit Özpirinç Lisesi,2
+Halkapınar,2
+Halkapınar İZSU,2
+Haluk Alpsu Bulvarı,2
+Hamzalısüleymaniye,2
+Han Deresi,2
+Hancı,2
+Hanedan,2
+Haralar,2
+Hardal Damları,2
+Haritacılar Sitesi,2
+Harmandalı,2
+Harmandalı Cumhuriyet,2
+Harmandalı Eski Belediye,2
+Harmandalı Kuzey Kent,2
+Harmandalı Mezarlık,2
+Harmandalı Park,2
+Harmandalı Sağlık Ocağı,2
+Harmandalı Siteler,2
+Harmandalı İlköğretim Okulu,2
+Harmanlılar,2
+Harmanyeri,2
+Harp İş Sitesi,2
+Hasan Ali Yücel Parkı,2
+Hasan Ağa Bahçesi,2
+Hasan Dede Turbesi,2
+Hasan Ferit Alnar,2
+Hasan Hüseyinler,2
+Hasan Kara Parkı,2
+Hasan Tahsin,2
+Hasan Tahsin Özel Eğitim Okulu,2
+Hasan İçyer Ortaokulu,2
+Hasanağa Camii,2
+Hasanlar,2
+Hasançavuşlar Yolu,2
+Hasköy Arıtma,2
+Hasköy Giriş,2
+Hasköy Kahveler,2
+Hasköy Meydan,2
+Hasköy Çiftlik,2
+Hasköy Çıkış,2
+Hat Boyu,2
+Hat Boyu 2,2
+Hatice Güzelcan Anadolu Lisesi,2
+Hatmi,2
+Hatundere 2,2
+Hatundere 3,2
+Hava Pilot Teğmen Ali Acar,2
+Hava Pilot Teğmen Erdoğan Çallı,2
+Hava Teknik Okulu,2
+Hava Şehitliği,2
+Havacılar Kampı,2
+Havacılık Lisesi,2
+Havacılık Meslek Yüksek Okulu,2
+Havutçulu Giriş,2
+Havuz Başı,2
+Havuzbaşı Mezarlık,2
+Havuzbaşı Seralar,2
+Havuzbaşı Zeytinlik,2
+Havuzbaşı Çıkış,2
+Havuzbaşı İç Yolu,2
+Havuzlu,2
+Havva Özişbakan Lisesi,2
+Hayat,2
+Haydar Aliyev Parkı,2
+Haykıran Giriş,2
+Haykıran Meydan,2
+Haykıran Çıkış,2
+Hayrat Çeşmesi,2
+Hayriye Öz Parkı,2
+Hayvan Barınağı,2
+Hayvan Çiftliği,2
+Hedef,2
+Hekim Köy,2
+Helimoğlu,2
+Helvacı,2
+Helvacı Belediye,2
+Helvacı Cem Evi,2
+Helvacı Giriş,2
+Helvacı Hayratı,2
+Helvacı Jandarma,2
+Helvacı Köyü,2
+Helvacı Meydan,2
+Helvacı Muhtarlık,2
+Helvacı Ovası,2
+Helvacı Tekel,2
+Helvacı Tekstil,2
+Helvacı Çeşme,2
+Helvacı Çıkış,2
+Helvacı İlkokulu,2
+Hezaren,2
+Hisar,2
+Hisar Evleri,2
+Hisarköy Giriş,2
+Hisarköy Okul,2
+Hisarlık Kestane,2
+Hisarlık giriş,2
+Hobi Park,2
+Hocazade Cami,2
+Homeros Piknik Alanı,2
+Horozgediği,2
+Hulusi Kentmen 2,2
+Hulusi Kentmen Parkı,2
+Huriye Mehmet Akçasakız,2
+Huzur Sitesi,2
+Huzurkent Sitesi,2
+Hüdaverdi Cami,2
+Hüseyin Avni Ateşoğlu İlköğretim Okulu,2
+Hüseyin Baradan Parkı,2
+Hüseyin Tokatlı Parkı,2
+Hüsnü Bornovalı Ortaokulu,2
+Hıdırlık,2
+Hıfzıssıhha,2
+Ildır Sahil,2
+Ildır Tatil Sitesi,2
+Ildır İskele,2
+Ilgın,2
+Ilıca Benzinlik,2
+Ilıca Hastane,2
+Ilıca Köprü,2
+Ilıca Meydan,2
+Ilıksu Yol ayrımı,2
+Ilıpınar Benzinlik,2
+Ilıpınar Meydan,2
+Ilıpınar Zeytinlik,2
+Irmak,2
+Irmak Mahallesi Park,2
+Issız,2
+Istaş,2
+Itır,2
+Işıkkent,2
+Işıkkent Benzinlik,2
+Işıkkent Kamyon Garajı,2
+Işıklar Kantar,2
+Işıklı Köyü Giriş,2
+Işıklı Mezarlık,2
+Işıklı Parkı,2
+Işılay Saygın Lisesi,2
+Jandarma 2,2
+Jandarma Lojmanı,2
+Jant Fabrikası,2
+Kabristan,2
+Kadir Paşa,2
+Kadriye,2
+Kadriye Mahallesi Çeşme,2
+Kadıköy,2
+Kadıköy Girişi,2
+Kadıköy Mezarlığı,2
+Kadıköy Yolu,2
+Kadıköy Çıkış,2
+Kadıovacık Giriş,2
+Kadızade Zühtü Işıl,2
+Kahratlı,2
+Kahvehane,2
+Kaklıç Cami,2
+Kaklıç Kavşağı,2
+Kaklıç Köprü,2
+Kaklıç Mezarlık,2
+Kaklıç muhtarlık,2
+Kaklıç Üçyol,2
+Kaklıç İlkokulu,2
+Kako,2
+Kalabak Cami,2
+Kaleiçi,2
+Kalemlik,2
+Kalp Damar Hastanesi,2
+Kamil Tunca Bulvarı,2
+Kampüs,2
+Kamyoncular Kooperatifi,2
+Kandere Parkı,2
+Kanuni İlkokulu,2
+Kapalı Katlı Pazaryeri,2
+Kapalıbağ,2
+Kapan Dere,2
+Kaplanköy Giriş,2
+Kaptan,2
+Kapıkaya,2
+Kara Nakliyeciler,2
+Kara Pınar,2
+Karabağlar,2
+Karabağlar Atatürk Mesleki ve Teknik Anadolu Lisesi,2
+Karabağlar Briketçi,2
+Karabağlar Cumhuriyet Anadolu Lisesi,2
+Karabağlar Cumhuriyet Mesleki ve Teknik Anadolu Lisesi,2
+Karabağlar Emir Sultan Ortaokulu,2
+Karabağlar Halk Eğitim Merkezi,2
+Karabağlar Polis Merkezi,2
+Karabağlar Sağlık Ocağı,2
+Karabağlar Trafo Merkezi,2
+Karabel Orman Durağı,2
+Karabel Piknik Yeri,2
+Karaburun Azmak,2
+Karaburun Devlet Hastanesi,2
+Karaburun Esendere,2
+Karaburun Güneş,2
+Karaburun Hisarcık,2
+Karaburun Liman,2
+Karaburun Market,2
+Karaburun Mimoza,2
+Karaburun Mordoğan Fatma Emin Karaağaç Çok Programlı Anadolu Lisesi,2
+Karaburun Müftülük,2
+Karaburun Nergis,2
+Karaburun Stad,2
+Karaburun TEİAŞ,2
+Karaburun Zambak,2
+Karaca,2
+Karacaağaç Meydan,2
+Karacaağaç Mezarlık,2
+Karacaağaç Mezarlık 2,2
+Karacasarı,2
+Karafırın,2
+Karagöl,2
+Karagöl Ayrımı,2
+Karahalilli,2
+Karahalilli Bahçe,2
+Karakayalar,2
+Karakovan,2
+Karakoç Dere,2
+Karakoç Kaplıcaları,2
+Karakoç Çayı,2
+Karakuyu,2
+Karakuyu Bahçe,2
+Karakuyu Bahçeler,2
+Karakuyu Birlik Sitesi,2
+Karakuyu Gülfidan,2
+Karakuyu Okul,2
+Karakuyu Pazar Yeri,2
+Karakuyu Son Durak,2
+Karakuyu Spor Tesisleri,2
+Karakuyu Tarım,2
+Karakuyu Yolu,2
+Karakuyu Yolu Köprü,2
+Karakuyu Yolu Lojman,2
+Karakuyu Yolu Sanayi,2
+Karakuyu Yolu Silo,2
+Karakuyu Yolu Tarım,2
+Karakuyu Çiftlik,2
+Karaköy,2
+Karakılçık,2
+Karakızlar Arılık,2
+Karakızlar Dört Yol,2
+Karakızlar Giriş,2
+Karakızlar Meydan,2
+Karakızlar Yol Ayrımı,2
+Karakızlar Zeytinlik,2
+Karakızlar Çiftlik,2
+Karakızlar Çiftlik Evleri,2
+Karakızlar Çıkış,2
+Karanfil Parkı,2
+Karantina,2
+Karaorman Giriş,2
+Karaot Giriş,2
+Karaot Köşe,2
+Karaot Orman,2
+Karaoğlu,2
+Karapınar,2
+Karapınar Yol Ayrımı,2
+Karareis,2
+Karareis Barajı,2
+Karareis Market,2
+Karareis Tatil Sitesi,2
+Karaselvi,2
+Karasu,2
+Karataş,2
+Karataş Anadolu Lisesi,2
+Karateke Orkide,2
+Karaveliler,2
+Karaveliler Giriş,2
+Karaveliler Köy İçi,2
+Karaveliler Meydan,2
+Karaveliler İlköğretim Okulu,2
+Karayel,2
+Karayolları Bakımevi,2
+Karayolları Denetim İst.,2
+Karaçam Giriş,2
+Karaçam Havuz,2
+Karaçam Park,2
+Karaçam Santral,2
+Karaçam Çiftlik,2
+Karaçukur Koyu,2
+Kardan,2
+Kardelen Sitesi,2
+Kardeşler,2
+Kare Ev,2
+Kargacık Koyu,2
+Kargılar,2
+Karpusça Yolu,2
+Karpuzlu İstasyon,2
+Kartal,2
+Kartopu,2
+Karya,2
+Karye Sitesi,2
+Karşıyaka Endüstri Meslek Lisesi,2
+Karşıyaka Jandarma,2
+Karşıyaka Öğretmen Evi,2
+Katip Çelebi Üniversitesi,2
+Kavacık Bahçe,2
+Kavacık Bağ,2
+Kavacık Giriş,2
+Kavacık Küme,2
+Kavacık Manzara,2
+Kavacık Mezarlık,2
+Kavacık Restoran,2
+Kavacık Tarla,2
+Kavacık Yol Ayrımı,2
+Kavacık Yolu,2
+Kavacık Çardak,2
+Kavacık Çıkış,2
+Kavacık Üzüm,2
+Kavak Çayı,2
+Kavakdere Mezarlık,2
+Kavakdere Okul,2
+Kavakdere Üçyol,2
+Kavaklıdere,2
+Kavaklıdere Köyü Cami,2
+Kavaklıdere Mezarlık,2
+Kavaklıdere Çıkış,2
+Kavun,2
+Kayabaşı Cami,2
+Kayadibi,2
+Kayadibi Doğa Park,2
+Kayadibi Giriş,2
+Kayadibi Orman,2
+Kayalar Mezarlığı,2
+Kayalık,2
+Kayapınarı,2
+Kaymakamlık İstasyon,2
+Kaymakkuyu,2
+Kaymakkuyu 2,2
+Kaymakçı Giriş,2
+Kaymakçı Köprü,2
+Kaymakçı Mezarlık,2
+Kaymakçı Sanayi,2
+Kaymakçı Zafer,2
+Kaymakçı Üçyol,2
+Kaynaklar İlköğretim Okulu,2
+Kaynaktur,2
+Kaynarpınar,2
+Kaynarpınar Huzur,2
+Kazangöl,2
+Kazıkbağları Merkez,2
+Kazım Dirik İlköğretim Okulu,2
+Kazım Karabekir Cami,2
+Kazım Karabekir Mahalle Muhtarlığı,2
+Kehribar,2
+Keller Kırığı Küme Evleri,2
+Kemal Atatürk Parkı,2
+Kemal Hadımlı Ortaokulu,2
+Kemalpaşa,2
+Kemalpaşa Ara Yol,2
+Kemalpaşa Arıtma Tesisi,2
+Kemalpaşa Belediyesi,2
+Kemalpaşa Havuz,2
+Kemalpaşa Karakol,2
+Kemalpaşa Koleji,2
+Kemalpaşa Pazaryeri,2
+Kemalpaşa Sevgi,2
+Kemalpaşa Şantiye,2
+Kemerkaya Evleri,2
+Kent,2
+Kent 2,2
+Kent Bahçeleri,2
+Kent Hastanesi,2
+Kent Koleji,2
+Kent Müzesi,2
+Kentaş,2
+Kereste Fabrikası,2
+Keresteciler Sitesi,2
+Kesik Fabrika,2
+Kesik Fabrikalar,2
+Kesik Kanal,2
+Kesik Mavi,2
+Kesik Meydan,2
+Kesik Ova,2
+Kesik Saha,2
+Kesik Tarla,2
+Kesik Çocuk Bahçesi,2
+Kestanepazarı,2
+Ketenci,2
+Keyifli Yaşam Evleri,2
+Kilimci Tepe,2
+Kip,2
+Kiraz Ağacı,2
+Kiraz Giriş,2
+Kiraz Hükümet Konağı,2
+Kiraz Yeni Mahalle Cami,2
+Kiraz Yolu,2
+Kiraz İlçe Tarım  Müdürlüğü,2
+Kirazlı,2
+Kireli,2
+Kireli Giriş,2
+Koca Orman,2
+Koca Çeşme,2
+Koca Çınar,2
+Kocabuk,2
+Kocagöl,2
+Kocakapı,2
+Kocamehmetler Yol Ayrımı,2
+Kocatepe Zeytinlik,2
+Kocaçay,2
+Kocaömerli Giriş,2
+Kocaömerli Yol Ayrımı,2
+Kocaömerli Çınarağacı,2
+Kodelya,2
+Kokluca Mezarlığı,2
+Kolophon,2
+Kombine,2
+Komutan,2
+Konak Anadolu Lisesi,2
+Konak Ömer Lütfü Akad Ortaokulu,2
+Konserve Fabrikası,2
+Konut,2
+Kooperatif,2
+Kooperatif Evleri Eski Son Durak,2
+Kooperatif Sitesi,2
+Kordelya,2
+Korsan Villa,2
+Koru Sitesi,2
+Korucuk Yol Ayrımı,2
+Koruluk 2,2
+Korutürk,2
+Kosova,2
+Kosova Mahallesi,2
+Kovankayası,2
+Koyundere,2
+Koyundere Eski Son Durak,2
+Koyundere Fatih Cami,2
+Koyundere Kahveler,2
+Koyundere Mera,2
+Koyundere Mezarlık,2
+Koyundere Muhtarlık,2
+Koyundere İlkokulu,2
+Koyundereli Hacı Mehmet Camii,2
+Kozak Bergama Yolu,2
+Kozak Caddesi,2
+Kozak Maden,2
+Kozak Yaylası,2
+Kozak Yaşam Vadisi,2
+Kozalak,2
+Kozbeyli At Çifliği,2
+Kozbeyli Giriş,2
+Kozbeyli Karanfil,2
+Kozbeyli Meydan,2
+Kozbeyli Ova,2
+Kozbeyli Çamlık,2
+Kozbeyli İlkokulu,2
+Kozpınar,2
+Koşu Yolu,2
+Koşuyolu,2
+Kule,2
+Kumova,2
+Kumtepe,2
+Kurfallı,2
+Kurtuluş Camii,2
+Kurtuluş İpek İşeri İlköğretim Okulu,2
+Kuru Dere,2
+Kurucaova,2
+Kurucaova Tarla,2
+Kurucuova Benzinlik,2
+Kurucuova Mezarlık,2
+Kurucuova Muhtarlık,2
+Kurucuova Ova,2
+Kurucuova Trafo,2
+Kurucuova Üçyol,2
+Kurucuova İlköğretim Okulu,2
+Kurudere,2
+Kurutaş,2
+Kuruçeşme Merkez Cami,2
+Kurşak Yolu,2
+Kutsan,2
+Kutup Yıldızı,2
+Kuyu,2
+Kuyucak,2
+Kuyucak Meydan,2
+Kuyucak Yolu,2
+Kuyucak İlkokulu,2
+Kuzey,2
+Kuzey Şehir,2
+Kuzey Şehir Üst Yol,2
+Kuzucuoğlu,2
+Kuzyaka,2
+Kuğu,2
+Kuşadası Caddesi,2
+Kuşadası Yol Ayrımı,2
+Kuşburnu,2
+Kuşcuburun İp Fabrikası,2
+Kuşluk,2
+Kuşçu,2
+Kuşçuburun Depolar,2
+Kuşçuburun Karayolları,2
+Kuşçular Orman Yangın Ekibi,2
+Kuşçular Ova İlkokulu,2
+Kuşçular Santral,2
+Kuşçular Sera,2
+Kuşçular yol ayrımı,2
+Kyk Çiğli Öğrenci Yurdu,2
+Köfündere,2
+Köfündere Küme Evler,2
+Köfündere Mezarlık,2
+Köfündere Çiftlik,2
+Kömürcü,2
+Köprübaşı,2
+Körfez Evleri,2
+Körfez Evleri Giriş,2
+Körfez Koru Evleri,2
+Körfez Köy,2
+Körfez Mahallesi,2
+Köseder Yol Ayrımı,2
+Kösedere,2
+Kösedere Ağaçlıyol,2
+Kösedere Manzara,2
+Kösedere Mezarlık,2
+Kösedere Muhtarlık,2
+Kösedere Restoran,2
+Kösedere Tarla,2
+Kösedere Yol Ayrımı,2
+Kösedere Zeytinlik,2
+Köseoğlu,2
+Köy Yolu,2
+Köşk,2
+Köşk Düzü Cami,2
+Kübra,2
+Kültür,2
+Kültür Çarşısı,2
+Kültürpark Kavşak,2
+Küme Evleri,2
+Küner Kavşak,2
+Küner Küme Evler,2
+Küner Yol Ayrımı,2
+Küner Yolu,2
+Kürdüllü Giriş,2
+Kürnek Mevki,2
+Kütlücek,2
+Kütük Minare Cami,2
+Küçük Akkum,2
+Küçük Ayani Koyu,2
+Küçük Ev,2
+Küçük Köprü,2
+Küçük Menderes Nehri,2
+Küçük Trafo,2
+Küçük Çay,2
+Küçük Çiğli,2
+Küçükbahçe,2
+Küçükbahçe Giriş,2
+Küçükbahçe Yol Ayrımı,2
+Küçükbahçe Çiftlik,2
+Küçükkale,2
+Küçükkaya,2
+Küçükkaya Köyü,2
+Küçükkaya Manzara,2
+Küçükkaya Pansiyon,2
+Küçükkaya Yol Ayrımı,2
+Kıbrıs Sineması,2
+Kıbrıs Şehitleri İlkokulu,2
+Kılıç,2
+Kılıçkent,2
+Kınalıtaş,2
+Kınık Havuz,2
+Kınık K1 Tipi Cezaevi,2
+Kınık Kaymakamlık,2
+Kınık Kız Yurdu,2
+Kınık Mesleki ve Teknik Anadolu Lisesi,2
+Kınık Ocak,2
+Kınık Orman İşletme,2
+Kınık Sanayi,2
+Kınık Stad,2
+Kınık Tavuk Çitliği,2
+Kınık Ulu Cami,2
+Kınık Zeytinlik,2
+Kınık Çok Programlı Anadolu Lisesi,2
+Kıpkıp,2
+Kır Mahalle Giriş,2
+Kır Mahalle Girişi,2
+Kıraathane,2
+Kıranlı Çıkış,2
+Kırbaş Giriş,2
+Kırcanlar,2
+Kırkpınar,2
+Kırlangıç,2
+Kısıkköy Altyol,2
+Kıyı Yolu,2
+Kız Lisesi,2
+Kız Yurdu,2
+Kızıl Üzüm,2
+Kızılay Kan Merkezi,2
+Kızılağaç,2
+Kızılcaağaç Giriş,2
+Kızılcaağaç Kümeevler,2
+Kızılcaağaç Çıkış,2
+Kızılcahavlu,2
+Kızılcahavlu Çıkış,2
+Kızılcaova,2
+Kızılcaova Giriş,2
+Kızılcaova Kurtuluş,2
+Kızılcaova Merkez,2
+Kızılcaova Yol Ayrımı,2
+Kızılcaova Yolu,2
+Kızılcaova Çiftlik,2
+Kızılcaova Çıkış,2
+Kızılcaova İstiklal,2
+Kızılkanat,2
+Kızıloba Giriş,2
+Kızıloba Ilıca Giriş,2
+Kızıloba yol ayrımı,2
+Kızılüzüm Giriş,2
+Kışla Mahallesi,2
+Kışlalı,2
+Kışlalı Kümesi,2
+Ladin,2
+Laka Cami,2
+Laka Eski Son Durak,2
+Laka Köprü,2
+Lale Park,2
+Lale Tepe Cami,2
+Lalepaşa Cami,2
+Levent Depo,2
+Levent Kara Sağlık Ocağı,2
+Levent Çeşme,2
+Leventtepe Selamet Cami,2
+Lider,2
+Lilyum,2
+Liman Reis,2
+Limon,2
+Limon Servi,2
+Limontepe,2
+Limontepe Cami,2
+Limontepe Seniye-Hasan Saray İlkokulu,2
+Lozan,2
+Lunapark,2
+LÖSEV Doğa Çiftliği,2
+Lütuflar Meydan,2
+M.Akif ERSOY İÖO,2
+M.Kemal Kürekçi Parkı,2
+MKE Aliağa Hurda Müdürlüğü,2
+MTK Birinci Giriş,2
+MTK Giriş,2
+MTK Trafo,2
+MTK Çiçek,2
+Maarif Sokak,2
+Mab Sitesi,2
+Mahfel,2
+Mahkeme Tepesi,2
+Mahmutlar,2
+Makina,2
+Makine,2
+Makine Mühendisleri Odası,2
+Malazgirt,2
+Malazgirt İlköğretim Okulu,2
+Malaçay,2
+Maliye,2
+Maliyeciler Park,2
+Maltepe Arıtma Tesisi,2
+Maltepe Cami,2
+Maltepe Cumhuriyet,2
+Maltepe Gediz,2
+Maltepe Kubilay,2
+Maltepe Köşe,2
+Maltepe Mezarlık,2
+Maltepe Ortaokulu,2
+Maltepe Saha,2
+Maltepe Sevgi,2
+Maltepe Sitesi,2
+Maltepe Son Durak,2
+Maltepe Su,2
+Maltepe Çiftlik,2
+Manal,2
+Manas,2
+Mandalin,2
+Mandalina,2
+Mandalina Bahçesi,2
+Manolya Parkı,2
+Mapaz,2
+Martı,2
+Martı Parkı,2
+Martı Sitesi,2
+Masal Konutları,2
+Master,2
+Matbaa,2
+Mavi Boncuk,2
+Mavi Kent,2
+Mavi Plaj,2
+Maviçiçek,2
+Mavişehir,2
+Mavişehir Aktarma Merkezi,2
+Mavişehir Dört Yol,2
+Maydanoz,2
+Maydanoz Çıkış,2
+Mehmet Akif Cami,2
+Mehmetcik,2
+Mehmetler,2
+Mehmetler Mezarlığı,2
+Mehmetçik Parkı,2
+Mehtap Mahallesi Kahveler,2
+Meltem,2
+Meltem Sitesi,2
+Memiş Kahya,2
+Menderes Adliye Sarayı,2
+Menderes Altgeçit,2
+Menderes Anadolu Lisesi,2
+Menderes Belediyesi,2
+Menderes Damlar,2
+Menderes Devlet Hastanesi,2
+Menderes Devlet Hastanesi 2,2
+Menderes Düğün Salonu,2
+Menderes Jandarma,2
+Menderes Nikah Sarayı,2
+Menderes Oto Sanayi,2
+Menderes Park,2
+Menderes Pazar Yeri,2
+Menderes SGK,2
+Menderes Sağlık Ocağı,2
+Menderes Son Durak,2
+Menderes Stadyum,2
+Menderes Çevre Yolu,2
+Menderes Üçyol,2
+Menderes İnönü,2
+Menemen Cezaevi,2
+Menemen Cumhuriyet Ortaokulu,2
+Menemen Devlet Hastanesi Kavşak,2
+Menemen Eski Sanayi,2
+Menemen Fidanlık,2
+Menemen Garaj,2
+Menemen Garaj Karşısı,2
+Menemen Gençlik Eğitim,2
+Menemen Jandarma,2
+Menemen Karakol,2
+Menemen Serbest Bölge,2
+Menemen Stadı,2
+Menemen Toplum Sağlığı Merkezi,2
+Menemen Üst Geçit,2
+Menemen İZSU,2
+Menemen İmam-Hatip Ortaokulu,2
+Menemen Şehir Parkı,2
+Mercan,2
+Mercankoyu Sitesi Giriş,2
+Merdivenli Park,2
+Merdivenli Yol,2
+Merkez Bankası Tesisleri,2
+Merkez Sokak,2
+Merkez İlköğretim Okulu,2
+Mersincik Mevki,2
+Mersinli,2
+Mersinli Kahve Cami,2
+Mersinpınar Köşe,2
+Mert Öztüre İlkokulu,2
+Merve Cami,2
+Meryem Sitesi,2
+Mescid-i Aksa Cami,2
+Mesire Alanı,2
+Meslek Yüksek Okulu,2
+Metal,2
+Metaş İlköğretim Okulu,2
+Meteroloji,2
+Metin Aşıkoğlu Ortaokulu,2
+Metin Oktay Mahallesi Muhtarlığı,2
+Metro,2
+Metrokent,2
+Mevlan Parkı,2
+Mevlana,2
+Mevlana Anaokulu,2
+Mevlana Cami,2
+Mevlana Heykeli,2
+Mevlana Mahallesi Cami,2
+Mevlana Parkı,2
+Mevlüt Aysun Özer İlkokulu,2
+Meydan Yolu,2
+Mezarlıkbaşı Cami,2
+Mezbaha,2
+Meşale,2
+Millet,2
+Milli Piyango Anadolu Lisesi,2
+Milli İrade Orta Okulu,2
+Mimar Kemaleddin,2
+Mimar Kemalettin İlkokulu,2
+Mimar Sinan Mesleki ve Teknik Anadolu Lisesi,2
+Mimarlık Fakültesi,2
+Mimkent,2
+Mimoza,2
+Mimteks,2
+Miralay Fethi Bey,2
+Mithatpaşa Mesleki ve Teknik Anadolu Lisesi,2
+Miyase İnceer İlkokulu-Ortaokulu,2
+Moda,2
+Mola,2
+Molla Kuyusu,2
+Mopak Mesleki ve Teknik Anadolu Lisesi,2
+Mordoğan Ardıç,2
+Mordoğan Beyaz,2
+Mordoğan Frezya,2
+Mordoğan Günbatımı,2
+Mordoğan Kayacık,2
+Mordoğan Kayalık,2
+Mordoğan Körfez,2
+Mordoğan Market,2
+Mordoğan Nergis,2
+Mordoğan Orkide,2
+Mordoğan Saklı Köy,2
+Mordoğan Stad,2
+Mordoğan Sümbül,2
+Mordoğan Yarımada,2
+Mordoğan Zeytin,2
+Mordoğan Çakıl,2
+Mordoğan İğdealtı,2
+Muammer Aksoy Parkı,2
+Muhtar,2
+Muradiye Cami,2
+Muran,2
+Murat Mahallesi Muhtarlık,2
+Mursal Meydanı,2
+Musabey Meydan,2
+Musabey Ova,2
+Musabey Yol Ayrımı,2
+Musabey Çamlar,2
+Mustafa Güngör Çolakoğlu Anadolu Lisesi,2
+Mustafa Kemal Anadolu Lisesi,2
+Mustafa Kemal Lisesi,2
+Mustafa Kemal Mahallesi Muhtarlığı,2
+Mustafa Kemal İlkokulu,2
+Mustafa Reşit Aydın Parkı,2
+Mustafa Yücel Özbilgin Parkı,2
+Mutlu Parkı,2
+Muzaffer Ersezgin,2
+Muzaffer Gönen Parkı,2
+Mühendislik Fakültesi,2
+Münevver Teyze Parkı,2
+Münevver Öğretmen Ortaokulu,2
+Mürsel Paşa,2
+Mürşide Altınçubuk İlköğretim Okulu,2
+Müyesser Turfan Güçsüzler Evi,2
+Mızraklı,2
+Naci Tuncel Caddesi,2
+Naci Şensoy Anadolu Lisesi,2
+Nafiz Gürman Eski Son Durak,2
+Nafiz Gürman Muhtarlık,2
+Naime Meydan,2
+Naime Yolu,2
+Naime Çiftlik,2
+Nalbant,2
+Naldöken Kültür Merkezi,2
+Naldöken Meydan,2
+Naldöken Mezarlık,2
+Naldöken İtfaiye,2
+Nalkesen,2
+Namet,2
+Narbel Çeşme,2
+Narenciye,2
+Narlıca,2
+Narlıca Giriş,2
+Narlıca Köy İçi,2
+Narlıca Çıkış,2
+Narlıca İlkokulu,2
+Narlıdere Belediye,2
+Narlıdere Cami,2
+Narlıdere Kaymakamlık,2
+Narlıdere Piknik Yeri,2
+Narlıdere İtfaiye,2
+Narlıdere İzmir Evleri,2
+Narlıkuyu,2
+Narova,2
+Nasrettin Hoca Parkı,2
+Nato,2
+Nato 1,2
+Nazar Köy,2
+Necdet Tokatlıoğlu,2
+Nedim Dağtaş,2
+Nehir,2
+Nemrut,2
+Nene Hatun,2
+Nenehatun Çok Programlı Anadolu Lisesi,2
+Nergiz,2
+Nergiz Sağlık Ocağı,2
+Nevvar Salih İşgören Anadolu Lisesi,2
+Neyhan,2
+Neşe,2
+Neşeli,2
+Neşet Ertaş Parkı,2
+Ni KA,2
+Nilüfer,2
+Nohut Gölü,2
+Nohutalan,2
+Nohutalan Merkez,2
+Nohutalan Taş Ocağı,2
+Nohutalan Zeytin,2
+Nokta,2
+Novada,2
+Nuri Atik Mesleki ve Teknik Anadolu Lisesi,2
+Nuri Vesugay Parkı,2
+Ocaklı,2
+Okul Durağı,2
+Okullar,2
+Okçu,2
+Okçular Meydan,2
+Okçular Yolu,2
+Olduruk,2
+Olduruk 2,2
+Olimpiyat Köy Havuzu,2
+Olimpiyat Köyü Giriş,2
+Olimpiyat Köyü Çarşı,2
+On Dört Evler,2
+Onat,2
+Onay,2
+Ondokuz Mayıs,2
+Ongül,2
+Onmaz,2
+Opel,2
+Orcaner,2
+Ordu Pazarı,2
+Organize,2
+Organize Sanayi Cami,2
+Orhan Kemal,2
+Orhan Veli Kanık,2
+Orhan Veli Parkı,2
+Orhangazi,2
+Orhangazi Yolu,2
+Orhanlı,2
+Orhanlı Gündoğdu,2
+Orhanlı Meydan,2
+Orhanlı Muhtarlık,2
+Orhanlı Yol Ayrımı,2
+Orman Fidanlığı,2
+Orman Kampı,2
+Orman Okulu,2
+Orman İşletme,2
+Orman İşletme Şefliği,2
+Ormancı,2
+Ormancı Altyol,2
+Ormancı Sitesi,2
+Ormancı Sitesi 2,2
+Ormanköy,2
+Ormanköy Giriş,2
+Ormanköy Meydan,2
+Ormanköy Çıkış,2
+Orta Mahalle Plaj,2
+Ortadoğulular Sitesi,2
+Ortaköy,2
+Ortaköy Kavşak,2
+Ortaköy Merkez Cami,2
+Ortanca,2
+Ortaç,2
+Osman Bey Anadolu Lisesi,2
+Osman Bey Parkı,2
+Osman Dirik Parkı,2
+Osman Kibar,2
+Osman Kibar Kavşağı,2
+Osman Zeki Üngör,2
+Osman Öksüz Parkı,2
+Osmangazi Köprü,2
+Osmanlar Köyü Giriş,2
+Osmanlar Yolu,2
+Osmanlı Parkı,2
+Otokent C Kapısı,2
+Otoyol,2
+Otuz Ağustos,2
+Otuzbirler Kümeevler,2
+Otuzbirler Mezarlık,2
+Otuzbirler Üçyol,2
+Ova Evleri,2
+Ovacık Giriş,2
+Ovacık Madeni,2
+Ovacık Samyeli,2
+Ovacık Çıkış,2
+Oya,2
+Oyak Blokları,2
+Ozanköy,2
+Oğlananası,2
+Oğlananası Bahçe,2
+Oğlananası Giriş,2
+Oğlananası Karaselvi,2
+Oğlananası Köprü,2
+Oğlananası Mezarlık,2
+Oğlananası Sevgi,2
+Oğlananası Yeni Cami,2
+Oğlananası Yol Ayrımı,2
+Oğlananası Zafer,2
+Oğlananası Zeytinlik,2
+Oğlananası Üçyol,2
+Oğlananası İlkokulu,2
+PTT 2,2
+PTT Santral,2
+Pakmaya,2
+Pakmaya Ülkü Hızal Anadolu Lisesi,2
+Palamut,2
+Palamutarası Giriş,2
+Palamutarası Meydan,2
+Palamutarası Yolu,2
+Palmiyeler,2
+Pamukkale Sitesi,2
+Pamukkale Sitesi 2,2
+Pamukyazı Merkez,2
+Pamukyazı Ova,2
+Pamukyazı Tamsa Seramik Fabrikası A.Ş. İlkokulu,2
+Panaroma Evleri,2
+Pancar Cami,2
+Pancar Giriş,2
+Pancar Köprü,2
+Pancar Meydan,2
+Pancar Mezarlık,2
+Pancar Muzaffer Hanım İlkokulu,2
+Pancar OSB Trafo,2
+Pancar Prefabrik,2
+Pancar Tekstil,2
+Pancar Viraj,2
+Pancar Zeytin,2
+Pancar Çıkış,2
+Pansiyon,2
+Park Koza Evleri,2
+Park Kozak,2
+Park Orman,2
+Parklar,2
+Parlak Giriş,2
+Patlak Mevki,2
+Payamlı Kısıklar,2
+Payamlı Manzara,2
+Payamlı Mezarlık,2
+Payamlı Muhtarlık,2
+Payamlı Orman,2
+Payamlı Restoran,2
+Payamlı Vadi,2
+Payamlı Yol ayrımı,2
+Payamlı Yolu,2
+Payamlı Zeytinlik,2
+Payamlı Çam,2
+Paşa Köprüsü,2
+Peker,2
+Peker Mahallesi Eski Son Durak,2
+Pepsi,2
+Perihan Mahmut Celalettin Demirgüreş İlkokulu,2
+Permakültür,2
+Pertev Bey,2
+Petkim Arıtma,2
+Petra Koyu,2
+Petrol,2
+Petunya,2
+Peyami Safa,2
+Peşrefli,2
+Peşrefli Çiftlik,2
+Pina,2
+Pirenlik Depo,2
+Pirenlik Orman,2
+Pirenlik Park,2
+Pirenlik Tepe,2
+Pirenlik Çayır,2
+Pirentepe,2
+Piri Reis,2
+Piriştina,2
+Piriştina Parkı,2
+Piyade Teğmen Mehmet Terzioğlu,2
+Piyale,2
+Polen Tatil Köyü,2
+Poliklinik,2
+Polis Okulu,2
+Postacılar Muhtarlık,2
+Postacılar Trafo,2
+Poyracık Anıt,2
+Poyracık Beyaz Zambak,2
+Poyracık Meydan,2
+Poyracık Park,2
+Poyracık Zeytinlik,2
+Poyraz,2
+Prim Konutları,2
+Prof.Dr.Muzaffer Kula Anadolu Lisesi,2
+Profesör Doktor Taner Kışlalı Parkı,2
+Profesörler Sitesi,2
+Ptt Karabağlar Dağıtım Toplama Merkezi,2
+Ptt Santral,2
+Punteks,2
+Pura,2
+Pınar Evleri,2
+Pınar Mevkii,2
+Pınar Sokak,2
+Pınar Süt,2
+Pınarbaşı Depolar,2
+Pınarbaşı Gökkuşağı,2
+Pınarbaşı Kara Ali Camii,2
+Pınarbaşı Kavşak,2
+Pınarbaşı Kültür Merkezi,2
+Pınarbaşı Mezarlığı,2
+Pınarbaşı Sanayi Giriş,2
+Pınarbaşı Yarış Pisti,2
+Pınarcık  Yol Ayrımı,2
+Pınarköy,2
+Pınarköy Cami,2
+Pınarköy Giriş,2
+Pınarköy Köy İçi,2
+Pınarköy Küme Evleri,2
+Pınarköy Çıkış,2
+Pınarlı,2
+Pınarlı Cami,2
+Radar,2
+Recep Ersayın İlkokulu,2
+Recep Kerman Lisesi,2
+Redresör,2
+Refet Bele Mahalle Muhtarlığı,2
+Reha Midilli Ortaokulu,2
+Reha Necla Midilli İ.Ö,2
+Reisdere Market,2
+Reisdere Siteler,2
+Reisdere Taşevler,2
+Reisdere Özkanlar Sitesi,2
+Remzi Bey,2
+Remzi Oğuz Arık İlkokulu,2
+Restoran,2
+Reyhan,2
+Reysaş,2
+Rezene,2
+Reşat Nuri,2
+Reşat Nuri Güntekin,2
+Rüzgarlıtepe,2
+Rıdvan Nafiz Edgüer Ortaokulu,2
+Rıfat Ilgaz,2
+Rıza Ertan,2
+Saadet Onart İlkokulu,2
+Sabahattin Ali,2
+Sacide Ayaz İlk ve Ortaokulu,2
+Sadettin Tezcan Özel Eğitim Meslek Okulu,2
+Sadi Hoşses Parkı,2
+Sadullah Sever,2
+Sadullah Sever Kümesi,2
+Sadık Bey,2
+Sahil Sağlık Denetleme,2
+Sahilkent,2
+Saip Köy,2
+Saipler,2
+Saipler Kavşak,2
+Saipler Meydan,2
+Saipler Tarla,2
+Saipler Yol Ayrımı,2
+Saipler Yolu,2
+Saipler Zeytinlik,2
+Saipler Çiftlik,2
+Saipler Çıkış,2
+Sait Faik Abasıyanık,2
+Sakin,2
+Sakızağacı,2
+Salhane İş Merkezi,2
+Salih Dede Anadolu Lisesi,2
+Salih Omurtak Üst Yol,2
+Saliha Hüseyin Özyavuz Ortaokulu,2
+Salkım Söğüt,2
+Salman Cami,2
+Salman Giriş,2
+Salman Köprü,2
+Salman Market,2
+Saltukbey,2
+Salça Fabrikası,2
+Sanayi Caddesi,2
+Sanayi Kavşağı,2
+Sancaklı,2
+Sancaklı Giriş,2
+Sancaklı Küme Evleri,2
+Sancaklı Muhtarlık,2
+Sancaklı Saha,2
+Sancaklı Tepe,2
+Sancaklı Yol Ayrımı,2
+Sancaklı Çeşme,2
+Santorini Sitesi,2
+Saray,2
+Saraykent 1,2
+Saraypatı,2
+Sare,2
+Sarnıç Alt Geçidi,2
+Sarnıç Belediye Garajı,2
+Sarnıç Dere,2
+Sarnıç Eski Son durak,2
+Sarnıç Gölet,2
+Sarnıç Kızılçam,2
+Sarnıç Meydan,2
+Sarnıç Mezarlık,2
+Sarnıç Piknik Alanı,2
+Sarnıç Sağlık Ocağı,2
+Sarnıç Trafo,2
+Sarnıç Yeşil,2
+Sarnıç Yol Ayrımı,2
+Sarnıç Çamlık,2
+Sarnıçköy Giriş,2
+Sarnıçköy Ladin,2
+Sarnıçköy Çamlık,2
+Sarı Evler,2
+Sarı Gül,2
+Sarı Nasuhlar Yolu,2
+Sarıdere,2
+Sarıkaya,2
+Sarıkaya Mevki,2
+Sarılar İlkokulu,2
+Sarıtaş,2
+Sarıyurt Giriş,2
+Sarıçay,2
+Sarışın,2
+Sasalı Giriş,2
+Sasalı Meydan,2
+Sasalı Piknik Alanı,2
+Sayra&Çınar Parkı,2
+Sazlı Göl,2
+Sazlıca Koyu,2
+Sağancı,2
+Sağancı Giriş,2
+Sağancı Meydan,2
+Sağancı Çıkış,2
+Sağancı İlkokulu,2
+Sağlık Giriş,2
+Sağlık Müdürlüğü,2
+Sağlık Son Durak,2
+Sebahat Akşıray Otistik Eğitim Merkezi,2
+Sebze Hali,2
+Sefa,2
+Sefa Köse Reis,2
+Seferihisar Bahçe,2
+Seferihisar Belediyesi Şantiye,2
+Seferihisar Devlet Hastanesi,2
+Seferihisar Değirmen,2
+Seferihisar Kavşak,2
+Seferihisar Konutlar,2
+Seferihisar Mezarlık,2
+Seferihisar Saha,2
+Seferihisar Semt Garajı,2
+Seferihisar Su Arıtma Tesisi,2
+Seferihisar TOKİ Sitesi,2
+Seferihisar Çiftlik,2
+Seferihisar İMKB Mesleki ve Teknik Anadolu Lisesi,2
+Seferihisar İtfaiye,2
+Segen Göleti,2
+Sekiz Eylül İlkokulu,2
+Sekseninci Yıl Cumhuriyet Parkı,2
+Sekseninci Yıl İlköğretim Okulu,2
+Selvili,2
+Selvili Cami,2
+Selçuk Belediyesi,2
+Selçuk Kavşağı,2
+Selçuk Mahallesi,2
+Selçuk Yaşar Alaybey Ortaokulu,2
+Selçuk Yaşar Boyacılık EML,2
+Selçuk Şehit Erol Olçok Anadolu Lisesi,2
+Semiye,2
+Semral Gülcemal Parkı,2
+Seniha Mayda Ortaokulu,2
+Sepici,2
+Sera Sokak,2
+Serbay,2
+Serdar,2
+Serdengeçti,2
+Seren,2
+Serköy Çiftlik Evleri Giriş,2
+Serçe,2
+Ses,2
+Sevda,2
+Seven,2
+Sevgi Ferit Akın İlköğretim Okulu,2
+Sevgi Mahalle Muhtarlığı,2
+Sevgi Ormanı,2
+Seydiköy,2
+Seyir,2
+Seyir Tepe,2
+Seyit Şanlı Anadolu Lisesi,2
+Seyran,2
+Seyrek Belediyesi,2
+Seyrek Konutlar,2
+Seyrek Meydan,2
+Seyrek İlköğretim Okulu,2
+Seçkin Evler Sitesi,2
+Siesta Konutları Yolu,2
+Sinancılar,2
+Sinem,2
+Sistaş,2
+Site 1,2
+Site 2,2
+Site Son Durak,2
+Siteler Muhtarlık,2
+Sivil Savunma,2
+Smyrna,2
+Sokullu,2
+Son Direk,2
+Sosyal Konutlar,2
+Sosyal Tesisler,2
+Sosyal Yaşam Merkezi,2
+Sosyal Yaşam Merkezi 2,2
+Sosyete Parkı,2
+Soyak İzsu,2
+Soydaşlar,2
+Soylu,2
+Soğuk Depolar,2
+Soğuk Hava,2
+Soğukkuyu Atölye,2
+Soğukkuyu Trafik,2
+Soğutma Fabrikası,2
+Spor Kondisyon Parkı,2
+Spor Merkezi,2
+Spotçular,2
+Stadyum İstasyon,2
+Su Perisi,2
+Subay Gazinosu,2
+Subay Lojmanları,2
+Subay Lojmanları 1,2
+Subay Lojmanları 2,2
+Subay Lojmanları 3,2
+Subay Lojmanları 4,2
+Subaşı Belediyesi,2
+Subaşı Ova,2
+Subaşı Pazaryeri,2
+Sucu,2
+Sultan Abdülhamit İlkokulu,2
+Sultan Alparslan Anadolu Lisesi,2
+Sulu Dere Yol Ayrımı,2
+Sulu Kız,2
+Suphi Parkı,2
+Sönmez,2
+Söğütören Mavi,2
+Söğütören Yol Ayrımı,2
+Süleyman Demirel Lisesi,2
+Süleyman Eczacıbaşı İlköğretim Okulu,2
+Süleyman Şah Mesleki ve Teknik Anadolu Lisesi,2
+Süleymaniye,2
+Süleymanlı,2
+Süleymanlı Gölet yolu,2
+Süleymanlı Kalarga Tepesi,2
+Süleymanlı Meydan,2
+Süleymanlı Muhtarlık,2
+Süleymanlı Tavuk Çiftliği,2
+Süleymanlı Yolu,2
+Süleymanlı Çıkış,2
+Süleymanlı Üst Yol,2
+Süleymanlı İlköğretim Okulu,2
+Sümerbank,2
+Süren,2
+Süreyya Sultan Evleri,2
+Sürücü Kursu,2
+Süsen,2
+Süt Fabrikası,2
+Süt Toplama Merkezi,2
+Sütçüler Kavşağı,2
+Sütçüler Köyü Girişi,2
+Sütçüler Yol Ayrımı,2
+Sıdıka Akdemir Rehberlik ve Araştırma Merkezi,2
+Sığacık Aile Sağlığı,2
+Sığacık Konakları,2
+Sığacık Manzara,2
+Sığacık Pazarı,2
+Sığacık Sazlıgöl,2
+Sığacık Siteler,2
+Sığacık Tarla,2
+Sığacık Yol Ayrımı,2
+Sığacık Zeytinlik,2
+TEİAŞ,2
+TOKİ Evleri,2
+TOKİ Yolu,2
+TRT,2
+Tabak Köprüsü,2
+Tabakçı plajı,2
+Tahir Merzeci Ortaokulu,2
+Tahsin Yazıcı,2
+Tahtalı,2
+Talatpaşa,2
+Tarihi Su Kemeri,2
+Tarihi Çavuş Çeşmesi,2
+Tariş Arkası,2
+Tariş Küme Evleri,2
+Tariş depoları,2
+Tariş İpek,2
+Tarık Buğra,2
+Tarım  Koop,2
+Tarım Geliştirme Merkezi,2
+Tarım Kooperatifi,2
+Tarım Ürünleri Deposu,2
+Tarımsal Araştırma,2
+Tarımsal Araştırma ve Eğitim Merkezi,2
+Taskesik İlkokulu,2
+Tat Konserve,2
+Tatil Köyü,2
+Tavuk Çiftliği,2
+Taziye Evi,2
+Taç Sanayi,2
+Taş Ocağı,2
+Taş Villa,2
+Taşduvar,2
+Taşev,2
+Taşkesik,2
+Taşkesik Benzinlik,2
+Taşkesik Camii,2
+Taşkesik Yolu,2
+Taşkesik Zeytinlik,2
+Taştepe Caddesi,2
+Tedaş,2
+Tekel Lojmanlar,2
+Tekeli Belediyesi,2
+Tekeli Beton Santrali,2
+Tekeli Efe,2
+Tekeli Esinti,2
+Tekeli Park,2
+Tekeli Sağlık Ocağı,2
+Tekeli Tarım,2
+Tekeli Yörük,2
+Tekeli Çiftlik,2
+Tekeli İstasyon Yolu,2
+Tekke Mezarlığı,2
+Tekkebaşı,2
+Tekkeboğazı Sokak,2
+Tekkedere,2
+Tekne Atölyesi,2
+Teknopark,2
+Teksif,2
+Tekstil,2
+Tekstilciler Cami,2
+Tekstilciler Çarşısı,2
+Tel Örgü,2
+Teleferik,2
+Telekler Köyü,2
+Telekler Çeşme,2
+Telli Bahçe,2
+Temel,2
+Tenis Kulübü,2
+Teos Antik Kenti,2
+Teos Marina,2
+Teos Parkı,2
+Teos Piknik Alanı,2
+Teos Villaları,2
+Tepaş,2
+Tepe Kahve,2
+Tepecik Caddesi,2
+Tepecik Doğum Hastanesi,2
+Tepeköy Aktarma,2
+Tepeköy Kavşak,2
+Tepeköy İstasyon Yolu,2
+Tepeli,2
+Teras Evler,2
+Teraslı Park,2
+Terbay,2
+Termak,2
+Termik Santral Tesisleri,2
+Tersane,2
+Terzi,2
+Terzihaliler Camii,2
+Terzihaliler Son Durak,2
+Terzihaliller Mermer,2
+Teğmen Ali Rıza Akıncı Anadolu Lisesi,2
+Ticaret Borsası İlköğretim Okulu,2
+Tire ATATÜRK Std.,2
+Tire Anadolu İmam Hatip Lisesi,2
+Tire Gökçen Mezbaha,2
+Tire Hemzemin Geçit,2
+Tire Kavşağı,2
+Tire Küçük Sanayi Sitesi,2
+Tire Küçük Sanayi Sitesi-2,2
+Tire Linyit,2
+Tire Meydan,2
+Tire Mezarlık,2
+Tire Organize 1,2
+Tire Organize 2,2
+Tire Park,2
+Tire Sanatkarlar,2
+Tire Stadı,2
+Tire Terminal,2
+Tire Toki Şehit Mehmet Çağlar Bölük İlkokulu,2
+Tire Toplu Konutlar,2
+Tire Yol Ayrımı,2
+Tire Yolu,2
+Tire Zümrüt,2
+Tire Çiftlik,2
+Tire İstasyon,2
+Titus,2
+Tokatbaşı,2
+Tokatbaşı Arıtma,2
+Tokatbaşı Giriş,2
+Tokatbaşı Köşe,2
+Tokatbaşı Meydan,2
+Tokatbaşı Mezarlık,2
+Tokatbaşı Çiftlik,2
+Tokatlı,2
+Tokatlıoğlu,2
+Toki AVM,2
+Toki Konutlar,2
+Toki Konutları,2
+Toki Yol Ayrımı,2
+Toki Yıldız,2
+Toki Çam,2
+Tokmakalan,2
+Top Sahası,2
+Topalak,2
+Toprak Yol,2
+Topçu Kuyu,2
+Topçu Taburu,2
+Topçu Tugayı,2
+Topçukuyu,2
+Torasan Mahallesi,2
+Torba Kent,2
+Torbalı Altgeçit,2
+Torbalı Anadolu Lisesi,2
+Torbalı Anadolu İmam Hatip Lisesi,2
+Torbalı Anadolu İmam-Hatip Lisesi,2
+Torbalı Askerlik Şubesi,2
+Torbalı Caddesi,2
+Torbalı Cami,2
+Torbalı Depolar,2
+Torbalı Devlet Hastanesi,2
+Torbalı Devlet Hastanesi Kavşağı,2
+Torbalı Diyaliz Merkezi,2
+Torbalı Fatih Cami,2
+Torbalı Galeri,2
+Torbalı Garajı,2
+Torbalı Havuz Park,2
+Torbalı Huzurevi,2
+Torbalı Kabristan,2
+Torbalı Konutlar,2
+Torbalı Mezarlık,2
+Torbalı Muratbey Mahallesi,2
+Torbalı OSB,2
+Torbalı OSB 2,2
+Torbalı OSB Yolu,2
+Torbalı Piri Reis Mesleki ve Teknik Anadolu Lisesi,2
+Torbalı Sanayi,2
+Torbalı Sanayi Sitesi,2
+Torbalı Sanayi Çıkışı,2
+Torbalı Siteler,2
+Torbalı Spor Salonu,2
+Torbalı Stad,2
+Torbalı Ticaret Odası,2
+Torbalı Ticaret Odası 80.Yıl İlkokulu,2
+Torbalı Tren Yolu,2
+Torbalı Tıp Merkezi,2
+Torbalı İZSU,2
+Torbalı Şantiye,2
+Toros Meydan,2
+Toros Pazaryeri,2
+Torosan Orman,2
+Torunlar,2
+Tosun Çeşmesi,2
+Trafolar,2
+Transfer Merkezi,2
+Tren Yolu 1,2
+Tren Yolu 2,2
+Tren Yolu Geçidi,2
+Tropikal Sitesi,2
+Tulum,2
+Tulum Giriş,2
+Tulum Okul,2
+Tulum Son Durak,2
+Tulumba,2
+Tulumba Mevki,2
+Turan,2
+Turan Çakın İlkokulu,2
+Turanlı,2
+Turgut Dörtyol,2
+Turgut Meydan,2
+Turgut Mezarlık,2
+Turgut Reis İlköğretim Okulu,2
+Turgut Restoran,2
+Turgut Tarla,2
+Turgut Çiftlik,2
+Turgut Özal Bulvarı,2
+Turgutlu,2
+Turizm Okulu,2
+Turkuaz,2
+Turkuaz Sitesi,2
+Tuz İşletmesi Lokali,2
+Tuzla Koyu Burun,2
+Töev,2
+Tümerk,2
+Tünel,2
+Tüpçü,2
+Türk Telekom Mesleki ve Teknik Anadolu Lisesi,2
+Türkan Özilhan Devlet Hastanesi,2
+Türkeliler,2
+Türkelli Belediye,2
+Türkelli Düğün Salonu,2
+Türkelli Giriş,2
+Türkelli Karakol,2
+Türkelli Katı Atık,2
+Türkelli Çıkış,2
+Türkelli Üçyol,2
+Türkmenköy Jandarma,2
+Türkoğlu,2
+Türkönü,2
+Türkönü Küme Evler,2
+Tütün Fabrikası,2
+Tınaztepe Üniversitesi Yan Giriş,2
+Tıp Merkezi,2
+Tır Deposu,2
+Tır Garajı,2
+Tır Parkı,2
+Tır parkı,2
+Tırazlı,2
+Tırazlı Kümeevler,2
+Tırazlı Mezarlık,2
+Tırazlı Yol Ayrımı,2
+Tırazlı Çıkış,2
+Tırmanlar Yol Ayrımı,2
+Ufuk,2
+Ufuk Cami,2
+Ufuk Karakolu,2
+Ufuk Köy,2
+Ulama,2
+Ulamış Cami,2
+Ulamış Giriş,2
+Ulamış Kahveler,2
+Ulamış Kümesi,2
+Ulamış Merkez,2
+Ulamış Mezarlık,2
+Ulamış Ortaokulu,2
+Ulamış Yaren,2
+Ulamış Çeşme,2
+Ulamış İlkokulu,2
+Ulu Cami Muhtarlık,2
+Ulu Çam,2
+Ulu-Koop,2
+Ulucak Ardıç,2
+Ulucak Ayşe-Hasan Türkmen Ortaokulu,2
+Ulucak Cumhuriyet,2
+Ulucak Giriş,2
+Ulucak Jandarma,2
+Ulucak Meydan,2
+Ulucak Mezarlık,2
+Ulucak Pazar Yeri,2
+Ulucak Spor Tesisleri,2
+Ulucak Trafo,2
+Ulucak İlköğretim Okulu,2
+Uludağ,2
+Ulukent Aktarma,2
+Ulukent Gar,2
+Ulukent Koop Giriş,2
+Ulukent Mezarlık,2
+Ulukent Ortaokulu,2
+Ulukent Park,2
+Ulukent Siteler,2
+Ulukent Trafo,2
+Ulukent Üçyol,2
+Ulus,2
+Uluslararası Seferihisar İMKB Anadolu İmam Hatip Lisesi,2
+Uluğbey İlkokulu,2
+Umut Mahallesi Köprü,2
+Urgancı,2
+Urla Adliye,2
+Urla Bölge Trafik,2
+Urla Devlet Demiryolları Kampı,2
+Urla Devlet Hastanesi,2
+Urla Egiad Ortaokulu,2
+Urla Emniyet,2
+Urla Sanat,2
+Urla Sanayi 1,2
+Urla Sanayi 2,2
+Urla Sanayi 3,2
+Urla Stadı,2
+Urla Villalar,2
+Uslu,2
+Uygar,2
+Uygur,2
+Uzlar,2
+Uzman Çavuş Asım Türkel,2
+Uzman Çavuş Ferruh Dikmen,2
+Uzunburun,2
+Uzundere Kavşağı,2
+Uzundere Mezarlığı,2
+Uzundere Toki Cami,2
+Uzundere Yol Ayrımı,2
+Uzunkuyu,2
+Uzunkuyu Meydan,2
+Uzunkuyu Ortaokulu,2
+Uzunkuyu Yolayrımı,2
+Uzunkuyu İnönü,2
+Uğur,2
+Uğur Koleji,2
+Uğur Mumcu Muhtarlık,2
+Uğur Mumcu Sağlık Ocağı,2
+Vakıf Kuyu,2
+Vali Konağı,2
+Vali Kutlu Aktaş,2
+Vali Namık Kemal İlköğretim Okulu,2
+Vali Nevzat Ayaz Lisesi,2
+Vali Rahmi Bey,2
+Vecihi Hürkuş,2
+Ventola,2
+Verde,2
+Veteriner İşleri Müdürlüğü,2
+Veterinerlik,2
+Veysel Karani Cami,2
+Villa 1,2
+Villa 2,2
+Villa 3,2
+Villa Ağaçlık,2
+Villakent Anadolu Lisesi,2
+Villakent Giriş,2
+Villakent Merkez,2
+Vizyon,2
+Vişneli Bahçe,2
+Vişneli Girişi,2
+Vişneli Köyü Yol Ayrımı,2
+Vişneli Küme Evleri,2
+Vişneli Yolu,2
+Vişneli Zeytinlik,2
+Vişneli Çıkış,2
+Vişneli Üçyol,2
+Vişneli İlkokulu,2
+Yabancı Diller,2
+Yabancılar Şube Müdürlüğü,2
+Yadigar Cami,2
+Yadigar Sitesi,2
+Yahya Kemal Beyatlı,2
+Yaka,2
+Yaka Giriş,2
+Yaka Muhtarlık,2
+Yaka Üçyol,2
+Yakacık,2
+Yakacık Papatya,2
+Yakacık Çiftlik,2
+Yakakent,2
+Yakakent Ahlat,2
+Yakaköy Girişi,2
+Yakaköy Mezarlık,2
+Yakamoz 2,2
+Yakapınar,2
+Yakapınar Giriş,2
+Yakapınar Mezarlık,2
+Yakapınar Çayırı,2
+Yakapınar Çıkış,2
+Yakınca,2
+Yalnız Ev,2
+Yalnızev Arayol,2
+Yalnızev Meydan,2
+Yalçındağ,2
+Yalı Manzara,2
+Yalı Market,2
+Yalı Siteler,2
+Yalı Tatil Sitesi,2
+Yalı Villalar,2
+Yalı Çiçekevler,2
+Yalın Ayak Dede Türbesi,2
+Yamanlar Karakol,2
+Yamanlar Köyü Cami,2
+Yamanlar Küme Evleri,2
+Yamanlar Mesire Yeri,2
+Yamanlar Muradiye Cami,2
+Yamanlar PTT,2
+Yamanlar Çeşme,2
+Yamaç Parkı,2
+Yangın Havuzu,2
+Yanık köy Mezarlık,2
+Yaren,2
+Yaren Dede,2
+Yasemin Uysal,2
+Yassıtepe Höyüğü,2
+Yavuz Selim İlkokulu,2
+Yavuz Sultan Selim Cami,2
+Yayakent,2
+Yayakent Giriş,2
+Yayakent Mezarlık,2
+Yayakent Sanayi,2
+Yayla,2
+Yayla Kahvesi,2
+Yayla Mevkii,2
+Yayla Muhtarlık,2
+Yazıbaşı,2
+Yazıbaşı Merkez,2
+Yazıbaşı Sağlık Ocağı,2
+Yazıbaşı Tariş,2
+Yazıbaşı Tekel,2
+Yağ Fabrikası,2
+Yağcılar Giriş,2
+Yağcılar Orman,2
+Yağcılar Sera,2
+Yağcılar Tarla,2
+Yağcılar yol ayrımı,2
+Yağhaneler,2
+Yağhaneler 2,2
+Yağlar,2
+Yağlar Çıkış,2
+Yağmurcun,2
+Yaşar Kemal Kültür Merkezi,2
+Yaşar Kemal Mahalle Muhtarlığı,2
+Yedi Eylül,2
+Yedi Eylül Mahallesi Mezarlık,2
+Yedi Göller,2
+Yedi Göller İş Merkezi,2
+Yel Aldı,2
+Yel Değirmeni,2
+Yeldeğirmenleri,2
+Yelki,2
+Yelki Kavşak,2
+Yelki Saha,2
+Yelki Yeldeğirmeni,2
+Yelki Üçyol,2
+Yemişlik,2
+Yemişçi,2
+Yener Caddesi,2
+Yeni Bağarası,2
+Yeni Bağarası Giriş,2
+Yeni Bağarası Yol Ayrımı,2
+Yeni Bağarası Çıkış,2
+Yeni Bağarası İlkokulu,2
+Yeni Bulgurca Cami,2
+Yeni Bulgurca Giriş,2
+Yeni Bulgurca Son Durağı,2
+Yeni Dostlar Sitesi,2
+Yeni Foça Birlik Evleri,2
+Yeni Foça Jandarma,2
+Yeni Foça Yol Ayrımı,2
+Yeni Girne,2
+Yeni Mahalle,2
+Yeni Mahalle Altyol,2
+Yeni Mahalle Muhtarlık,2
+Yeni Mezarlık İki,2
+Yeni Orhanlı Küme Evleri,2
+Yeni Orhanlı Ortaokulu,2
+Yeni Orman,2
+Yeni Şakran  Merkez,2
+Yeni Şakran Giriş,2
+Yeni Şakran Yol Ayrımı,2
+Yeniay,2
+Yenibahar,2
+Yenidünya,2
+Yenifoça Caddesi,2
+Yenigün Muhtar,2
+Yenikent Aile Sağlığı,2
+Yenikent Köprü,2
+Yenikent Tariş,2
+Yenikent Zeytinlik,2
+Yeniköy,2
+Yeniköy Atış Poligonu,2
+Yeniköy Cami,2
+Yeniköy Kahveler,2
+Yeniköy Lale,2
+Yeniköy Menekşe,2
+Yeniköy Muhtarlık,2
+Yeniköy Ortaokulu,2
+Yeniköy Türktelekom,2
+Yeniköy Zambak,2
+Yeniköy Zeytin,2
+Yeniköy Çiftlik,2
+Yeniköy Çıkış,2
+Yeniköy Şehit Cengiz Topel İlkokulu,2
+Yenioba,2
+Yenitepe Erguvan,2
+Yenitepe Giriş,2
+Yenitepe Meydan,2
+Yeniyol,2
+Yeniçiftlik Benzinlik,2
+Yeniçiftlik Cami,2
+Yeniçiftlik Ekin,2
+Yeniçiftlik Merkez,2
+Yeniçiftlik Nar,2
+Yeniçiftlik Tavuk Çiftliği,2
+Yeniçiftlik Çıkış,2
+Yeniçiftlik İlkokulu,2
+Yenişehir Gıda Çarşısı İZSU Yanı,2
+Yenişehir PTT,2
+Yenişehir Pazar Yeri,2
+Yenişehir Üst Geçit,2
+Yentur,2
+Yerlitahtacı Yol Ayrımı,2
+Yetmiş Beşinci Yıl Lisesi,2
+Yetmiş Beşinci Yıl Parkı,2
+Yetmiş Beşinci Yıl İlköğretim Okulu,2
+Yeşil Bahçe,2
+Yeşil Köşk,2
+Yeşil Mahallesi Muhtarlığı,2
+Yeşil Ova,2
+Yeşil Ulu Cami,2
+Yeşil Urla,2
+Yeşil Yol,2
+Yeşildere,2
+Yeşildere Cami,2
+Yeşilkaya,2
+Yeşillik,2
+Yeşilova,2
+Yeşilova Gönül,2
+Yeşilova Höyüğü,2
+Yeşilova Köy Yolu,2
+Yeşilova Mezarlık,2
+Yeşilpınar Meydan,2
+Yeşilpınar Muhtarlık,2
+Yeşiltepe İlkokulu,2
+Yeşilyurt Huzurevi,2
+Yeşilyurt Merkez Cami,2
+Yeşilyurt Mezarlık,2
+Yeşilyurt Pazaryeri,2
+Yeşilyurt Sağlık Ocağı,2
+Yeşilyurt Çeşme,2
+Yeşilyurt İtfaiye,2
+Yeşilçam Eczane,2
+Yeşilçam Market,2
+Yeşilçam Muhtarlık,2
+Yeşilçam Orman,2
+Yiğitler,2
+Yiğitler Bahçeler,2
+Yiğitler Demirci,2
+Yiğitler Giriş,2
+Yoldaş,2
+Yolüstü Benzinlik,2
+Yolüstü Kahveler,2
+Yolüstü Meydan,2
+Yolüstü Seralar,2
+Yortanlı,2
+Yoğurtçular Giriş,2
+Yoğurtçular Meydan,2
+Yoğurtçular Papatya,2
+Yoğurtçular Çıkış,2
+Yukarı Kızılca,2
+Yukarı Kızılca Belediye,2
+Yukarı Kızılca Jandarma,2
+Yukarı Kızılca Orman,2
+Yukarı Kızılca Ortaokulu,2
+Yukarı Kızılca Çamlık,2
+Yukarı Mahalle,2
+Yukarı Sancaklı,2
+Yukarı Sancaklı Çıkış,2
+Yukarı Sütçüler Trafo,2
+Yukarı Sütçüler Çeşme,2
+Yukarı Vişneli Meydan,2
+Yukarı Çakaltepe,2
+Yukarıbey,2
+Yukarıbey Cami,2
+Yukarıbey Giriş,2
+Yukarıbey İlkokulu,2
+Yukarıcuma Giriş,2
+Yukarıcık,2
+Yukarıkırıklar,2
+Yumurtacı,2
+Yunus,2
+Yunus Emre Anadolu Lisesi,2
+Yurtoğlu Muhtarlık,2
+Yurtoğlu Pazaryeri,2
+Yurtoğlu Son Durak,2
+Yurtoğlu Üçyol,2
+Yusuf Atılgan,2
+Yusuflu,2
+Yusuflu Köyü Giriş,2
+Yusuflu Köyü Yol Ayrımı,2
+Yuvalı,2
+Yuvam,2
+Yücel Sitesi,2
+Yüksek Kahve,2
+Yüksek Teknoloji,2
+Yüksek Teknoloji Giriş,2
+Yüksek Vadi,2
+Yüksek Vadi 2,2
+Yüzbaşı Şerafettin,2
+Yüzbaşı Şerafettin Muhtarlık,2
+Yüzüncü Yıl Karakolu,2
+Yıkık Cami,2
+Yıkık Cami 2,2
+Yıkıkkemer Meydan,2
+Yıldırım Beyazıt,2
+Yıldırım Mahalle Muhtarlığı,2
+Yıldız Garaj,2
+Yıldız Kenter Kültür Merkezi,2
+Yıldız Mandıra,2
+Yıldız Tınas İzmiroğlu Anadolu Lisesi,2
+Yıldıztepe,2
+Zafer Mahallesi Muhtarlık,2
+Zafer Ortaokulu,2
+Zafer Parkı,2
+Zafer Takı,2
+Zakkum,2
+Zağnos,2
+Zehra Hoca İlköğretim Okulu,2
+Zehra Semahat İlköğretim Okulu,2
+Zeki Müren Parkı,2
+Zencefil,2
+Zerdeçal,2
+Zeren,2
+Zeytin Köy,2
+Zeytin Çiçeği,2
+Zeytinalanı Kreş,2
+Zeytinalanı Meydan,2
+Zeytindağ Fabrika,2
+Zeytindağ Giriş,2
+Zeytineli,2
+Zeytinköy,2
+Zeytinköy Bakkal,2
+Zeytinköy Fabrika,2
+Zeytinköy Giriş,2
+Zeytinköy Mezarlık,2
+Zeytinköy Yol Ayrımı,2
+Zeytinköy Çiftlik,2
+Zeytinler Köyü,2
+Zeytinler Mezarlık,2
+Zeytinova,2
+Zeytinova Meydan,2
+Zeytinova Yol Ayrımı,2
+Zeytinova Çıkış,2
+Zeytinyağ Fabrikası,2
+Zeytinyağı Müzesi,2
+Zihni Dağlı,2
+Zihni Üstün İlkokulu,2
+Zincirlikuyu,2
+Zincirlikuyu 2,2
+Zincirlikuyu Trafo,2
+Zindancık Trafo,2
+Zirve Kent,2
+Ziya Gökalp Ortaokulu,2
+Zübeyde Hanım Huzurevi,2
+Zübeyde Hanım Sağlık Merkezi,2
+Zümrüt,2
+Zümrüt Evler Sitesi,2
+Zümrüt Evleri,2
+Çadır,2
+Çakabey,2
+Çakabey Anaokulu,2
+Çakaltepe Giriş,2
+Çakaltepe Köprü,2
+Çakaltepe Yolu,2
+Çakarlar,2
+Çakmaklı,2
+Çakmaklı Benzinlik,2
+Çakmaklı Cami,2
+Çakmaklı Liman,2
+Çakmaklı Sahil,2
+Çakmaklı Sahil Yolu,2
+Çakmaklı Sezer Erşan Spor Tesisi,2
+Çakmaklı Yolu,2
+Çakmaklı Çiftlik,2
+Çakmaktepe,2
+Çakıl,2
+Çakır,2
+Çakırbeyli,2
+Çakırbeyli Giriş,2
+Çakırbeyli Mezarlık,2
+Çakırbeyli Sağlık Ocağı,2
+Çakırbeyli Viraj,2
+Çakırbeyli Yol Ayrımı,2
+Çakırbeyli Çıkış,2
+Çakırbeylı Gündoğumu,2
+Çalba,2
+Çaltı Giriş,2
+Çaltı Meydan,2
+Çaltılıdere,2
+Çaltılıdere Atlı Terapi Merkezi,2
+Çamaltı,2
+Çamavlu,2
+Çamavlu Giriş,2
+Çamavlu Güneşli Yolu,2
+Çamavlu Köyü Yolu,2
+Çamavlu Meydan,2
+Çambel Batı,2
+Çambel Orman,2
+Çambel Toki,2
+Çambel Toki 2,2
+Çambel Şebnem Kardıcalı İlköğretim Okulu,2
+Çamdibi Esnaf Odası,2
+Çamdibi Sağlık Ocağı,2
+Çamiçi Meydan,2
+Çamkoru Sitesi,2
+Çamkule,2
+Çamkule Eski Son Durak,2
+Çamköy,2
+Çamköy Giriş,2
+Çamköy Mahalle Cami,2
+Çamköy Yolu,2
+Çamkıran,2
+Çamkıran Parkı,2
+Çamlı Merkez,2
+Çamlı Papatya,2
+Çamlı Pınar Muhtarlık,2
+Çamlı Solakoğlu,2
+Çamlı Villaları,2
+Çamlıbel Giriş,2
+Çamlıca Giriş,2
+Çamlıca Kavşağı,2
+Çamlıca Meydan,2
+Çamlıca Mezarlık,2
+Çamlık Market,2
+Çamlık Müze,2
+Çamlık Yol Ayrımı,2
+Çamlıkent Giriş,2
+Çamlıkent Meydan,2
+Çamlıkent Çıkış,2
+Çamlıkule Muhtarlık,2
+Çamlıkule Park,2
+Çamlıkule Pazaryeri,2
+Çamlıtepe,2
+Çamlıçay Mahallesi,2
+Çamtepe Besicilik,2
+Çamtepe Eskicioğlu,2
+Çamtepe Tepe,2
+Çamönü,2
+Çamönü Güven,2
+Çamönü Naile Karadeniz İlkokulu,2
+Çamönü Seralar,2
+Çamönü Vatan,2
+Çamönü Yolu,2
+Çanak Koyu,2
+Çandarlı Atabey,2
+Çandarlı Bahçe,2
+Çandarlı Dörtyol,2
+Çandarlı Hilal,2
+Çandarlı Mezarlık,2
+Çandarlı Nilüfer,2
+Çandarlı Plaj,2
+Çandarlı Sahil,2
+Çandarlı Sevgi,2
+Çandarlı Yakamoz,2
+Çandarlı Yol Ayrımı,2
+Çandarlı Zeytin,2
+Çandarlı Zeytinlik,2
+Çandarlı Çiftlik,2
+Çandarlı Üçyol,2
+Çapak Girişi,2
+Çapak Yol Ayrımı,2
+Çapak Yolu,2
+Çardak Kahve,2
+Çardak Kamp,2
+Çatal,2
+Çatalca,2
+Çatalca Bahçe,2
+Çatalca Köprü,2
+Çatalca Köşe,2
+Çatalca Manzara,2
+Çatalca Meydan,2
+Çatalca Mezarlık,2
+Çatalca Seralar,2
+Çatalca Yol Ayrımı,2
+Çatalca Çiftlik,2
+Çatalca Üzüm,2
+Çatalkaya,2
+Çatkın,2
+Çavuş Köy Cami,2
+Çavuş Köy Üçyol,2
+Çavuşali Sokak,2
+Çay  Bahçesi,2
+Çaybaşı Fabrikalar,2
+Çaybaşı Lambalar,2
+Çaybaşı Mermerci,2
+Çaybaşı Meydan,2
+Çaylı Aydın,2
+Çaylı Koşuyolu,2
+Çaylı Meydan,2
+Çaylı Ortaokulu,2
+Çaylı Sağlık Ocağı,2
+Çaylı Yem Sokak,2
+Çaylı Çıkış,2
+Çayır Mahalle İlkokulu,2
+Çayırcı,2
+Çayırlı Bahçe,2
+Çayırpınar,2
+Çağdaş Sitesi,2
+Çağdaş İstasyon,2
+Çağla,2
+Çağlar,2
+Çeltikçi,2
+Çetineller Ortaokulu,2
+Çetineller Otel,2
+Çevik Kuvvet,2
+Çevirlik,2
+Çevirlik Koyu,2
+Çevre,2
+Çevre ve Şehircilik İl Müdürlüğü,2
+Çeşme Adliye,2
+Çeşme Anfi Tiyatro,2
+Çeşme Boyalık,2
+Çeşme Devlet Hastanesi,2
+Çeşme Emniyet Müdürlüğü,2
+Çeşme Kültür Merkezi,2
+Çeşme Lale,2
+Çeşme Mavi,2
+Çeşme Su Arıtma,2
+Çeşme Tedaş,2
+Çeşme Terminal,2
+Çeşme Uğur Mumcu Parkı,2
+Çeşme Yunus,2
+Çeşme Üstgeçit,2
+Çeşmealtı Limanı,2
+Çeşmealtı Zeytinlik,2
+Çifte Havuzlar,2
+Çifte Selviler,2
+Çiftel,2
+Çiftlikköy,2
+Çiftçi Gediği Giriş,2
+Çiftçi Gediği Mezarlık,2
+Çiftçi Gediği Çıkış,2
+Çile Giriş,2
+Çile Çıkış,2
+Çilek Bahçesi,2
+Çileklik,2
+Çileme Akar,2
+Çileme Açelya,2
+Çileme Bahçe,2
+Çileme Ekin,2
+Çileme Manav,2
+Çileme Merkez,2
+Çileme Mezarlığı,2
+Çileme Sera,2
+Çileme Tepe Sokak,2
+Çimenli Cami,2
+Çimentaş Lisesi,2
+Çimentepe Aile Sağlık Merkezi,2
+Çimento Fabrikası,2
+Çingülü,2
+Çitköy,2
+Çitköy Ahmetbeyler Ortaokulu,2
+Çitköy Giriş,2
+Çitköy Orman Deposu,2
+Çiçek Mezatı,2
+Çiçek Parkı,2
+Çiçek Tatil Sitesi,2
+Çiçekli,2
+Çiçekli Köprü,2
+Çiçekli Köy,2
+Çiçekli Mesire Alanı,2
+Çiçekçi,2
+Çiğdem,2
+Çiğli Belediye,2
+Çiğli Devlet Hastanesi,2
+Çiğli Ege Sanayi Sitesi,2
+Çiğli Emniyet Müdürlüğü,2
+Çiğli Erkek KYK Yurdu,2
+Çiğli Kooperatif 1,2
+Çiğli Kooperatif 2,2
+Çiğli Kız Meslek Lisesi,2
+Çiğli Santral,2
+Çiğli İMKB Mesleki ve Teknik Anadolu Lisesi,2
+Çiğli İtfaiye,2
+Çiğli İzkent,2
+Çiğli Şaraphane,2
+Çoban,2
+Çoban Yastığı,2
+Çoban Yıldızı,2
+Çobankızı,2
+Çobançeşme Eski Son Durak,2
+Çocuk Bahçesi,2
+Çocuk Trafik Eğitim Parkı,2
+Çocuk Trafik Eğitim Parkı 2,2
+Çocuk parkı,2
+Çolakoğlu,2
+Çoraklar,2
+Çorapçı,2
+Çukur,2
+Çukurbahçe Cami,2
+Çukurköy Afetevler,2
+Çukurköy Yol Ayrımı,2
+Çukurköy Yolu,2
+Çukurköy Çınaraltı,2
+Çukuryer,2
+Çöp Fabrikası,2
+ÇİKOOP,2
+Çıkrıkçın,2
+Çınar Evleri,2
+Çınar Parkı,2
+Çınar Sitesi,2
+Çınaraltı Evleri,2
+Çınardibi Giriş,2
+Çınardibi Merkez,2
+Çınardibi Papatya,2
+Çınardibi Yolu,2
+Çınardibi Çıkış,2
+Çınarköy Yolu,2
+Çınarlı Hastanesi,2
+Çınartepe Muhtarlık,2
+Çırpı Akasya,2
+Çırpı Belediyesi,2
+Çırpı Cami,2
+Çırpı Giriş,2
+Çırpı Konutlar,2
+Çırpı Köprü,2
+Çırpı Park,2
+Çırpı Pazar,2
+Çırpı Çiftlik,2
+Ödemiş,2
+Ödemiş Belediye,2
+Ödemiş Devlet Hastanesi,2
+Ödemiş Garaj,2
+Ödemiş Giriş,2
+Ödemiş Hükümet Konağı,2
+Ödemiş Kavşağı,2
+Ödemiş Müzesi,2
+Ödemiş Nikah Sarayı,2
+Ödemiş Sanayi,2
+Ödemiş Çeşme,2
+Ödemiş İtfaiye,2
+Ödemişliler,2
+Öksüz,2
+Öksüz Dere Mevki,2
+Ömer Bilmen Cami,2
+Ömer Seyfettin,2
+Ömür,2
+Ömür Beldesi,2
+Ömür Sitesi Güneş,2
+Ömür Sitesi Mavi,2
+Ömür Sitesi Sahil Yolu,2
+Ömür Sitesi Yağmur,2
+Ören Belediye,2
+Ören İlkokulu,2
+Örenli,2
+Örentepe Yolu,2
+Örnekköy Girişi,2
+Örnekköy Mezarlık,2
+Örnekköy Polis Merkezi,2
+Örnekköy Saha,2
+Örnekköy Spor Tesisi,2
+Örnekköy İlköğretim Okulu,2
+Örnekköy Şehit İncekara İlkokulu,2
+Öteyaka,2
+Ötleğen,2
+Öz Zümrütevleri Giriş,2
+Özbek,2
+Özbek Esentepe,2
+Özbek Günbatımı,2
+Özbek Kabristan,2
+Özbek Konak,2
+Özbek Liman,2
+Özbek Meydan,2
+Özbek Park,2
+Özbek Plaj,2
+Özbek Toki,2
+Özbek Yolu,2
+Özbek Çamlı,2
+Özbek Çamlık,2
+Özbek Üçyol,2
+Özbey Giriş,2
+Özbey Meydan,2
+Özbey Çıkış,2
+Özcan,2
+Özcan Sitesi,2
+Özdere Aile Sağlığı Merkezi,2
+Özdere Belediye Garajı,2
+Özdere Belediyesi,2
+Özdere Mezarlığı,2
+Özdere Spor Salonu,2
+Özdeşkent,2
+Özel Sağlık,2
+Özensu,2
+Özevler,2
+Özgürkent,2
+Özkan,2
+Özkent,2
+Özlem Sitesi,2
+Öztepe,2
+Öztürkler,2
+Öğrenci Köyü,2
+Öğretmenevi,2
+Öğretmenler,2
+Öğretmenler Sitesi,2
+Öğretmenler ve Şeker Mevhibe Ortaokulu,2
+Ülkü,2
+Ülkü Sineması,2
+Ümit,2
+Ünal Soğuk Hava,2
+Ürkmez Belediyesi,2
+Ürkmez Jandarma,2
+Ürkmez Kardelen,2
+Ürkmez Kumsal,2
+Ürkmez Pazaryeri,2
+Ürkmez Sağlık Ocağı,2
+Ürkmez İpek,2
+Ürkmez İstiklal,2
+Üzüm Bağları,2
+Üzümler,2
+Üzümlü,2
+Üç Kemer Caddesi,2
+Üç Kemer Köprüsü,2
+Üç Pınarlar,2
+Üçevler,2
+Üçgen Park,2
+Üçgöz,2
+Üçkemer,2
+Üçmezar,2
+Üçyol Ayrımı,2
+Üçyol Metro,2
+Üçyol Sevgi Yolu Parkı,2
+Üçüncü Sanayi,2
+Üçüncü Trafo,2
+İPOSB Mesleki ve Teknik A.L.,2
+İTOB,2
+İYTE Kız Öğrenci Yurdu,2
+İYTE Yaşam Merkezi,2
+İYTE Öğrenci Yurdu,2
+İZDER,2
+İZUM,2
+İbrahim Alanı,2
+İbrahim Ethem,2
+İbrahim Fatih Cami,2
+İbrahim Kesici,2
+İhsan Alyanak Parkı,2
+İhsaniye yolu,2
+İkinci Köprü,2
+İkinci Nizamiye,2
+İkinci Oyak Sitesi,2
+İkinci Trafo,2
+İkinci İnönü Meydan,2
+İkmal,2
+İl Sağlık Müdürlüğü Ek Hizmet Binaları,2
+İl Özel İdare Asfalt Şantiye,2
+İl Özel İdare Lojmanları,2
+İlk Evler,2
+İlke,2
+İlkevler,2
+İlkevler 2,2
+İlkkent,2
+İlkkurşun,2
+İlkkurşun Anadolu Lisesi,2
+İlkkurşun Küme,2
+İlkkurşun Ova,2
+İller Bankası,2
+İltur,2
+İlçe Tarım,2
+İmam Hatip 2,2
+İmam Hatip Lisesi,2
+İmamlar,2
+İmbat,2
+İncecikler,2
+İncikent,2
+İncir Fabrikası,2
+İnciraltı,2
+İnciraltı Bakü Bulvarı,2
+İncirağa,2
+İncircik,2
+İncirliboğaz,2
+İncirlik,2
+İnecik Giriş,2
+İnecik Tarla,2
+İnecik Yol Ayrımı,2
+İnecik Yolayrımı,2
+İnlik,2
+İntepe,2
+İnönü Kültür Merkezi,2
+İnönü Mahallesi Muhtarlık,2
+İnönü Mahallesi Muhtarlığı,2
+İnönü Mahallesi Trafo,2
+İrem Sitesi,2
+İrfan Nadir İlkokulu,2
+İris,2
+İris Gölü,2
+İsmail Cem Kültür Merkezi,2
+İsmail Hakkı Tonguç Parkı,2
+İsmail Rahmi Karadavut İlkokulu,2
+İsmail Şekip Uyal İlköğretim Okulu,2
+İsmet Paşa Muhtarlık,2
+İsmet Paşa Sağlık Ocağı,2
+İsmet Sezgin İlköğretim Okulu,2
+İsmet İnönü Parkı,2
+İstasyon Alt Geçidi,2
+İstasyon Altı 1,2
+İstasyon Köprü,2
+İstasyon Üst Geçit,2
+İstihkam,2
+İstihkam Okulu,2
+İstiklal Meydanı,2
+İtfaiye,2
+İva,2
+İyiburnaz Ortaokulu,2
+İzban Koşu Durağı,2
+İzbeton,2
+İzbeton Tesisleri,2
+İzeltaş,2
+İzeltaş Mağaza,2
+İzkent 1,2
+İzkent Depo,2
+İzkent Mahalle Muhtarlığı,2
+İzkent Meydan,2
+İzkent Su Deposu,2
+İzkent Çay Bahçesi,2
+İzkent Üçyol,2
+İzli Kuyu,2
+İzmir Anadolu Lisesi,2
+İzmir Caddesi,2
+İzmir Cengiz Aytmatov Sosyal Bilimler Lisesi,2
+İzmir Demokrasi Üniversitesi,2
+İzmir Spor,2
+İzmir Tınaztepe Üniversitesi Üst Giriş,2
+İzmir Yardımsevenler Derneği Kuşçular İlkokulu,2
+İzsu Hizmet Binası,2
+İzsu Siteler,2
+İzyuva,2
+İçmekıyısı,2
+İçmeler,2
+İçmeler Stad,2
+İçmeler Çıkış,2
+İğdecik Giriş,2
+İğdeli,2
+İğdeli Kahve,2
+İğnedere Giriş,2
+Şafak,2
+Şahtaş,2
+Şair Eşref İlköğretim Okulu,2
+Şair Namık Kemal,2
+Şakran İncirlik 2,2
+Şantiye,2
+Şavkar Spor Tesisleri,2
+Şaşal Köprü,2
+Şaşal Market,2
+Şaşal Çıkış,2
+Şehit Abdullah Tayyip Olçok Anadolu İmam Hatip Lisesi,2
+Şehit Ahmet Ay Parkı,2
+Şehit Ali Karaoğlan Lisesi,2
+Şehit Asteğmen Ergin KAYA,2
+Şehit Astsubay Uğur Görkem Harmankaya,2
+Şehit Astsubay Yahya Efiloğlu,2
+Şehit Astsubay Ümit Başaran İlkokulu,2
+Şehit Astsubay Ümit İnce,2
+Şehit Bahattin Elden Anadolu İmam Hatip Lisesi,2
+Şehit Diplomat Erdoğan Özen,2
+Şehit Egemen Öztürk Ortaokulu,2
+Şehit Er Bekir VARAL,2
+Şehit Er Hakan Sağınç Caddesi,2
+Şehit Er Serdar Amak Ortaokulu,2
+Şehit Erdal Kılıç,2
+Şehit Erkan Er Ortaokulu,2
+Şehit Erkan Özcan Anadolu Lisesi,2
+Şehit Gazeteci Hasan Tahsin Ortaokulu,2
+Şehit Gökhan Çakır Anadolu Lisesi,2
+Şehit Hakan Uysal,2
+Şehit Hakan Ünal,2
+Şehit Halit Taş Ortaokulu,2
+Şehit Harun Bağlam,2
+Şehit Hikmet Ayerdem Parkı,2
+Şehit Jandarma Er Önder Turgay,2
+Şehit Jandarma Komando Fikri Koruer Parkı,2
+Şehit Jandarma Uzman Çavuş Hüseyin Tosun,2
+Şehit Jandarma Çadırcı,2
+Şehit Kara Pilot Yüzbaşı Mehmet İlker Karaman,2
+Şehit Kemal İlkokulu,2
+Şehit Komando Çavuş Sinan Hamza,2
+Şehit Mehmet Kıvık,2
+Şehit Murat Aslantürk,2
+Şehit Murat Cerit,2
+Şehit Murat Çoşkun Ortaokulu,2
+Şehit Musa Can,2
+Şehit Pilot Albay Gökselin Saylan,2
+Şehit Piyade Uzman Çavuş Ayhan Elmacı,2
+Şehit Piyade Çavuş Ceysu Ceylan,2
+Şehit Polis Ahmet Atilla Güneş İlkokulu,2
+Şehit Polis Cebrail Aksöz,2
+Şehit Polis Cemil Koç,2
+Şehit Polis Fethi Sekin,2
+Şehit Polis Fethi Sekin İlköğretim Okulu,2
+Şehit Polis Gökhan Kirazlı,2
+Şehit Polis Hüseyin Dalgılıç,2
+Şehit Profesör Doktor İlhan Varank İmam Hatip Lisesi,2
+Şehit Sezai Geçkin İlkokulu,2
+Şehit Süleyman Ergin,2
+Şehit Uzman Onbaşı Ahmet Alpaslan,2
+Şehit Uzman Onbaşı Emre Baysal,2
+Şehit Uzman Onbaşı Mustafa Eser,2
+Şehit Uzman Çavuş Ali Akdoğan İlkokulu,2
+Şehit Uzman Çavuş Harun Şenöz,2
+Şehit Uzman Çavuş Harun Şenözüar,2
+Şehit Uzman Çavuş Harun Şenözüar Mesleki ve Teknik Anadolu Lisesi,2
+Şehit Uzman Çavuş Mehmet Onur Özbent,2
+Şehit Uzman Çavuş Muhammed Mustafa Ak,2
+Şehit Uzman Çavuş Tolga Sağlam,2
+Şehit Yarbay Songül Yakut,2
+Şehit Yüzbaşı Ali Rıza Sadak İlkokulu,2
+Şehit Yüzbaşı Cengiz Topel,2
+Şehit Yüzbaşı Halil Özdemir,2
+Şehit Çavuş Bülent Kula İlköğretim Okulu,2
+Şehit Çavuş Haydar Arda Erertingi Ortaokulu,2
+Şehit Çağatay Necati Dinç İlkokulu,2
+Şehit Çeşmesi,2
+Şehit Öğretmen Aybuke Yalçın,2
+Şehit Öğretmen Ayhan Kökmen,2
+Şehit Öğretmen Necmettin Yılmaz İlkokulu,2
+Şehit Üsteğmen Deveci,2
+Şehit Üsteğmen Onur Özkaya,2
+Şehit Üsteğmen Sadullah Sever İlkokulu,2
+Şehit Üsteğmen İbrahim Fahri Efendi,2
+Şehit Üstğm İsmail Cazgır,2
+Şehit İlhami Yılmaz,2
+Şehit Şerife Bacı,2
+Şehit. Jnd. Onbaşı Uğur Demirkan,2
+Şehitler Ağaç Kapı,2
+Şehitler Dörtyol,2
+Şehitler Giriş,2
+Şehitler Kahveler,2
+Şehitler Köşe,2
+Şehitler Muhtarlık,2
+Şehitler Ortaokulu,2
+Şehitler Viraj,2
+Şehitler Çıkış,2
+Şehitlik,2
+Şelale,2
+Şelale Parkı,2
+Şemikler,2
+Şemikler Lisesi,2
+Şenlik Alanı,2
+Şenyüz,2
+Şerbetçi,2
+Şht. Binbaşı Yavuz Başayar,2
+Şirin Camii,2
+Şirince Yolu,2
+Şirinevler Giriş,2
+Şirinköy,2
+Şirintepe Market,2
+Şirintepe Parkı,2
+Şirinyer Bankalar,2
+Şirinyer Ertuğrul Gazi Anadolu Lisesi,2
+Şirinyer Merkez,2
+Şirinyer Parkı,2
+Şoförler Lokali,2
+Şükrü Özkan,2
+Şıra Mevki,2

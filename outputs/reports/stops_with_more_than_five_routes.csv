@@ -1,0 +1,1197 @@
+﻿stop_id,stop_name,route_count
+50004,Fahrettin Altay Meydan 9,31
+10240,Kız Yurdu,31
+50008,Beyaz,24
+10231,Kestelli,24
+20057,Turan,24
+20060,Turan,24
+20151,Karşıyaka İskele,23
+12874,Halkapınar Tramvay,22
+50011,Balçova İstasyon,21
+20157,Dokuz Eylül Dispanser,21
+50020,Dokuz Eylül Hastanesi İstasyon,21
+20159,Karşıyaka Yelken Kulübü,21
+20153,Osman Bey Parkı,21
+20154,Osman Bey Parkı,21
+20155,Tarık Dursun Kakınç,21
+20161,Yunuslar,21
+20081,Çiğli İtfaiye,21
+40010,Şirinyer PTT,21
+50010,Balçova İstasyon,20
+20083,Eğitim Gönüllüleri,20
+20084,Eğitim Gönüllüleri,20
+12058,Eşrefpaşa,20
+20483,Girne Konutları,20
+50018,Hoca,20
+50019,Hoca,20
+11551,Kazım Dirik,20
+11552,Kazım Dirik,20
+50012,Molla Kuyusu,20
+50013,Molla Kuyusu,20
+10865,Otel,20
+10868,Otel,20
+11557,Torbalı Belediyesi 2,20
+10870,Yemişlik,20
+10903,Yemişlik,20
+11553,Çarşı,20
+11554,Çarşı,20
+50017,Çağdaş İstasyon,20
+20082,Çiğli İtfaiye,20
+10867,Şehit Uzman Çavuş Mehmet Onur Özbent,20
+10872,Şehit Uzman Çavuş Mehmet Onur Özbent,20
+40009,Şirinyer Pazar Yeri,20
+40198,Şirinyer Saha,20
+20096,Balatçık Kahveler,19
+50021,Dokuz Eylül Hastanesi İstasyon,19
+11506,Tepeköy Aktarma,19
+11510,Tepeköy Aktarma,19
+11531,Tepeköy İstasyon Yolu,19
+11564,Torbalı Belediyesi,19
+50016,Çağdaş İstasyon,19
+20085,Çiğli Belediye,19
+20086,Çiğli Belediye,19
+50014,İş Bankası Evleri,19
+50015,İş Bankası Evleri,19
+40153,Şirinyer İstasyonu,19
+50030,Balcı,18
+20055,Bayraklı Çamlık,18
+20134,Bayraklı Üst Geçit,18
+20191,Beşikçioğlu Cami,18
+20196,Beşikçioğlu Cami,18
+20197,Bostanlı Market,18
+20198,Bostanlı Market,18
+20189,Bostanlı Pazaryeri,18
+20194,Bostanlı Pazaryeri,18
+50022,Dokuz Eylül,18
+50023,Dokuz Eylül,18
+10363,Eşref Paşa Hastanesi,18
+20205,Geçit 1,18
+20206,Geçit 1,18
+20203,Geçit 2,18
+20204,Geçit 2,18
+20207,Girne Bulvarı,18
+20208,Girne Bulvarı,18
+50027,Güzel Sanatlar Fakültesi,18
+30281,Halide Edip Adıvar,18
+50024,Kantar,18
+50025,Kantar,18
+10235,Koruluk,18
+20339,Mavişehir,18
+20201,Metin Aşıkoğlu Ortaokulu,18
+20202,Metin Aşıkoğlu Ortaokulu,18
+40127,Mühendislik Fakültesi,18
+40128,Mühendislik Fakültesi,18
+11504,Torbalı Anadolu İmam Hatip Lisesi,18
+11507,Torbalı Anadolu İmam Hatip Lisesi,18
+10365,Ziya Gökalp Ortaokulu,18
+30131,Çamdibi Sağlık Ocağı,18
+50026,İzsu,18
+20199,Şehit Diplomat Erdoğan Özen,18
+20200,Şehit Diplomat Erdoğan Özen,18
+30279,Adliye,17
+10103,Belediye Sarayı,17
+40015,Buca Belediye Sarayı,17
+40016,Buca Belediye Sarayı,17
+40737,Buca Sağlık Ocağı,17
+40738,Buca Sağlık Ocağı,17
+40013,Buca Vergi Dairesi,17
+40014,Buca Vergi Dairesi,17
+10660,Ege Serbest Bölge,17
+30282,Halide Edip Adıvar,17
+20062,Naldöken,17
+31280,Rektörlük,17
+10366,Tepecik Doğum Hastanesi,17
+10367,Tepecik Doğum Hastanesi,17
+11532,Tepeköy İstasyon Yolu,17
+40011,Yeni Mahalle,17
+40012,Yeni Mahalle,17
+10368,Yenişehir PTT,17
+10369,Yenişehir PTT,17
+20211,Zafer Takı,17
+20214,Zafer Takı,17
+10364,Ziya Gökalp Ortaokulu,17
+20209,Çayırcı,17
+20212,Çayırcı,17
+11590,Özensu,17
+11591,Özensu,17
+10252,Üçyol Metro,17
+11558,Şehit Uzman Onbaşı Mustafa Eser,17
+11559,Şehit Uzman Onbaşı Mustafa Eser,17
+30280,Adliye,16
+10251,Altıntaş,16
+50029,Balcı,16
+10247,Bayramyeri,16
+30137,Bölge İdare Mahkemesi,16
+10661,Ege Serbest Bölge,16
+11602,Engelsiz Yaşam Parkı,16
+11603,Engelsiz Yaşam Parkı,16
+14300,Eylül,16
+14301,Eylül,16
+11594,Fulya,16
+11595,Fulya,16
+10177,Hava Hastanesi,16
+20340,Karya,16
+20341,Karya,16
+50037,Köprübaşı,16
+50038,Köprübaşı,16
+10662,Leylak,16
+10663,Leylak,16
+30133,Mersinli,16
+50033,Narlıdere Cami,16
+50034,Narlıdere Cami,16
+50031,Narlıdere İtfaiye,16
+50032,Narlıdere İtfaiye,16
+50039,Siteler,16
+50040,Siteler,16
+30135,Stadyum İstasyon,16
+11596,Torbalı Anadolu Lisesi,16
+11597,Torbalı Anadolu Lisesi,16
+11600,Torbalı Diyaliz Merkezi,16
+11601,Torbalı Diyaliz Merkezi,16
+11578,Torbalı Tıp Merkezi,16
+11579,Torbalı Tıp Merkezi,16
+41336,Tınaztepe Yerleşke Son Durak,16
+10664,Ulaştırma,16
+10665,Ulaştırma,16
+50035,Uludağ,16
+50036,Uludağ,16
+30139,Üçüncü Sanayi,16
+30140,Üçüncü Sanayi,16
+50041,Şehitlik,16
+50042,Şehitlik,16
+10199,Adnan Saygun Sanat Merkezi,15
+31289,Ata,15
+32243,Ağır Bakım,15
+32244,Ağır Bakım,15
+40739,Buca Üçkuyular Meydan,15
+10370,Halkapınar İZSU,15
+10371,Halkapınar İZSU,15
+20337,Haydar Aliyev Parkı,15
+12068,Konak Anadolu Lisesi,15
+10241,Kız Yurdu,15
+20338,Mavişehir,15
+22370,Menemen Garaj Karşısı,15
+22371,Menemen Garaj Karşısı,15
+22364,Menemen Toplum Sağlığı Merkezi,15
+22365,Menemen Toplum Sağlığı Merkezi,15
+22390,Menemen Şehir Parkı,15
+22391,Menemen Şehir Parkı,15
+20059,Naldöken,15
+20063,Soğukkuyu Trafik,15
+20066,Soğukkuyu Trafik,15
+50605,Urla,15
+12064,Yağhaneler 2,15
+20061,Öztürk,15
+20064,Öztürk,15
+10178,Adnan Saygun Sanat Merkezi,14
+10656,Aktepe,14
+10657,Aktepe,14
+10248,Altıntaş,14
+20395,Atakent Anadolu Lisesi,14
+20396,Atakent Anadolu Lisesi,14
+30283,Bayraklı Depo,14
+30284,Bayraklı Depo,14
+10246,Bayramyeri,14
+10655,Emrez,14
+20097,Eski Sinema,14
+20098,Eski Sinema,14
+12057,Eşrefpaşa,14
+50007,Fahrettin Altay Meydan 2,14
+10653,Gaziemir Semt Garajı,14
+20482,Girne Konutları,14
+20336,Haydar Aliyev Parkı,14
+21343,Jandarma,14
+21344,Jandarma,14
+12069,Konak Anadolu Lisesi,14
+40891,Kütüphane,14
+40892,Kütüphane,14
+30285,Manas,14
+30286,Manas,14
+10611,Osman Öksüz Parkı,14
+30289,Smyrna,14
+30290,Smyrna,14
+40889,Spor Salonu,14
+40890,Spor Salonu,14
+40894,Tınaztepe Yerleşke Son Durak,14
+12065,Yağhaneler 2,14
+11616,Çaybaşı Son Durak,14
+10102,İskele,14
+12070,Şelale Parkı,14
+12071,Şelale Parkı,14
+12066,Arap Cami,13
+20095,Balatçık Kahveler,13
+10356,Basmane Gar,13
+10357,Basmane Gar,13
+20054,Bayraklı İstasyon,13
+10182,Fahrettin Altay Meydan 5,13
+10358,Kemer,13
+50043,Narlıdere Belediye,13
+50044,Narlıdere Belediye,13
+31285,Suphi Koyuncu,13
+20484,Yeni Girne,13
+20485,Yeni Girne,13
+11668,Çaybaşı Meydan,13
+20052,Çevre ve Şehircilik İl Müdürlüğü,13
+13562,İzmir Caddesi,13
+13565,İzmir Caddesi,13
+11889,Altınyağ,12
+11890,Altınyağ,12
+11266,Amber,12
+11267,Amber,12
+20093,Ata,12
+20094,Ata,12
+20056,Bayraklı Park,12
+20058,Bayraklı Çamlık,12
+20135,Bayraklı Üst Geçit,12
+20053,Bayraklı İstasyon,12
+40085,Beş Selviler,12
+40092,Beş Selviler,12
+40025,Buca Heykel,12
+40742,Buca Üçkuyular Meydan,12
+20065,Dedebaşı,12
+20068,Dedebaşı,12
+20067,Ege Üniversitesi Karşıyaka Sağlık Yerleşkesi,12
+20042,Egem,12
+50591,Emniyet,12
+50592,Emniyet,12
+40070,Eski Mezarlık,12
+50590,Eski Pazar Yeri,12
+11264,Gölcükler Sera,12
+11265,Gölcükler Sera,12
+10625,Hasan Hüseyinler,12
+10119,Kavaflar,12
+51489,Kocaçay,12
+51490,Kocaçay,12
+13560,Kuşadası Caddesi,12
+13563,Kuşadası Caddesi,12
+20050,Körfez,12
+20091,Küçük Çiğli,12
+20092,Küçük Çiğli,12
+50051,Lojmanlar,12
+50052,Lojmanlar,12
+20047,Makine Mühendisleri Odası,12
+20048,Makine Mühendisleri Odası,12
+30963,Matbaa,12
+50045,Narlıdere Kaymakamlık,12
+50046,Narlıdere Kaymakamlık,12
+40001,Nato,12
+10628,Orcaner,12
+10629,Orcaner,12
+50580,Orman İşletmesi,12
+31556,Otogar Benzinlik,12
+11270,Oğlananası Yol Ayrımı,12
+11271,Oğlananası Yol Ayrımı,12
+50049,Pertev Bey,12
+50050,Pertev Bey,12
+20045,Salhane İş Merkezi,12
+20046,Salhane İş Merkezi,12
+51491,Seferihisar Bahçe,12
+51492,Seferihisar Bahçe,12
+50451,Seferihisar Devlet Hastanesi,12
+50452,Seferihisar Devlet Hastanesi,12
+50518,Seferihisar Konutlar,12
+50519,Seferihisar Konutlar,12
+50449,Seferihisar Mezarlık,12
+51496,Seferihisar Mezarlık,12
+50447,Seferihisar PTT,12
+51497,Seferihisar Pazaryeri,12
+51485,Seferihisar Saha,12
+51486,Seferihisar Saha,12
+51487,Seferihisar Semt Garajı,12
+51488,Seferihisar Semt Garajı,12
+50517,Seferihisar Son Durak,12
+51493,Seferihisar İtfaiye,12
+51494,Seferihisar İtfaiye,12
+20069,Serin Kuyu,12
+20070,Serinkuyu,12
+50053,Subay Gazinosu,12
+50054,Subay Gazinosu,12
+50583,Urla Merkez,12
+20044,Zafer Payzın Kavşağı,12
+11605,Çaybaşı Eshot Garajı,12
+11669,Çaybaşı Meydan,12
+20051,Çevre ve Şehircilik İl Müdürlüğü,12
+50599,Çeşme,12
+50600,Çeşme,12
+20089,Çiğli Santral,12
+20090,Çiğli Santral,12
+20087,Çiğli Şaraphane,12
+20088,Çiğli Şaraphane,12
+20040,Çınarlı Hastanesi,12
+20041,Çınarlı Hastanesi,12
+40018,Öğretmen Evleri,12
+50047,İstihkam Okulu,12
+50048,İstihkam Okulu,12
+40019,İzmir Meslek Yüksek Okulu,12
+50597,Şehit Kemal İlkokulu,12
+50598,Şehit Kemal İlkokulu,12
+40004,Şirinyer Merkez,12
+11464,1 Nolu Sağlık Ocağı,11
+11465,1 Nolu Sağlık Ocağı,11
+50081,Anıt,11
+50084,Anıt,11
+50069,Balıkçı Kahvesi,11
+50072,Balıkçı Kahvesi,11
+50073,Baydar,11
+50074,Baydar,11
+40071,Begos,11
+40088,Begos,11
+23295,Bergama Meslek Yüksek Okulu,11
+40037,Buca Devlet Hastanesi,11
+40022,Buca Sosyal Güvenlik Kurumu,11
+50071,Camcı,11
+50126,Camcı,11
+10617,Elka,11
+15535,Fesleğen,11
+15536,Fesleğen,11
+11260,Gölcükler  Adnan Ocay Ortaokulu,11
+11261,Gölcükler Adnan Ocay Ortaokulu,11
+50060,Halk Plajı,11
+31291,Hükümet Konağı,11
+50075,Karaca,11
+50124,Karaca,11
+11470,Kasap,11
+11471,Kasap,11
+10632,Kaymakkuyu,11
+50077,Kirazlı,11
+50080,Kirazlı,11
+50063,Liman Reis,11
+50066,Liman Reis,11
+50067,Maltepe,11
+50070,Maltepe,11
+11258,Menderes Pazar Yeri,11
+11259,Menderes Pazar Yeri,11
+23976,Menemen Garaj,11
+24192,Menemen Garaj,11
+21416,Menemen Jandarma,11
+21417,Menemen Jandarma,11
+21418,Menemen Üst Geçit,11
+21419,Menemen Üst Geçit,11
+30134,Mersinli,11
+40002,Nato,11
+20137,Nikah Salonu,11
+23291,Osman Nuri Ersezin Orta Okulu,11
+23292,Osman Nuri Ersezin Ortaokulu,11
+50384,Otoban Kavşağı,11
+40086,Papatya,11
+50065,Pina,11
+50068,Pina,11
+23293,Saltukbey,11
+23294,Saltukbey,11
+50061,Sıdıka Akdemir Rehberlik ve Araştırma Merkezi,11
+50064,Sıdıka Akdemir Rehberlik ve Araştırma Merkezi,11
+11466,Torbalı Cami,11
+11467,Torbalı Cami,11
+50079,Yemişçi,11
+50082,Yemişçi,11
+50059,Çeşme,11
+50062,Çeşme,11
+50385,Çeşme Otoban Kavşağı,11
+10630,Çitlenbik,11
+10631,Çitlenbik,11
+50057,İstihkam,11
+50058,İstihkam,11
+50076,Şahin,11
+32348,Acil,10
+50089,Altmışıncı Yıl Anadolu Lisesi,10
+50092,Altmışıncı Yıl Anadolu Lisesi,10
+10666,Askeri Lojmanlar,10
+11809,Bayındır,10
+11807,Bayındır Devlet Hastanesi,10
+13995,Bayındır Son Durak,10
+23296,Bergama Meslek Yüksek Okulu,10
+23016,Bergama Son Durak,10
+30323,Bornova Kültür Merkezi,10
+30321,Bornova Stadı,10
+30325,Bornova İzsu,10
+50088,Briketçi,10
+21122,Büyük Çiğli Mezarlık,10
+21123,Büyük Çiğli Mezarlık,10
+40035,Dokuz Eylül Eğitim Fakültesi,10
+40036,Dokuz Eylül Eğitim Fakültesi,10
+50083,Eczane,10
+50086,Eczane,10
+10618,Elka,10
+21129,Eshotçular Sitesi,10
+21130,Eshotçular Sitesi,10
+50852,Fidanlık,10
+50853,Fidanlık,10
+32346,Fizik Tedavi ve Rehabilitasyon,10
+10667,Gaziemir Alt Geçidi,10
+10670,Gaziemir İlçe Emniyet,10
+10671,Gaziemir İlçe Emniyet,10
+10626,Hasan Hüseyinler,10
+50848,Jandarma 2,10
+50849,Jandarma 2,10
+12209,Karakuyu,10
+12210,Karakuyu,10
+12211,Karaselvi,10
+12212,Karaselvi,10
+10361,Kemer 2,10
+12199,Kilimci Tepe,10
+12200,Kilimci Tepe,10
+10668,Kolej,10
+10669,Kolej,10
+20049,Körfez,10
+50085,Liman,10
+50090,Liman,10
+11254,Menderes Stadyum,10
+11255,Menderes Stadyum,10
+11252,Menderes İnönü,10
+11253,Menderes İnönü,10
+14500,Moda,10
+14501,Moda,10
+50850,Mustafa Reşit Aydın Parkı,10
+50851,Mustafa Reşit Aydın Parkı,10
+12201,Narlık,10
+12202,Narlık,10
+32349,Onkoloji,10
+30956,Piyale,10
+32350,Poliklinik 1,10
+32351,Poliklinik 2,10
+12263,Spotçular,10
+31282,Suphi Koyuncu,10
+32347,Teknik Servis,10
+22168,Tüvtürk,10
+52131,Urla Adliye,10
+52132,Urla Adliye,10
+30132,Çamdibi Sağlık Ocağı,10
+30319,Çağdaş,10
+50620,Özbek Yolu,10
+50621,Özbek Yolu,10
+10255,Üçyol Metro,10
+40065,İktisadi ve İdari Bilimler Fakültesi,10
+10615,İller Bankası,10
+40661,İzmir Tınaztepe Üniversitesi,10
+20079,15 Temmuz Şehitler Anadolu Lisesi,9
+10679,Akçay,9
+10659,Altıncı Sanayi Kavşağı,9
+11878,Atatürk Stadı,9
+11805,Atatürk İlkokulu,9
+24150,Ataşehir Köprü,9
+24151,Ataşehir Köprü,9
+24152,Ataşehir Mahallesi Parkı,9
+24153,Ataşehir Mahallesi Parkı,9
+20077,Ayyıldız,9
+12259,Bahçelievler,9
+11803,Bayındır Jandarma,9
+16003,Bayır,9
+16004,Bayır,9
+50627,Benzinlik,9
+23289,Bergama Zeytinlik,9
+14927,Beşgöz,9
+14928,Beşgöz,9
+30324,Bornova Kültür Merkezi,9
+30322,Bornova Stadı,9
+30326,Bornova İzsu,9
+30138,Bölge İdare Mahkemesi,9
+14937,Büyükavulcuk,9
+14938,Büyükavulcuk,9
+50639,Dilek,9
+50640,Dilek,9
+30041,Egemenlik,9
+10674,Emlak Bankası Evleri,9
+10675,Emlak Bankası Evleri,9
+21388,Eski Yol,9
+21389,Eski Yol,9
+15435,Fulya,9
+14949,Gereli,9
+14950,Gereli,9
+14947,Gerçekli,9
+14948,Gerçekli,9
+31545,Halkapınar Spor Salonu,9
+52153,Hisar,9
+52154,Hisar,9
+31274,Hükümet Konağı,9
+30040,Işıkkent Benzinlik,9
+30043,Işıkkent Benzinlik,9
+12269,Karabağlar Cumhuriyet Mesleki ve Teknik Anadolu Lisesi,9
+21390,Kargılar,9
+21391,Kargılar,9
+20073,Karşıyaka Jandarma,9
+20071,Kayalar Mezarlığı,9
+13351,Kemer Aktarma Merkezi,9
+13352,Kemer Aktarma Merkezi,9
+30038,Koyuncu,9
+15005,Kültürpark Kavşak,9
+15006,Kültürpark Kavşak,9
+16031,Kışla Mahallesi,9
+16032,Kışla Mahallesi,9
+16439,Kışlalı Kümesi,9
+30317,Mustafa Kemal Anadolu Lisesi,9
+30318,Mustafa Kemal Anadolu Lisesi,9
+14935,Ocaklı,9
+14936,Ocaklı,9
+10612,Osman Öksüz Parkı,9
+50624,Sefa,9
+50625,Sefa,9
+10676,Seçkinler Sitesi,9
+10677,Seçkinler Sitesi,9
+30136,Stadyum İstasyon,9
+50638,Torasan Mahallesi,9
+11460,Torbalı Piri Reis Mesleki ve Teknik Anadolu Lisesi,9
+11461,Torbalı Piri Reis Mesleki ve Teknik Anadolu Lisesi,9
+11458,Torbalı Siteler,9
+11459,Torbalı Siteler,9
+14951,Türkönü,9
+14952,Türkönü,9
+21392,Ulukent Gar,9
+50641,Urla Bölge Trafik,9
+50642,Urla Bölge Trafik,9
+50859,Urla Sanayi 1,9
+50860,Urla Sanayi 1,9
+12062,Yağhaneler,9
+12267,Yeşilyurt İtfaiye,9
+14939,Yolüstü Benzinlik,9
+20185,Yıllar,9
+12204,Zincirlikuyu,9
+10121,Çankaya,9
+10869,Çaybaşı Lambalar,9
+10874,Çaybaşı Lambalar,9
+11462,Çetineller Ortaokulu,9
+11463,Çetineller Ortaokulu,9
+12257,Çevik Kuvvet,9
+50622,Çiftlik,9
+50623,Çiftlik,9
+11778,Çiçekçiler,9
+11779,Çiçekçiler,9
+31547,Çınarlı Diş Hastanesi,9
+14925,Ödemiş Garaj,9
+14926,Ödemiş Garaj,9
+20080,15 Temmuz Şehitler Anadolu Lisesi,8
+21027,Atatürk Mahallesi Zirve,8
+20078,Ayyıldız,8
+23355,Bergama Höyük,8
+23356,Bergama Höyük,8
+22989,Bergama Park,8
+22992,Bergama Park,8
+23127,Bergama Sanayi,8
+22998,Bergama Termal,8
+11764,Canlı Çıkış,8
+11765,Canlı Çıkış,8
+11788,Canlı Çınar,8
+11789,Canlı Çınar,8
+31082,Cengizhan Son Durak,8
+30761,Cumhuriyet,8
+30762,Cumhuriyet,8
+10722,Cüneytbey Cami,8
+32475,Ege Üniversitesi Öğrenci Köyü,8
+32476,Ege Üniversitesi Öğrenci Köyü,8
+30036,Egemenlik,8
+11768,Elifli,8
+11769,Elifli,8
+15456,Elifli Sera,8
+15457,Elifli Sera,8
+14953,Ertuğrulköy,8
+14954,Ertuğrulköy,8
+30022,Evrenesoğlu Ortaokulu,8
+30023,Evrenesoğlu Ortaokulu,8
+52439,Florya,8
+52440,Florya,8
+11770,Furunlu Tulumba,8
+11771,Furunlu Tulumba,8
+11774,Furunlu Yedikavak,8
+11775,Furunlu Yedikavak,8
+10678,Gaziemir Aktarma Merkezi,8
+12879,Gaziemir PTT,8
+12880,Gaziemir PTT,8
+20486,Girne Pazaryeri,8
+20487,Girne Pazaryeri,8
+20455,Gümüşpala Su Deposu,8
+20456,Gümüşpala Su Deposu,8
+24154,Kadriye,8
+24155,Kadriye,8
+10634,Karabağlar Cumhuriyet Anadolu Lisesi,8
+10635,Karabağlar Cumhuriyet Anadolu Lisesi,8
+12270,Karabağlar Cumhuriyet Mesleki ve Teknik Anadolu Lisesi,8
+11776,Karahalilli,8
+11777,Karahalilli,8
+50390,Karaoğlu,8
+50391,Karaoğlu,8
+20074,Karşıyaka Jandarma,8
+23600,Karşıyaka İskele,8
+20072,Kayalar Mezarlığı,8
+10633,Kaymakkuyu,8
+30770,Kemalpaşa,8
+30771,Kemalpaşa,8
+30851,Kemalpaşa Belediyesi,8
+30854,Kemalpaşa Belediyesi,8
+10321,Kent Müzesi,8
+10322,Kent Müzesi,8
+10226,Kestelli,8
+50382,Konutlar,8
+50383,Konutlar,8
+10228,Koruluk,8
+14699,Kurtuluş,8
+14700,Kurtuluş,8
+16536,Kurucuova Ova,8
+12215,Kuyu,8
+12216,Kuyu,8
+22993,Küçükkaya,8
+22996,Küçükkaya,8
+10638,Kızılcık,8
+24161,Kışlalı Kümesi,8
+12437,Limontepe Seniye-Hasan Saray İlkokulu,8
+12438,Limontepe Seniye-Hasan Saray İlkokulu,8
+30018,MTK Birinci Giriş,8
+30019,MTK Birinci Giriş,8
+30021,MTK İkinci Giriş,8
+30765,Manav,8
+30767,Manav,8
+10503,Mehmetçik,8
+10713,Menderes Anadolu Lisesi,8
+10714,Menderes Anadolu Lisesi,8
+10719,Menderes Belediyesi,8
+10720,Menderes Belediyesi,8
+10715,Menderes Sağlık Ocağı,8
+11250,Menderes Sağlık Ocağı,8
+21713,Menemen Devlet Hastanesi Kavşak,8
+23604,Menemen Devlet Hastanesi Kavşak,8
+23536,Menemen İzban,8
+30020,Meriç Mahallesi Çeşme,8
+10224,Mezarlıkbaşı,8
+14697,Muzaffer Gönen Parkı,8
+14698,Muzaffer Gönen Parkı,8
+50378,Necdet Tokatlıoğlu,8
+15004,Sarıtaş,8
+50379,Seferihisar Kavşak,8
+50380,Seferihisar Kavşak,8
+10651,Sinem,8
+10652,Sinem,8
+10636,Söğüt,8
+10717,Sümerbank,8
+10718,Sümerbank,8
+13564,Sığacık Yol Ayrımı,8
+22995,Termal,8
+50637,Torasan Mahallesi,8
+15834,Torba Kent,8
+15835,Torba Kent,8
+10852,Torbalı Ticaret Odası,8
+10853,Torbalı Ticaret Odası,8
+21545,Ulukent Aktarma,8
+21459,Ulukent Gar,8
+22991,Yalnız Ev,8
+22994,Yalnız Ev,8
+14955,Yel Aldı,8
+14956,Yel Aldı,8
+30553,Yeşil Köşk,8
+30554,Yeşil Köşk,8
+11766,Yeşilova Köy Yolu,8
+11767,Yeşilova Köy Yolu,8
+12268,Yeşilyurt İtfaiye,8
+30787,Yol Ayrımı,8
+30788,Yol Ayrımı,8
+15957,Yol Üstü Benzinlik Anayol,8
+22997,Yuvam,8
+20488,Zihni Üstün İlkokulu,8
+20489,Zihni Üstün İlkokulu,8
+30305,Çamkıran,8
+30308,Çamkıran,8
+50636,Çardak,8
+50709,Çardak,8
+10124,Çardak 2,8
+50393,Çardak Kahve,8
+50394,Çardak Kahve,8
+30320,Çağdaş,8
+30763,Çeşme,8
+30764,Çeşme,8
+16805,Çiftlik,8
+16806,Çiftlik,8
+50464,Çiçek,8
+11892,Çınarlı Mesleki ve Teknik Anadolu Lisesi,8
+16841,Ödemiş İtfaiye,8
+16842,Ödemiş İtfaiye,8
+30555,Öğrenci Köyü,8
+30556,Öğrenci Köyü,8
+50630,İkinci Köprü,8
+50631,İkinci Köprü,8
+21697,İstasyon Köprü,8
+21698,İstasyon Köprü,8
+50613,İzsu,8
+50628,İzsu,8
+50730,İçmeler,8
+50731,İçmeler,8
+50632,İçmeler Çıkış,8
+30768,Şehitler Parkı,8
+30769,Şehitler Parkı,8
+40160,Şirinyer Parkı,8
+30030,Altındağ Belediyesi,7
+30031,Altındağ Belediyesi,7
+15482,Atatürk Kültür Merkezi,7
+21035,Atatürk Mahallesi Zirve,7
+10123,Basmane Ptt,7
+11800,Bayındır Fatih İlkokulu,7
+11801,Bayındır Fatih İlkokulu,7
+15641,Bayındır Gül,7
+15642,Bayındır Gül,7
+11798,Bayındır Sadık Susamcıoğlu Anadolu Lisesi,7
+11799,Bayındır Sadık Susamcıoğlu Anadolu Lisesi,7
+15639,Bayındır Zeytin,7
+15640,Bayındır Zeytin,7
+11780,Bayındır Çınar,7
+11781,Bayındır Çınar,7
+16396,Benzinlik,7
+23290,Bergama Zeytinlik,7
+30127,Birinci Sanayi Sitesi,7
+30128,Birinci Sanayi Sitesi,7
+10126,Borsa,7
+12207,Bozyaka Cami,7
+12208,Bozyaka Cami,7
+40087,Buca Belediye Şantiye,7
+40038,Buca Devlet Hastanesi,7
+40733,Buca Devlet Hastanesi,7
+40734,Buca Devlet Hastanesi,7
+40067,Buca Eski Mezarlık,7
+12877,Büyükşehir Kurs Merkezi,7
+12878,Büyükşehir Kurs Merkezi,7
+11752,Canlı Kahveler,7
+11761,Canlı Kahveler,7
+11753,Canlı Park,7
+11760,Canlı Park,7
+20428,Demirci,7
+40735,Demokrasi Meydanı,7
+40736,Demokrasi Meydanı,7
+10106,Dokuz Eylül Rektörlük,7
+30255,Ege Üniversitesi Hastanesi,7
+21399,Egekent 2,7
+20043,Egem,7
+50093,Elif,7
+50096,Elif,7
+23002,Eroğlu,7
+31778,Evka 3 Aktarma Merkezi,7
+31364,Evka 4 Muhtarlık,7
+20836,Evka 6,7
+10504,Fahrettin Altay,7
+51826,Fahrettin Altay Meydan 3,7
+50091,Fidanlık,7
+50094,Fidanlık,7
+11772,Furunlu Yolu,7
+11773,Furunlu Yolu,7
+22230,Gazeteci Çetin Altan Anadolu Ticaret Lisesi,7
+12881,Gaziemir Belediyesi,7
+12882,Gaziemir Belediyesi,7
+12883,Gaziemir Merkez Cami,7
+12884,Gaziemir Merkez Cami,7
+10654,Gaziemir Semt Garajı,7
+12886,Gaziemir Trafo,7
+12891,Gaziemir Trafo,7
+12946,Gaziemir İMKB Mesleki ve Teknik Anadolu Lisesi,7
+11802,Güven,7
+50028,Güzel Sanatlar Fakültesi,7
+12876,Halil Tan Parkı,7
+12895,Halil Tan Parkı,7
+10112,Halit Ziya,7
+40079,Hasan Ağa Bahçesi,7
+12337,Hasan Tahsin,7
+12340,Hasan Tahsin,7
+14965,Hasan Çavuş,7
+14966,Hasan Çavuş,7
+30028,Havuzlu Kahve,7
+21393,Jandarma Ormanı,7
+10641,Karabağlar,7
+10642,Karabağlar,7
+12339,Karabağlar Halk Eğitim Merkezi,7
+12342,Karabağlar Halk Eğitim Merkezi,7
+10148,Karataş Anadolu Lisesi,7
+23004,Karayolları Bakımevi,7
+14918,Kaymakçı Giriş,7
+14919,Kaymakçı Giriş,7
+14969,Kaymakçı Köprü,7
+14970,Kaymakçı Köprü,7
+14967,Kaymakçı Sanayi,7
+14968,Kaymakçı Sanayi,7
+14963,Kaymakçı Zafer,7
+14964,Kaymakçı Zafer,7
+14961,Kaymakçı Üçyol,7
+14962,Kaymakçı Üçyol,7
+16376,Kazım Dirik,7
+16377,Kazım Dirik,7
+12205,Kestelli,7
+12206,Kestelli,7
+30024,Kokluca Mezarlığı,7
+30025,Kokluca Mezarlığı,7
+50199,Korutürk,7
+14957,Kurucaova,7
+14958,Kurucaova,7
+14959,Kurucaova Tarla,7
+14960,Kurucaova Tarla,7
+14915,Kurucuova Benzinlik,7
+14916,Kurucuova Benzinlik,7
+16537,Kurucuova Ova,7
+16152,Kurucuova Çiftlik,7
+16151,Kurucuova Çifttlik,7
+20481,Kuyumcu Abdullah Altınçubuk İlkokulu,7
+30998,Köprü,7
+10146,Kız Lisesi,7
+10637,Kızılcık,7
+24167,Maltepe,7
+10932,Menderes Nikah Sarayı,7
+10933,Menderes Nikah Sarayı,7
+10711,Menderes Park,7
+10712,Menderes Park,7
+10721,Menderes Ziraat Odası,7
+12341,Mermerci,7
+12344,Mermerci,7
+51941,Mermerci,7
+51942,Mermerci,7
+16586,Mimar Kemalettin,7
+30123,Miralay Fethi Bey,7
+30124,Miralay Fethi Bey,7
+20148,Muammer Aksoy Parkı,7
+20149,Muammer Aksoy Parkı,7
+30759,Osmanlı Parkı,7
+30760,Osmanlı Parkı,7
+24085,Otel,7
+40069,Papatya,7
+10639,Paşa Köprüsü,7
+10640,Paşa Köprüsü,7
+15003,Sarıtaş,7
+30757,Sekiz Eylül İlkokulu,7
+30758,Sekiz Eylül İlkokulu,7
+20146,Selçuk Yaşar Alaybey Ortaokulu,7
+20147,Selçuk Yaşar Alaybey Ortaokulu,7
+10943,Seydiköy,7
+10944,Seydiköy,7
+50524,Siteler Muhtarlık,7
+11796,Sokullu,7
+11797,Sokullu,7
+10104,Sosyal Sigortalar Kurumu,7
+20426,Soğukkuyu,7
+30129,Taç Sanayi,7
+30130,Taç Sanayi,7
+20144,Tersane,7
+20145,Tersane,7
+21394,Ulukent Trafo,7
+21395,Ulukent Trafo,7
+51859,Urla Villalar,7
+51860,Urla Villalar,7
+11759,Yakapınar Giriş,7
+12198,Yağhaneler 3,7
+50402,Yelki Villakent,7
+21967,Yeni Foça Otogar,7
+12885,Yeşil Mahallesi Muhtarlığı,7
+12888,Yeşil Mahallesi Muhtarlığı,7
+50576,Yeşil Yol,7
+50577,Yeşil Yol,7
+30965,Yunus Keskin Parkı,7
+12508,Yıkık Cami 2,7
+12509,Yıkık Cami 2,7
+12203,Zincirlikuyu,7
+50407,Çamlı Merkez,7
+50405,Çamlı Papatya,7
+50406,Çamlı Papatya,7
+50403,Çamlı Villaları,7
+50404,Çamlı Villaları,7
+10128,Çardak,7
+10848,Çetineller Otel,7
+15637,ÇİKOOP,7
+15638,ÇİKOOP,7
+21396,Üst Geçit,7
+21397,Üst Geçit,7
+10616,İller Bankası,7
+21028,İzkent Son Durak,7
+10257,İzmir Spor,7
+50633,İçmeler Çıkış,7
+30301,Şehit Hakan Ünal,7
+30302,Şehit Hakan Ünal,7
+30303,Şehit Murat Aslantürk,7
+30306,Şehit Murat Aslantürk,7
+10945,Şehit Piyade Uzman Çavuş Ayhan Elmacı,7
+10946,Şehit Piyade Uzman Çavuş Ayhan Elmacı,7
+12944,Şehit Polis Ahmet Atilla Güneş İlkokulu,7
+50095,Şehit Üsteğmen Deveci,7
+50098,Şehit Üsteğmen Deveci,7
+30026,Şehitler,7
+30027,Şehitler,7
+30032,Şehitler Ortaokulu,7
+30035,Şehitler Ortaokulu,7
+30299,Adalet Mahallesi,6
+30300,Adalet Mahallesi,6
+30991,Adil Akçamlı,6
+31474,Adil Demir Sitesi,6
+31475,Adil Demir Sitesi,6
+10822,Aksan,6
+10823,Aksan,6
+40142,Akıncılar Cami,6
+40143,Akıncılar Cami,6
+40145,Akıncılar Merkez,6
+40146,Akıncılar Merkez,6
+12469,Ali Fuat Erden Mahallesi Muhtarlığı,6
+22737,Aliağa İlçe Emniyet Müdürlüğü,6
+22740,Aliağa İlçe Emniyet Müdürlüğü,6
+11750,Arıkbaşı Akçam,6
+11751,Arıkbaşı Akçam,6
+12234,Asmalı,6
+12235,Asmalı,6
+10802,Ayrancılar Mezarlık,6
+10803,Ayrancılar Mezarlık,6
+10808,Ayrancılar Petrol Ofisi,6
+10809,Ayrancılar Petrol Ofisi,6
+10016,Bahribaba,6
+10812,Bahçelievler,6
+21398,Bakım Merkezi,6
+21593,Bakırçay Üniversitesi,6
+50506,Barış Selçuk Parkı,6
+50507,Barış Selçuk Parkı,6
+12277,Basın Sitesi,6
+12278,Basın Sitesi,6
+30971,Bayraklı Çocuk Parkı,6
+10907,Bayraktar,6
+10908,Bayraktar,6
+12213,Bayram Kahya,6
+12214,Bayram Kahya,6
+11072,Begonya,6
+11077,Begonya,6
+50386,Benzin İstasyonu,6
+50387,Benzin İstasyonu,6
+11784,Benzinlik,6
+11785,Benzinlik,6
+16397,Benzinlik,6
+30108,Benzinlik,6
+23009,Bergama Begonya,6
+23801,Bergama Kantar,6
+23011,Bergama Salkım,6
+23128,Bergama Sanayi,6
+10838,Beşevler Çeşme,6
+10839,Beşevler Çeşme,6
+10828,Beşyol,6
+10829,Beşyol,6
+31476,Bornova Kooperatif,6
+31477,Bornova Kooperatif,6
+31481,Bornova Tenis Kulübü,6
+31482,Bornova Tenis Kulübü,6
+12255,Bozyaka Devlet Hastanesi,6
+12256,Bozyaka Devlet Hastanesi,6
+41311,Buca Toki Girişi,6
+41312,Buca Toki Girişi,6
+40644,Buca İlçe Halk Kütüphanesi,6
+40645,Buca İlçe Halk Kütüphanesi,6
+10875,Bölge Trafik,6
+10880,Bölge Trafik,6
+20977,Büyük Çiğli Anadolu Lisesi,6
+20978,Büyük Çiğli Anadolu Lisesi,6
+10842,Camel,6
+10843,Camel,6
+11747,Dede Dağı,6
+11748,Dede Dağı,6
+30974,Dede Fırını,6
+30983,Dede Fırını,6
+31360,Depo,6
+10879,Doğanay,6
+10884,Doğanay,6
+32428,Dumlupınar,6
+10801,Egekent 4 Kavşak,6
+20965,Egekent Dispanser,6
+20966,Egekent Dispanser,6
+12433,Egzozcu,6
+12434,Egzozcu,6
+51979,Ekoköy,6
+20451,Emek,6
+20452,Emek,6
+10798,Emlakçılar,6
+10799,Emlakçılar,6
+22999,Eroğlu,6
+50441,Esentepe,6
+50442,Esentepe,6
+10242,Etnografya Müzesi,6
+31361,Evka 4 Depo,6
+31365,Evka 4 Muhtarlık,6
+31370,Evka 4 Son Durak,6
+32372,Evka 4 İş Merkezi,6
+31368,Evka-4 Anaokulu,6
+31369,Evka-4 Anaokulu,6
+40898,Fen Edebiyat,6
+50433,Gölet Ata,6
+50434,Gölet Ata,6
+20453,Gümüşpala Merkez,6
+20454,Gümüşpala Merkez,6
+12472,Güzel İzmir Cami,6
+50371,Güzelbahçe,6
+10804,Havuzlu,6
+10825,Havuzlu,6
+30029,Havuzlu Kahve,6
+30110,Hayat Ağacı,6
+30979,Heykel,6
+30980,Heykel,6
+10117,Hisarönü,6
+31295,Hükümet Konağı,6
+50508,Jandarma,6
+50509,Jandarma,6
+50581,Jandarma,6
+50105,Kahveler,6
+50108,Kahveler,6
+11392,Kamp,6
+11393,Kamp,6
+50439,Karakayalar,6
+50440,Karakayalar,6
+23001,Karayolları Bakımevi,6
+30755,Kemalpaşa Havuz,6
+30756,Kemalpaşa Havuz,6
+10233,Koruluk,6
+21402,Koyundere,6
+21403,Koyundere,6
+10832,Kuşcuburun Barbaros Ortaokulu,6
+10833,Kuşcuburun Barbaros Ortaokulu.,6
+10830,Kuşçuburun Karayolları,6
+10831,Kuşçuburun Karayolları,6
+20856,Körfez Köy,6
+20857,Körfez Köy,6
+16446,Küme Evler,6
+16447,Küme Evler,6
+11757,Kızılcaova,6
+10425,Liman,6
+31366,Mehmet Akif Cami,6
+31367,Mehmet Akif Cami,6
+12470,Memiş Kahya,6
+12471,Memiş Kahya,6
+15563,Menderes SGK,6
+10703,Menderes sanayi,6
+30045,Metaş,6
+11786,Mezarlık,6
+11787,Mezarlık,6
+10227,Mezarlıkbaşı,6
+10561,Meşale,6
+10562,Meşale,6
+30034,Mimar Sinan Mesleki ve Teknik Anadolu Lisesi,6
+30037,Mimar Sinan Mesleki ve Teknik Anadolu Lisesi,6
+40129,Mimarlık Fakültesi,6
+40130,Mimarlık Fakültesi,6
+10330,Montrö,6
+20449,Muhtar,6
+20450,Muhtar,6
+40658,Mursal Meydanı,6
+40659,Mursal Meydanı,6
+20853,Mustafa Kemal Mahallesi Muhtarlığı,6
+20858,Mustafa Kemal Mahallesi Muhtarlığı,6
+10826,Namet,6
+10827,Namet,6
+40137,Nato 1,6
+40138,Nato 1,6
+31358,Nedim Dağtaş,6
+31359,Nedim Dağtaş,6
+11402,Opel,6
+24086,Otel,6
+30511,Otogar,6
+10883,Pamukyazı Merkez,6
+10888,Pamukyazı Merkez,6
+10881,Pamukyazı Tamsa Seramik Fabrikası A.Ş. İlkokulu,6
+10886,Pamukyazı Tamsa Seramik Fabrikası A.Ş. İlkokulu,6
+31091,Park,6
+31092,Park,6
+31483,Profesörler Sitesi,6
+31484,Profesörler Sitesi,6
+10840,Reysaş,6
+10841,Reysaş,6
+10673,Sarnıç Alt Geçidi,6
+13005,Sarnıç Dere,6
+13006,Sarnıç Dere,6
+50435,Seferihisar İMKB Mesleki ve Teknik Anadolu Lisesi,6
+50436,Seferihisar İMKB Mesleki ve Teknik Anadolu Lisesi,6
+10806,Sekseninci Yıl Cumhuriyet Parkı,6
+10807,Sekseninci Yıl Cumhuriyet Parkı,6
+24120,Semiye,6
+10873,Sepici,6
+10878,Sepici,6
+11782,Sera,6
+11783,Sera,6
+40895,Sosyal Tesisler,6
+40896,Sosyal Tesisler,6
+13567,Sığacık Yol Ayrımı,6
+16739,TOKİ Evleri,6
+16740,TOKİ Evleri,6
+10421,Tariş,6
+21400,Tarımsal Araştırma,6
+21401,Tarımsal Araştırma,6
+40901,Teknopark,6
+40902,Teknopark,6
+50175,Teleferik,6
+10844,Temel,6
+10845,Temel,6
+31131,Tepe,6
+50197,Termal,6
+10810,Tevfik Fikret,6
+12474,Toprak,6
+10648,Torbalı Devlet Hastanesi,6
+10649,Torbalı Devlet Hastanesi,6
+11398,Torbalı Sanayi,6
+11400,Torbalı Sanayi Çıkışı,6
+31467,Türkan Özilhan Devlet Hastanesi,6
+31468,Türkan Özilhan Devlet Hastanesi,6
+10794,Türkmenköy Jandarma,6
+10795,Türkmenköy Jandarma,6
+11404,Tütün Fabrikası,6
+51944,Ulama,6
+50453,Ulamış Giriş,6
+50454,Ulamış Giriş,6
+50437,Uluslararası Seferihisar İMKB Anadolu İmam Hatip Lisesi,6
+50438,Uluslararası Seferihisar İMKB Anadolu İmam Hatip Lisesi,6
+50578,Urla Anadolu Lisesi,6
+51059,Urla Devlet Hastanesi,6
+51060,Urla Devlet Hastanesi,6
+50579,Urla Mesleki ve Teknik Anadolu Lisesi,6
+50854,Urla Sanat,6
+50855,Urla Sanat,6
+50861,Urla Sanayi 2,6
+50862,Urla Sanayi 2,6
+50863,Urla Sanayi 3,6
+50864,Urla Sanayi 3,6
+11758,Yakapınar Giriş,6
+12063,Yağhaneler,6
+31362,Yeditepe İtfaiye,6
+16476,Yeni Kent,6
+30101,Yeni Kent,6
+30102,Yeni Kent,6
+12273,Yeşilyurt Devlet Hastanesi,6
+12274,Yeşilyurt Devlet Hastanesi,6
+12275,Yeşilyurt Huzurevi,6
+12276,Yeşilyurt Huzurevi,6
+12271,Yeşilyurt Çeşme,6
+12272,Yeşilyurt Çeşme,6
+10834,Yüksek Kahve,6
+10835,Yüksek Kahve,6
+50408,Çamlı Merkez,6
+12833,Çamlık,6
+10846,Çapak Yolu,6
+10847,Çapak Yolu,6
+30981,Çay Mahallesi,6
+30982,Çay Mahallesi Son Durak,6
+15436,Çaybaşı Fabrikalar,6
+15437,Çaybaşı Fabrikalar,6
+10871,Çaybaşı Mermerci,6
+10876,Çaybaşı Mermerci,6
+10849,Çetineller Otel,6
+31093,Çeşme,6
+31094,Çeşme,6
+50388,Çiçek Mezatı,6
+30975,Çorapçı,6
+30976,Çorapçı,6
+12236,Çöp Fabrikası,6
+30753,Çınarköy Yolu,6
+14971,Ödemiş Cezaevi,6
+14972,Ödemiş Cezaevi,6
+50443,Öğretmenevi,6
+50444,Öğretmenevi,6
+12435,Ülkü,6
+12436,Ülkü,6
+10796,Üç Pınarlar,6
+10797,Üç Pınarlar,6
+40066,İktisadi ve İdari Bilimler Fakültesi,6
+40068,İktisadi ve İdari Bilimler Fakültesi,6
+24032,İstiklal Meydanı,6
+24033,İstiklal Meydanı,6
+40175,İzban Koşu Durağı,6
+40176,İzban Koşu Durağı,6
+50111,İzmir Cengiz Aytmatov Sosyal Bilimler Lisesi,6
+50114,İzmir Cengiz Aytmatov Sosyal Bilimler Lisesi,6
+40897,İşletme Fakültesi,6
+10877,Şahtaş,6
+10882,Şahtaş,6
+31485,Şehit Erkan Er Ortaokulu,6
+30977,Şehit Hakan Uysal,6
+30978,Şehit Hakan Uysal,6
+12363,Şehit Halit Taş Ortaokulu,6
+12364,Şehit Halit Taş Ortaokulu,6
+40656,Şehit Polis Cebrail Aksöz,6
+40657,Şehit Polis Cebrail Aksöz,6
+40140,Şirinyer Ertuğrul Gazi Anadolu Lisesi,6
+40141,Şirinyer Ertuğrul Gazi Anadolu Lisesi,6

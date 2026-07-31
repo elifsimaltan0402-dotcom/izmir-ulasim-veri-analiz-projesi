@@ -1,0 +1,90 @@
+﻿issue_type;stop_id;field_name;raw_value;description;source_row_number
+Eksik veya geçersiz durak ID;;DURAK_ID;;Durak ID alanı eksiktir.;190
+Geçersiz koordinat;12290;BOYLAM;27.Ara;Boylam değeri sayısal olarak dönüştürülememiş veya İzmir için makul aralığın dışında kalmıştır.;1595
+Geçersiz koordinat;12413;BOYLAM;27.Kas;Boylam değeri sayısal olarak dönüştürülememiş veya İzmir için makul aralığın dışında kalmıştır.;1660
+Geçersiz koordinat;12761;BOYLAM;27.Eki;Boylam değeri sayısal olarak dönüştürülememiş veya İzmir için makul aralığın dışında kalmıştır.;1895
+Geçersiz koordinat;13647;BOYLAM;27.Mar;Boylam değeri sayısal olarak dönüştürülememiş veya İzmir için makul aralığın dışında kalmıştır.;2401
+Geçersiz koordinat;21531;BOYLAM;27.May;Boylam değeri sayısal olarak dönüştürülememiş veya İzmir için makul aralığın dışında kalmıştır.;5284
+Geçersiz koordinat;21659;BOYLAM;27.Eyl;Boylam değeri sayısal olarak dönüştürülememiş veya İzmir için makul aralığın dışında kalmıştır.;5406
+Eksik hat bilgisi;10423;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;212
+Eksik hat bilgisi;10458;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;225
+Eksik hat bilgisi;12892;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;1986
+Eksik hat bilgisi;12896;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;1989
+Eksik hat bilgisi;13072;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;2112
+Eksik hat bilgisi;13080;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;2118
+Eksik hat bilgisi;13306;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;2191
+Eksik hat bilgisi;16391;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;4062
+Eksik hat bilgisi;16645;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;4240
+Eksik hat bilgisi;16849;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;4386
+Eksik hat bilgisi;20032;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;4432
+Eksik hat bilgisi;21106;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5043
+Eksik hat bilgisi;21203;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5095
+Eksik hat bilgisi;21209;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5100
+Eksik hat bilgisi;21211;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5102
+Eksik hat bilgisi;21213;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5104
+Eksik hat bilgisi;21223;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5111
+Eksik hat bilgisi;21225;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5112
+Eksik hat bilgisi;21227;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5113
+Eksik hat bilgisi;21229;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5114
+Eksik hat bilgisi;21231;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5115
+Eksik hat bilgisi;21233;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5116
+Eksik hat bilgisi;21235;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5117
+Eksik hat bilgisi;21237;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5118
+Eksik hat bilgisi;21239;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5119
+Eksik hat bilgisi;21241;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5120
+Eksik hat bilgisi;22192;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5796
+Eksik hat bilgisi;22321;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5836
+Eksik hat bilgisi;22460;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5918
+Eksik hat bilgisi;22461;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5919
+Eksik hat bilgisi;22462;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5920
+Eksik hat bilgisi;22463;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;5921
+Eksik hat bilgisi;22841;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;6089
+Eksik hat bilgisi;23314;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;6249
+Eksik hat bilgisi;24069;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;6927
+Eksik hat bilgisi;24136;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;6987
+Eksik hat bilgisi;24137;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;6988
+Eksik hat bilgisi;24138;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;6989
+Eksik hat bilgisi;24312;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7147
+Eksik hat bilgisi;24313;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7148
+Eksik hat bilgisi;24362;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7197
+Eksik hat bilgisi;24363;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7198
+Eksik hat bilgisi;24364;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7199
+Eksik hat bilgisi;24365;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7200
+Eksik hat bilgisi;24370;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7205
+Eksik hat bilgisi;24371;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7206
+Eksik hat bilgisi;30006;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7458
+Eksik hat bilgisi;30007;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7459
+Eksik hat bilgisi;30008;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7460
+Eksik hat bilgisi;30009;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7461
+Eksik hat bilgisi;30012;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7464
+Eksik hat bilgisi;30016;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;7468
+Eksik hat bilgisi;31371;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;8336
+Eksik hat bilgisi;40121;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;9106
+Eksik hat bilgisi;40123;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;9107
+Eksik hat bilgisi;40124;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;9108
+Eksik hat bilgisi;40126;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;9109
+Eksik hat bilgisi;40885;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;9490
+Eksik hat bilgisi;41329;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;9798
+Eksik hat bilgisi;41330;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;9799
+Eksik hat bilgisi;41331;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;9800
+Eksik hat bilgisi;41332;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;9801
+Eksik hat bilgisi;41390;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;9849
+Eksik hat bilgisi;41404;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;9862
+Eksik hat bilgisi;50935;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;10514
+Eksik hat bilgisi;50936;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;10515
+Eksik hat bilgisi;50937;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;10516
+Eksik hat bilgisi;50938;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;10517
+Eksik hat bilgisi;51082;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;10656
+Eksik hat bilgisi;51084;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;10658
+Eksik hat bilgisi;51085;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;10659
+Eksik hat bilgisi;51094;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;10668
+Parse edilemeyen hat değeri;51535;DURAKTAN_GECEN_HATLAR;Eyl.82;Hat değeri beklenen sayısal formata dönüştürülememiştir.;10850
+Parse edilemeyen hat değeri;51536;DURAKTAN_GECEN_HATLAR;Eyl.82;Hat değeri beklenen sayısal formata dönüştürülememiştir.;10851
+Eksik hat bilgisi;51915;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;11090
+Eksik hat bilgisi;51922;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;11096
+Eksik hat bilgisi;51924;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;11098
+Eksik hat bilgisi;51928;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;11100
+Eksik hat bilgisi;51930;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;11102
+Eksik hat bilgisi;51936;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;11108
+Eksik hat bilgisi;820001;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;11783
+Eksik hat bilgisi;820009;DURAKTAN_GECEN_HATLAR;;Bu durak için herhangi bir hat bilgisi bulunmamaktadır.;11784

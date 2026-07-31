@@ -1,0 +1,151 @@
+2026-07-23 15:03:00 | INFO | ============================================================
+2026-07-23 15:03:00 | INFO | ESHOT VERİ PIPELINE'I BAŞLATILDI
+2026-07-23 15:03:00 | INFO | ============================================================
+2026-07-23 15:03:00 | INFO | Proje klasörü: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3
+2026-07-23 15:03:00 | INFO | Script klasörü: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\scripts
+2026-07-23 15:03:00 | INFO | Rapor klasörü: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports
+2026-07-23 15:03:00 | INFO | Log dosyası: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\logs\pipeline_2026-07-23_15-03-00.log
+2026-07-23 15:03:00 | INFO | ------------------------------------------------------------
+2026-07-23 15:03:00 | INFO | Script başlatılıyor: clean_data.py
+2026-07-23 15:03:07 | INFO | Script çıktısı:
+=================================================================
+ESHOT VER� TEM�ZLEME VE D�N��T�RME
+=================================================================
+
+Ham veri sat�r say�s�: 11783
+Ham veri s�tun say�s�: 6
+
+Kontrol sonu�lar�:
+- Durak ID de�erleri benzersiz: Ba�ar�l�
+- Tekrarl� durak-hat ili�kisi yok: Ba�ar�l�
+- Durak-hat referans kontrol�: Ba�ar�l�
+- Ham ve temiz veri tutarl�l���: Ba�ar�l�
+- stop_routes i�inde bo� route_number yok: Ba�ar�l�
+- Ge�erli koordinatlar aral�k i�inde ve dolu: Ba�ar�l�
+- Ge�ersiz koordinatlarda en az bir sorun var: Ba�ar�l�
+- Hats�z durak say�s� eksik+parse edilemeyen ile tutarl�: Ba�ar�l�
+- Reddedilen sat�rlarda kaynak sat�r bilgisi korunmu�: Ba�ar�l�
+
+=================================================================
+VER� TEM�ZLEME SONU�LARI
+=================================================================
+Ham veri sat�r say�s�       : 11783
+Ge�erli durak ID say�s�     : 11782
+Temiz durak say�s�          : 11782
+Benzersiz hat say�s�        : 441
+Durak-hat ili�kisi say�s�   : 31356
+Veri kalitesi sorunu say�s� : 89
+Reddedilen sat�r say�s�     : 1
+
+Olu�turulan dosyalar:
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\data\processed\stops_clean.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\data\processed\stop_routes.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\data\processed\data_quality_issues.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\data\processed\rejected_rows.csv
+
+Veri temizleme i�lemi ba�ar�yla tamamland�.
+2026-07-23 15:03:07 | INFO | clean_data.py başarıyla tamamlandı. Süre: 6.17 saniye
+2026-07-23 15:03:07 | INFO | ------------------------------------------------------------
+2026-07-23 15:03:07 | INFO | Script başlatılıyor: build_database.py
+2026-07-23 15:03:08 | INFO | Script çıktısı:
+=================================================================
+ESHOT SQLITE VER�TABANI OLU�TURMA
+=================================================================
+
+Temizlenmi� CSV dosyalar� okunuyor...
+Veritaban� �emas� olu�turuluyor...
+Temizlenmi� veriler aktar�l�yor...
+
+=================================================================
+VER�TABANI OLU�TURMA SONU�LARI
+=================================================================
+Stops            : 11782
+Routes           : 441
+StopRoutes       : 31356
+DataQualityIssues: 89
+
+Kontrol sonu�lar�:
+- Temiz CSV ve veritaban� say�lar� e�le�iyor.
+- Tekrarl� durak-hat ili�kisi bulunmuyor.
+- Foreign key kontrol� ba�ar�l�.
+- routes tablosunda bo�/tekrar eden hat yok.
+- Hats�z durak say�s�, veritaban�ndaki eksik/parse edilemeyen hat kay�tlar�yla tutarl�.
+- Script yeniden �al��t�r�labilir.
+
+Veritaban� dosyas�:
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\database\eshot_analytics.db
+
+SQLite veritaban� ba�ar�yla olu�turuldu.
+2026-07-23 15:03:08 | INFO | build_database.py başarıyla tamamlandı. Süre: 1.23 saniye
+2026-07-23 15:03:08 | INFO | ------------------------------------------------------------
+2026-07-23 15:03:08 | INFO | Script başlatılıyor: run_analysis.py
+2026-07-23 15:03:12 | INFO | Script çıktısı:
+=================================================================
+ESHOT SQL ANAL�Z� VE GRAF�K OLU�TURMA
+=================================================================
+
+=================================================================
+TEMEL VER�TABANI KONTROLLER�
+=================================================================
+Toplam durak say�s�              : 11782
+Ge�erli koordinatl� durak say�s� : 11776
+Ge�ersiz koordinatl� durak say�s�: 6
+Hat bilgisi olmayan durak say�s� : 82
+Toplam benzersiz hat say�s�      : 441
+Toplam durak-hat ili�kisi         : 31356
+Toplam veri kalitesi sorunu       : 89
+Sadece bir hatt�n ge�ti�i durak   : 5866
+
+En fazla duraktan ge�en 10 hat:
+route_number  stop_count
+         697         400
+         806         384
+         858         294
+         987         264
+         775         239
+         795         229
+         701         220
+         981         218
+         829         217
+         761         215
+
+En fazla hatt�n ge�ti�i 10 durak:
+ stop_id                stop_name  route_count
+   50004 Fahrettin Altay Meydan 9           31
+   10240                K�z Yurdu           31
+   50008                    Beyaz           24
+   10231                 Kestelli           24
+   20057                    Turan           24
+   20060                    Turan           24
+   20151         Kar��yaka �skele           23
+   12874       Halkap�nar Tramvay           22
+   50011         Bal�ova �stasyon           21
+   20157    Dokuz Eyl�l Dispanser           21
+
+Olu�turulan CSV raporlar�:
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\top_10_routes.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\top_10_stops.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\data_quality_summary.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\duplicate_stop_names.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\route_stop_counts.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\stops_with_more_than_five_routes.csv
+
+Olu�turulan grafikler:
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\charts\top_10_routes.png
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\charts\top_10_stops.png
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\charts\data_quality_summary.png
+
+Kontrol sonu�lar�:
+- Hatlar ayr� ayr� analiz edildi.
+- Birle�ik hat de�eri bulunmuyor.
+- En yo�un 10 hat sorgusu do�ruland�.
+- En yo�un 10 durak sorgusu do�ruland�.
+- CSV raporlar� ba�ar�yla olu�turuldu.
+- Grafikler ba�ar�yla olu�turuldu.
+
+SQL analiz i�lemi ba�ar�yla tamamland�.
+2026-07-23 15:03:12 | INFO | run_analysis.py başarıyla tamamlandı. Süre: 4.15 saniye
+2026-07-23 15:03:12 | INFO | ============================================================
+2026-07-23 15:03:12 | INFO | MEVCUT VERİ HATTI BAŞARIYLA TAMAMLANDI
+2026-07-23 15:03:12 | INFO | ============================================================
+2026-07-23 15:03:12 | INFO | Script çalışma süreleri: {'clean_data': 6.17, 'build_database': 1.23, 'sql_analysis': 4.15}

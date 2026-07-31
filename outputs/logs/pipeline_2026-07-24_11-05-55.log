@@ -1,0 +1,229 @@
+2026-07-24 11:05:55 | INFO | ============================================================
+2026-07-24 11:05:55 | INFO | ESHOT VERİ PIPELINE'I BAŞLATILDI
+2026-07-24 11:05:55 | INFO | ============================================================
+2026-07-24 11:05:55 | INFO | Proje klasörü: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3
+2026-07-24 11:05:55 | INFO | Script klasörü: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\scripts
+2026-07-24 11:05:55 | INFO | Rapor klasörü: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports
+2026-07-24 11:05:55 | INFO | Log dosyası: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\logs\pipeline_2026-07-24_11-05-55.log
+2026-07-24 11:05:55 | INFO | ------------------------------------------------------------
+2026-07-24 11:05:55 | INFO | Script başlatılıyor: clean_data.py
+2026-07-24 11:05:58 | INFO | Script çıktısı:
+=================================================================
+ESHOT VERİ TEMİZLEME VE DÖNÜŞTÜRME
+=================================================================
+
+Ham veri satır sayısı: 11783
+Ham veri sütun sayısı: 6
+
+Kontrol sonuçları:
+- Durak ID değerleri benzersiz: Başarılı
+- Tekrarlı durak-hat ilişkisi yok: Başarılı
+- Durak-hat referans kontrolü: Başarılı
+- Ham ve temiz veri tutarlılığı: Başarılı
+- stop_routes içinde boş route_number yok: Başarılı
+- Geçerli koordinatlar aralık içinde ve dolu: Başarılı
+- Geçersiz koordinatlarda en az bir sorun var: Başarılı
+- Hatsız durak sayısı eksik+parse edilemeyen ile tutarlı: Başarılı
+- Reddedilen satırlarda kaynak satır bilgisi korunmuş: Başarılı
+
+=================================================================
+VERİ TEMİZLEME SONUÇLARI
+=================================================================
+Ham veri satır sayısı       : 11783
+Geçerli durak ID sayısı     : 11782
+Temiz durak sayısı          : 11782
+Benzersiz hat sayısı        : 441
+Durak-hat ilişkisi sayısı   : 31356
+Veri kalitesi sorunu sayısı : 89
+Reddedilen satır sayısı     : 1
+
+Oluşturulan dosyalar:
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\data\processed\stops_clean.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\data\processed\stop_routes.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\data\processed\data_quality_issues.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\data\processed\rejected_rows.csv
+
+Veri temizleme işlemi başarıyla tamamlandı.
+2026-07-24 11:05:58 | INFO | clean_data.py başarıyla tamamlandı. Süre: 2.64 saniye
+2026-07-24 11:05:58 | INFO | ------------------------------------------------------------
+2026-07-24 11:05:58 | INFO | Script başlatılıyor: build_database.py
+2026-07-24 11:05:59 | INFO | Script çıktısı:
+=================================================================
+ESHOT SQLITE VERİTABANI OLUŞTURMA
+=================================================================
+
+Temizlenmiş CSV dosyaları okunuyor...
+Veritabanı şeması oluşturuluyor...
+Temizlenmiş veriler aktarılıyor...
+
+=================================================================
+VERİTABANI OLUŞTURMA SONUÇLARI
+=================================================================
+Stops            : 11782
+Routes           : 441
+StopRoutes       : 31356
+DataQualityIssues: 89
+
+Kontrol sonuçları:
+- Temiz CSV ve veritabanı sayıları eşleşiyor.
+- Tekrarlı durak-hat ilişkisi bulunmuyor.
+- Foreign key kontrolü başarılı.
+- routes tablosunda boş/tekrar eden hat yok.
+- Hatsız durak sayısı, veritabanındaki eksik/parse edilemeyen hat kayıtlarıyla tutarlı.
+- Script yeniden çalıştırılabilir.
+
+Veritabanı dosyası:
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\database\eshot_analytics.db
+
+SQLite veritabanı başarıyla oluşturuldu.
+2026-07-24 11:05:59 | INFO | build_database.py başarıyla tamamlandı. Süre: 1.15 saniye
+2026-07-24 11:05:59 | INFO | ------------------------------------------------------------
+2026-07-24 11:05:59 | INFO | Script başlatılıyor: run_analysis.py
+2026-07-24 11:06:02 | INFO | Script çıktısı:
+=================================================================
+ESHOT SQL ANALİZİ VE GRAFİK OLUŞTURMA
+=================================================================
+
+=================================================================
+TEMEL VERİTABANI KONTROLLERİ
+=================================================================
+Toplam durak sayısı              : 11782
+Geçerli koordinatlı durak sayısı : 11776
+Geçersiz koordinatlı durak sayısı: 6
+Hat bilgisi olmayan durak sayısı : 82
+Toplam benzersiz hat sayısı      : 441
+Toplam durak-hat ilişkisi         : 31356
+Toplam veri kalitesi sorunu       : 89
+Sadece bir hattın geçtiği durak   : 5866
+
+En fazla duraktan geçen 10 hat:
+route_number  stop_count
+         697         400
+         806         384
+         858         294
+         987         264
+         775         239
+         795         229
+         701         220
+         981         218
+         829         217
+         761         215
+
+En fazla hattın geçtiği 10 durak:
+ stop_id                stop_name  route_count
+   50004 Fahrettin Altay Meydan 9           31
+   10240                Kız Yurdu           31
+   50008                    Beyaz           24
+   10231                 Kestelli           24
+   20057                    Turan           24
+   20060                    Turan           24
+   20151         Karşıyaka İskele           23
+   12874       Halkapınar Tramvay           22
+   50011         Balçova İstasyon           21
+   20157    Dokuz Eylül Dispanser           21
+
+Oluşturulan CSV raporları:
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\top_10_routes.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\top_10_stops.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\data_quality_summary.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\duplicate_stop_names.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\route_stop_counts.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\stops_with_more_than_five_routes.csv
+
+Oluşturulan grafikler:
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\charts\top_10_routes.png
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\charts\top_10_stops.png
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\charts\data_quality_summary.png
+
+Kontrol sonuçları:
+- Hatlar ayrı ayrı analiz edildi.
+- Birleşik hat değeri bulunmuyor.
+- En yoğun 10 hat sorgusu doğrulandı.
+- En yoğun 10 durak sorgusu doğrulandı.
+- CSV raporları başarıyla oluşturuldu.
+- Grafikler başarıyla oluşturuldu.
+
+SQL analiz işlemi başarıyla tamamlandı.
+2026-07-24 11:06:02 | INFO | run_analysis.py başarıyla tamamlandı. Süre: 2.81 saniye
+2026-07-24 11:06:02 | INFO | ------------------------------------------------------------
+2026-07-24 11:06:02 | INFO | Script başlatılıyor: network_analysis.py
+2026-07-24 11:06:04 | INFO | Script çıktısı:
+=================================================================
+ESHOT HAT AĞI ANALİZİ
+=================================================================
+
+Durak-hat verileri okunuyor...
+Hat bağlantıları oluşturuluyor...
+Hat ağ ölçümleri hesaplanıyor...
+Ağ raporları kaydediliyor...
+
+=================================================================
+AĞ ANALİZİ SONUÇLARI
+=================================================================
+Bağlantılı hat sayısı       : 441
+Hatlar arası bağlantı sayısı: 6568
+
+En bağlantılı 10 hat:
+route_number  connected_route_count  total_shared_stop_count
+         200                     96                      852
+         660                     93                     1092
+         920                     93                     1001
+         950                     89                      719
+         602                     86                      968
+         515                     85                      917
+         121                     84                      564
+         811                     82                      314
+         800                     80                      942
+         543                     75                      587
+
+Oluşturulan dosyalar:
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\network\route_connections.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\network\top_network_routes.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\network\network_summary.json
+
+Ağ analizi başarıyla tamamlandı.
+2026-07-24 11:06:04 | INFO | network_analysis.py başarıyla tamamlandı. Süre: 1.97 saniye
+2026-07-24 11:06:04 | INFO | ------------------------------------------------------------
+2026-07-24 11:06:04 | INFO | Script başlatılıyor: validate_pipeline.py
+2026-07-24 11:06:04 | INFO | Script çıktısı:
+=================================================================
+ESHOT PIPELINE DOĞRULAMA KONTROLLERİ
+=================================================================
+
+1. Gerekli dosyalar kontrol ediliyor...
+Dosya kontrolü başarılı: 16 dosya doğrulandı.
+
+2. Veritabanı kontrol ediliyor...
+Veritabanı kontrolü başarılı.
+- Durak sayısı: 11782
+- Hat sayısı: 441
+- Durak-hat ilişkisi: 31356
+- Veri kalitesi sorunu: 89
+- Geçerli koordinat: 11776
+- Geçersiz koordinat: 6
+
+3. Ağ analizi çıktıları kontrol ediliyor...
+Ağ analizi kontrolü başarılı.
+- Analiz edilen hat sayısı: 441
+- Hat bağlantısı sayısı: 6568
+- En bağlantılı hat: 200
+- En yüksek bağlantı derecesi: 96
+
+=================================================================
+TÜM DOĞRULAMA KONTROLLERİ BAŞARIYLA TAMAMLANDI
+=================================================================
+2026-07-24 11:06:04 | INFO | validate_pipeline.py başarıyla tamamlandı. Süre: 0.07 saniye
+2026-07-24 11:06:04 | INFO | ============================================================
+2026-07-24 11:06:04 | INFO | ESHOT VERİ PIPELINE'I BAŞARIYLA TAMAMLANDI
+2026-07-24 11:06:04 | INFO | ============================================================
+2026-07-24 11:06:04 | INFO | Ham kayıt sayısı: 11783
+2026-07-24 11:06:04 | INFO | Temiz durak sayısı: 11782
+2026-07-24 11:06:04 | INFO | Reddedilen kayıt sayısı: 1
+2026-07-24 11:06:04 | INFO | Benzersiz hat sayısı: 441
+2026-07-24 11:06:04 | INFO | Durak-hat ilişkisi sayısı: 31356
+2026-07-24 11:06:04 | INFO | Veri kalitesi sorunu sayısı: 89
+2026-07-24 11:06:04 | INFO | Geçerli koordinat sayısı: 11776
+2026-07-24 11:06:04 | INFO | Geçersiz koordinat sayısı: 6
+2026-07-24 11:06:04 | INFO | Script çalışma süreleri: {'clean_data': 2.64, 'build_database': 1.15, 'sql_analysis': 2.81, 'network_analysis': 1.97, 'pipeline_validation': 0.07}
+2026-07-24 11:06:04 | INFO | Toplam pipeline süresi: 8.66 saniye
+2026-07-24 11:06:04 | INFO | Pipeline özet dosyası: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports\pipeline_summary.json

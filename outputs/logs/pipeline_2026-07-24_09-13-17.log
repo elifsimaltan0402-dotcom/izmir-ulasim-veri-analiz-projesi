@@ -1,0 +1,64 @@
+2026-07-24 09:13:17 | INFO | ============================================================
+2026-07-24 09:13:17 | INFO | ESHOT VERİ PIPELINE'I BAŞLATILDI
+2026-07-24 09:13:17 | INFO | ============================================================
+2026-07-24 09:13:17 | INFO | Proje klasörü: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3
+2026-07-24 09:13:17 | INFO | Script klasörü: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\scripts
+2026-07-24 09:13:17 | INFO | Rapor klasörü: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\reports
+2026-07-24 09:13:17 | INFO | Log dosyası: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\outputs\logs\pipeline_2026-07-24_09-13-17.log
+2026-07-24 09:13:17 | INFO | ------------------------------------------------------------
+2026-07-24 09:13:17 | INFO | Script başlatılıyor: clean_data.py
+2026-07-24 09:13:20 | INFO | Script çıktısı:
+=================================================================
+ESHOT VERİ TEMİZLEME VE DÖNÜŞTÜRME
+=================================================================
+
+Ham veri satır sayısı: 11783
+Ham veri sütun sayısı: 6
+
+Kontrol sonuçları:
+- Durak ID değerleri benzersiz: Başarılı
+- Tekrarlı durak-hat ilişkisi yok: Başarılı
+- Durak-hat referans kontrolü: Başarılı
+- Ham ve temiz veri tutarlılığı: Başarılı
+- stop_routes içinde boş route_number yok: Başarılı
+- Geçerli koordinatlar aralık içinde ve dolu: Başarılı
+- Geçersiz koordinatlarda en az bir sorun var: Başarılı
+- Hatsız durak sayısı eksik+parse edilemeyen ile tutarlı: Başarılı
+- Reddedilen satırlarda kaynak satır bilgisi korunmuş: Başarılı
+
+=================================================================
+VERİ TEMİZLEME SONUÇLARI
+=================================================================
+Ham veri satır sayısı       : 11783
+Geçerli durak ID sayısı     : 11782
+Temiz durak sayısı          : 11782
+Benzersiz hat sayısı        : 441
+Durak-hat ilişkisi sayısı   : 31356
+Veri kalitesi sorunu sayısı : 89
+Reddedilen satır sayısı     : 1
+
+Oluşturulan dosyalar:
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\data\processed\stops_clean.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\data\processed\stop_routes.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\data\processed\data_quality_issues.csv
+- C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\data\processed\rejected_rows.csv
+
+Veri temizleme işlemi başarıyla tamamlandı.
+2026-07-24 09:13:20 | INFO | clean_data.py başarıyla tamamlandı. Süre: 2.67 saniye
+2026-07-24 09:13:20 | ERROR | Pipeline başarısız oldu: Script bulunamadı: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\scripts\build_database_test.py
+Traceback (most recent call last):
+  File "c:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\run_pipeline.py", line 527, in main
+    ] = run_script(
+        ~~~~~~~~~~^
+        "build_database_test.py",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+        logger,
+        ^^^^^^^
+    )
+    ^
+  File "c:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\run_pipeline.py", line 134, in run_script
+    raise FileNotFoundError(
+        f"Script bulunamadı: {script_path}"
+    )
+FileNotFoundError: Script bulunamadı: C:\Users\ElifSimal\Desktop\veri_analizi\eshot_analytics_project3\scripts\build_database_test.py
+2026-07-24 09:13:20 | ERROR | Hata nedeniyle sonraki adımlara geçilmedi.

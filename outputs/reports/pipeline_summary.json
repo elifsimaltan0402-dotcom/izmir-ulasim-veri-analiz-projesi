@@ -1,0 +1,25 @@
+{
+    "pipeline_status": "success",
+    "started_at": "2026-07-24T16:33:52",
+    "finished_at": "2026-07-24T16:34:08",
+    "total_duration_seconds": 15.34,
+    "raw_record_count": 11783,
+    "clean_stop_count": 11782,
+    "rejected_record_count": 1,
+    "unique_route_count": 441,
+    "stop_route_relation_count": 31356,
+    "data_quality_issue_count": 89,
+    "valid_coordinate_count": 11776,
+    "invalid_coordinate_count": 6,
+    "script_durations_seconds": {
+        "clean_data": 3.21,
+        "build_database": 1.36,
+        "sql_analysis": 3.09,
+        "advanced_sql_analysis": 1.54,
+        "route_network_analysis": 2.14,
+        "network_analysis": 3.91,
+        "pipeline_validation": 0.08
+    },
+    "log_file": "C:\\Users\\ElifSimal\\Desktop\\veri_analizi\\eshot_analytics_project3\\outputs\\logs\\pipeline_2026-07-24_16-33-52.log",
+    "error_message": null
+}
