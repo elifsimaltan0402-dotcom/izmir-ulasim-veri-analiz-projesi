@@ -1,0 +1,33 @@
+# Sanal ortamlar
+.venv/
+venv/
+env/
+
+# Python geçici dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest ve test önbelleği
+.pytest_cache/
+.coverage
+htmlcov/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Editör ayarları
+.vscode/
+.idea/
+*.code-workspace
+
+# Streamlit gizli bilgileri
+.streamlit/secrets.toml
+
+# Geçici log dosyaları
+outputs/logs/*.log
+
+# Geçici dosyalar
+*.tmp
+*.temp
